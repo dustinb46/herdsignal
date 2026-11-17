@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-16",
+  "intro": "Today's news sits almost entirely off the price board. USDA published the operating conditions for vaccinating animals against H5N1, written for zoos but carrying the rules a herd program would inherit. A botulism recall on purchased hay cubes, a fermentation filing on whey's main protein, and a 4.1% drop in British milk deliveries fill in the cost, competition and supply sides of the day.",
+  "items": [
+    {
+      "section": "Animal health",
+      "headline": "USDA has written the paperwork for vaccinating mammals against H5N1, for zoos and not dairies",
+      "body": "APHIS published a notice on November 16 (docket APHIS-2026-1189) saying it will ask OMB to approve a new information collection for HPAI vaccination in zoos and animal sanctuaries. A participating facility must file an HPAI Vaccination Plan showing oversight by a USDA-accredited Category II veterinarian, individual animal identification and recordkeeping, adequate biosecurity, and separation of vaccinated animals from specified domestic poultry species. Required testing runs through National Animal Health Laboratory Network labs. APHIS estimates 160 respondents and will take comments through January 15, 2027.",
+      "why": "Every condition in this notice (an approved plan, an accredited veterinarian, animal ID, NAHLN testing, separation from poultry) is the plumbing any livestock vaccination program would run on. It is the clearest look yet at what USDA would ask of a herd if a cattle vaccine is ever authorized.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-16/html/2026-23302.htm",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Purchased hay cubes recalled over botulism risk after horse deaths in the Southwest",
+      "body": "FDA posted Laub's Feeding & Cubing's voluntary recall of Grade A Mini Hay Cubes on November 10 for potential Clostridium botulinum contamination. The product sold October 3 through October 31 in 1,500-pound totes and in bulk from two Utah points of sale, and moved into Utah, northern Arizona, Nevada and southern California. The Utah Department of Agriculture and Food had received reports of sick horses in southern Utah, including one farm where several became ill and three died.",
+      "why": "Botulinum toxin in bought forage gives no warning at the bunk, and one bad load blended into a mixed ration exposes a whole group at once. October forage receipts are worth tracing back to the supplier before the next load goes in the mixer.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/laubs-feeding-cubing-inc-voluntary-recalls-grade-mini-hay-cubes-because-potential-clostridium",
+      "source_name": "FDA"
+    },
+    {
+      "section": "Technology",
+      "headline": "Whey's main protein has been filed for approval in Europe as a fermentation product",
+      "body": "Danish biotechnology company 21st.BIO said on November 12 that it has filed an EU Novel Food application for BLG Essential+, its technology for making bovine beta-lactoglobulin, the main protein in whey, by precision fermentation in Aspergillus oryzae. The company says it obtained US approval to sell in October 2025. It is also asking EU regulators for a fast-track pathway for well-characterised, nature-identical proteins made in host strains with a record of safe use.",
+      "why": "The protein premium is what makes the whey stream the most valuable thing leaving a cheese vat. The first industrially backed non-cow source of that same molecule is now in the approval queue in a market that buys US whey protein.",
+      "url": "https://news.cision.com/21st-bio/r/21st-bio-files-eu-novel-food-application-for-blg-essential--and-calls-for-a-european-home-market-for,c4423272",
+      "source_name": "21st.BIO"
+    },
+    {
+      "section": "Policy",
+      "headline": "New Zealand adds two weeks to the review of the law that governs its dominant co-op",
+      "body": "New Zealand's Ministry for Primary Industries extended the deadline for written submissions on the issues paper for the 2026-27 statutory review of the Dairy Industry Restructuring Act 2001 by two weeks, to 5pm on Monday, December 7, 2026. MPI also added a short survey for dairy farmers about competition in the sector and released the submissions it received on the key questions in the review's terms of reference.",
+      "why": "DIRA sets the terms on which New Zealand's dominant processor has to take on and release farmer supply. What this review recommends changes how fast rival processors there can grow, and New Zealand's export supply is the benchmark US sellers are priced against in Asia and the Middle East.",
+      "url": "https://www.mpi.govt.nz/consultations/issues-paper-for-the-202627-review-of-the-dairy-industry-restructuring-act-2001",
+      "source_name": "NZ Ministry for Primary Industries"
+    },
+    {
+      "section": "Global supply",
+      "headline": "Britain's October milk deliveries fell 4.1%, and the milk-year forecast is down 284 million litres",
+      "body": "AHDB reports GB milk deliveries of 1,053.24 million litres in October, 4.1% below a year earlier though still 2.0% above the five-year average. Deliveries for the milk year to date, April 1 through October 31, stand at 7,450.18 million litres, 2.6% lower year on year. AHDB's forecast now has the 2026/27 milk year falling by 284 million litres, or 2.2%, on falling milk prices, rising input costs, continuing bluetongue effects and a hot, dry summer that strained forage.",
+      "why": "A pool shrinking at that rate keeps British and European processors buying rather than selling into the same export lanes US product moves through.",
+      "url": "https://ahdb.org.uk/news/gb-milk-deliveries-milk-deliveries-in-october-drop-4-year-on-year-as-producer-margins-are-eroded",
+      "source_name": "AHDB"
+    },
+    {
+      "section": "Herd management",
+      "headline": "Three post-fresh calcium boluses, three different blood curves, and the same cows a year later",
+      "body": "A trial published October 30 in Frontiers in Veterinary Science enrolled 90 Holstein cows already diagnosed with subclinical hypocalcemia at calving in a 3,102-cow commercial herd. Cows were randomly assigned to an active vitamin D3 bolus, a calcium chloride/sulfate bolus, or a calcium formate/acetate/sulfate bolus. Blood calcium curves differed over the first 48 hours. Across the following year the authors report no significant differences among the groups in annual milk yield, rumination time, inseminations per pregnancy or pregnancy rate (all p > 0.05).",
+      "why": "If a fresh-cow calcium protocol is justified by the blood values it produces, this trial says the difference stops at the blood. That makes the choice between formulations a cost decision, at least in cows already flagged as subclinically hypocalcemic.",
+      "url": "https://www.frontiersin.org/articles/10.3389/fvets.2026.2024635/full",
+      "source_name": "Frontiers in Veterinary Science"
+    }
+  ]
+}

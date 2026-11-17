@@ -1,0 +1,56 @@
+name: Collect brief from run branch
+
+# Each scheduled run pushes to its own claude/... branch. This copies ONLY the issue
+# files and the ledger from that branch onto main, checks that the site still builds,
+# then starts the publish workflow. Nothing else on the branch can reach main.
+
+on:
+  push:
+    branches: ["claude/**"]
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Copy issue files and ledger from the run branch
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git fetch --depth 1 origin "refs/heads/$BRANCH"
+          for path in issues ledger.json; do
+            if git cat-file -e "FETCH_HEAD:$path" 2>/dev/null; then
+              git checkout FETCH_HEAD -- "$path"
+            fi
+          done
+
+      - name: Check that the site builds
+        run: python3 build.py
+
+      - name: Save to main and start publishing
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git add issues ledger.json
+          if git diff --cached --quiet; then
+            echo "Nothing new on $BRANCH."
+            exit 0
+          fi
+          git config user.name "herdsignal-publisher"
+          git config user.email "herdsignal-publisher@users.noreply.github.com"
+          git commit -m "Brief from $BRANCH"
+          git push origin HEAD:main
+          gh workflow run publish.yml --ref main
