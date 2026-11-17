@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-11",
+  "intro": "Butterfat is in surplus and milk protein is scarce, and USDA spent this week putting numbers on both: October's Class IV price finished $5.38 above Class III, and Tuesday's WASDE now forecasts nonfat dry milk out-earning butter per pound in 2027. Everything else today, widening input costs, two new H5N1 states, dryers abandoning skim milk powder, and two federal comment windows closing inside a fortnight, follows from that same split.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "October class prices split by $5.38, Class IV $20.54, Class III $15.16",
+      "body": "USDA's final Federal order class prices for October put Class IV at $20.54 per hundredweight, up $1.60 from September, while Class III fell 88 cents to $15.16. Class II landed at $19.15, up $1.55, and the October butterfat price was $1.3780 per pound.",
+      "why": "A $5.38 gap between the two manufacturing classes means your October pay price was set mostly by your handler's utilization mix, not by anything that happened at your bulk tank, and Class III-weighted cheese regions are carrying the loss.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Milk price",
+      "headline": "WASDE lifts 2026 milk prices but cuts the 2027 butter forecast to $1.465",
+      "body": "Tuesday's WASDE raised the 2026 all-milk forecast to $20.10 from $19.90, Class IV to $19.10 and Class III to $16.05. Nonfat dry milk was raised to $1.755 for 2026 and $1.800 for 2027 on \"continued strength of consumer demand for high protein products,\" while butter was cut in both years, to $1.550 and $1.465, \"due to growth in the milkfat supply outpacing demand.\"",
+      "why": "USDA now expects powder to out-earn butter per pound in 2027, which inverts the component economics that a decade of fat-first breeding, feeding and component-premium decisions was built on.",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde1126.pdf",
+      "source_name": "USDA WASDE-677"
+    },
+    {
+      "section": "Inputs",
+      "headline": "The cost scissors widened again in September: inputs up 5.2%, milk down 4.4%",
+      "body": "NASS put the September all-milk price at $19.50 per hundredweight, 90 cents below a year earlier and 30 cents below August, with the dairy prices-received index down 4.4% year over year. The prices-paid index rose to 160.5, up 5.2%, on higher diesel, complete feeds and concentrates. The ratio of prices received to prices paid slipped to 83 from 87. Alfalfa hay averaged $208 a ton against $172 last September; soybeans $12.20 a bushel against $9.93.",
+      "why": "Both blades are moving the wrong way at once, so a flat milk check in 2027 is a real-terms pay cut: price the ration before you price the milk when you set next year's budget.",
+      "url": "https://release.nass.usda.gov/reports/agpr1026.pdf",
+      "source_name": "USDA NASS Agricultural Prices"
+    },
+    {
+      "section": "Animal health",
+      "headline": "H5N1 picks up two new dairy states in eight days, Indiana, then Oregon",
+      "body": "APHIS confirmed H5 clade 2.3.4.4b in an Oregon dairy herd on November 10, the state's first case, taking the national total to 22 states since the outbreak began in March 2024. Indiana's first detection came on November 2, genotype B3.13, when the count stood at 21. Both were caught by routine National Milk Testing Strategy sampling rather than pre-movement testing, and the Oregon herd had tested negative in earlier routine screens.",
+      "why": "USDA's own weekly market report already attributes declining Pacific Northwest milk supplies to confirmed HPAI cases, so this is a supply event and not just a surveillance headline, and a clean NMTS history is clearly not evidence a herd is clean.",
+      "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-oregon",
+      "source_name": "USDA APHIS"
+    },
+    {
+      "section": "Policy",
+      "headline": "Objections to the FDA's salt-substitute rewrite of dairy standards close tomorrow",
+      "body": "The FDA's final rule adding salt substitutes as an optional ingredient in standardized foods published October 13 and takes effect December 14, 2026. Objections or hearing requests specifically on the amendments to the dairy standards of identity in 21 CFR parts 131 and 133 must be filed by November 12, 2026, under Docket No. FDA-2022-N-2226. The rule notes that late filings will not be considered.",
+      "why": "The composition rules for standardized milk products and cheeses are being reopened, and tomorrow is the last day a producer group or cooperative can formally contest how that language lands.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20848.pdf",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Processing",
+      "headline": "Butter output jumped 10.9% in September, and the spot price is under $1.29",
+      "body": "September butter production reached 204 million pounds, 10.9% above September 2025 and 8.9% above August. USDA's weekly report has CME Grade AA butter closing the week of November 2-6 at $1.2650 with a weekly average of $1.2895, down 2.50 cents, and notes that holiday buying interest at the start of November is sluggish against a year ago. One-pound conventional butter was advertised in 1,990 Northeast stores at a weighted average $3.66, against 752 stores at $4.11 last year.",
+      "why": "Churns are running hard into a market that is being cleared by retail discounting rather than by demand, which is what is pulling your butterfat premium down even while your cows test well.",
+      "url": "https://release.nass.usda.gov/reports/dary1126.pdf",
+      "source_name": "USDA NASS Dairy Products"
+    },
+    {
+      "section": "Processing",
+      "headline": "Dryers are walking away from skim milk powder: output down 58.8% in a year",
+      "body": "September skim milk powder production fell to 19.1 million pounds, 58.8% below September 2025 and 33.8% below August. Over the same month, nonfat dry milk for human food rose 3.7% to 129 million pounds and total milk protein concentrate jumped 27.8% to 26.3 million pounds.",
+      "why": "Plants are re-pointing dryer time at the higher-value domestic protein stream, so the export-spec SMP capacity your cooperative can fall back on has thinned out right as powder is doing the heavy lifting in the Class IV price.",
+      "url": "https://release.nass.usda.gov/reports/dary1126.pdf",
+      "source_name": "USDA NASS Dairy Products"
+    },
+    {
+      "section": "Processing",
+      "headline": "American cheese output fell 2.5%, and stocks still built",
+      "body": "American-type cheese production was 464 million pounds in September, 2.5% below a year earlier and 3.0% below August, while total cheese output rose just 0.7% to 1.23 billion pounds. USDA reports September natural American cheese stocks ran 5% above year-ago levels nationally, and 5.9% higher in New England, Middle Atlantic and South Atlantic warehouses, per the NASS Cold Storage report.",
+      "why": "Inventory building on falling production points at demand rather than supply as the drag on Class III, which is the harder problem to fix and the one least likely to resolve on its own by spring.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Policy",
+      "headline": "USDA reopens the 150,000-pound exempt-plant line for the first time since 1999",
+      "body": "AMS has issued a request for information on the monthly route-sales limit inside the exempt plant definition, the 150,000-pounds-or-less threshold set by the Order Reform final rule published September 1, 1999 (64 FR 47898), and is asking whether and how marketing conditions have changed since. Comments close November 23, 2026, under Doc. No. AMS-DA-26-0298.",
+      "why": "That number decides which fluid bottlers can operate outside Federal order pooling and minimum prices, so moving it changes who is allowed to undercut your handler on the Class I business that funds your blend price.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21668.pdf",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Trade",
+      "headline": "New Zealand processed a record 2.02 billion kgMS, and lifted its payout forecast again",
+      "body": "USDA's International Dairy Market News reports DairyNZ's 2025/26 season statistics show New Zealand dairy companies processed a record 2.02 billion kilograms of milk solids, the first time output has passed the 2-billion mark. New Zealand forecasters have raised the 2026/27 season milk price to $10.43 per kilogram of milk solids, with a forecast range of $10.23 to $10.83, and the September 2027 milk price futures contract last settled at $10.55/kgMS.",
+      "why": "Your largest export competitor is adding volume and getting paid more for it at the same time, which caps how much of the current powder strength US exporters can actually hold onto into 2027.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-12",
+  "intro": "Washington spent the holiday-shortened week rewriting dairy's demand channels and its ingredient rules while the price boards sat still: a $44.6 billion SNAP reduction, next year's federal food-bank list, and three solvents coming off the approved route for making the colorant in yellow cheddar. The longer-dated item is quieter, a soybean engineered to grow bovine casein opened its comment window today.",
+  "items": [
+    {
+      "section": "Biotech",
+      "headline": "A soybean engineered to grow cow casein just entered USDA's deregulation queue",
+      "body": "APHIS published a notice today seeking comment on a petition from Mozza Foods, Inc. for nonregulated status for MF1786-1 soybean, engineered to express the bovine alpha S1, beta and kappa casein proteins and the FAM20C kinase in its seeds while reducing soybean glycinin. The petition is APHIS Petition Number 25-239-01p, filed under Docket No. APHIS-2026-0562; APHIS has released its draft plant pest risk assessment alongside it, and comments close January 11, 2027.",
+      "why": "If casein can be farmed as a row crop rather than milked, the protein that gives cheese its structure stops being something only a cow can supply, and the comment window that closes January 11 is the only formal chance to put dairy's objections on that record.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-12/pdf/2026-23015.pdf",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Demand",
+      "headline": "USDA proposes a SNAP change it scores at $44.6 billion less in benefits over five years",
+      "body": "A proposed rule published November 10 would limit SNAP categorical eligibility to households receiving TANF assistance as defined at 45 CFR 260.31. USDA's own regulatory impact analysis estimates the change would cut federal SNAP benefit spending by approximately $44.649 billion over FY 2027-FY 2031, and that about 16.9 percent of participating households, 3.2 million households containing 6.3 million individuals, would no longer receive benefits in FY 2029. It also estimates 1.78 million children would lose categorical eligibility for free school meals. Comments are due December 10, 2026, as they are on a companion proposed rule published the same day tightening SNAP work-requirement time limits.",
+      "why": "SNAP and school meals are two of the largest single buyers of fluid milk and American cheese in the country, so this is a demand-side number far bigger than any of this autumn's government dairy purchases, and it runs the other way.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22936.pdf",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Diesel has come off 22.5 cents in two weeks, and is still $2.29 above last year",
+      "body": "EIA's November 10 update puts the U.S. average on-highway diesel price at $6.127 a gallon for the week of November 9, down 16.5 cents from the prior week and down from $6.352 two weeks earlier. The same release has diesel $2.290 a gallon above a year ago and $2.606 above two years ago. The Midwest average fell 20.1 cents to $6.201, the Rocky Mountain region fell 23.9 cents to $6.206, and California stands at $7.897.",
+      "why": "Two weeks of relief does not change the budget math: hauling, feed delivery and custom harvest are all still being quoted off a fuel price more than half again what it was last November.",
+      "url": "https://www.eia.gov/petroleum/gasdiesel/",
+      "source_name": "the U.S. Energy Information Administration"
+    },
+    {
+      "section": "Herd management",
+      "headline": "Moving fresh cows out at 7 days instead of 21 was worth 9.6% more energy-corrected milk",
+      "body": "A randomized trial published November 10 assigned 817 multiparous Holstein cows on two farms, in cohorts of 45 to 50 every two weeks, to leave the first postpartum pen at 7, 14 or 21 days in milk. Cumulative to 305 DIM, the 7-DIM cows produced 9.4 percent more milk fat (P = 0.029) and 9.6 percent more energy-corrected milk (P = 0.017) than the 21-DIM cows, with milk protein 8.2 percent higher (P = 0.059) and a shorter time to pregnancy (P = 0.005). Health status did not differ among groups, and culling through 305 DIM only tended to be lower (P = 0.081).",
+      "why": "This is a pen-move date, not a purchase, and the trial says holding fresh multiparous cows back to three weeks bought no measurable health benefit while costing component yield and days open.",
+      "url": "https://academic.oup.com/jas/advance-article/doi/10.1093/jas/skag359/9029914",
+      "source_name": "the Journal of Animal Science"
+    },
+    {
+      "section": "Processing",
+      "headline": "FDA is pulling three solvents off the approved list for making annatto, the colorant in yellow cheddar",
+      "body": "On a petition from the International Association of Color Manufacturers, FDA is amending its color additive regulations to remove methylene chloride, trichloroethylene and ethylene dichloride from the authorized extraction solvents for annatto extract (21 CFR 73.30), paprika oleoresin (73.345) and turmeric oleoresin (73.615). The agency granted the request on the basis of abandonment, on data showing the uses have been permanently abandoned. The order, published November 10 under Docket No. FDA-2026-C-3071, takes effect January 11, 2027, and objections or hearing requests are due December 10, 2026.",
+      "why": "After the effective date, annatto extract made with any of those three solvents is no longer lawfully listed, so the practical work falls on cheese plants and their colorant suppliers to confirm what extraction route their current annatto came through.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22866.pdf",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Demand",
+      "headline": "The federal food-bank shopping list for 2027 is out, and whole milk and high-protein yogurt are on it",
+      "body": "USDA's November 10 notice sets out what it expects to make available through The Emergency Food Assistance Program in fiscal 2027. The Secretary is directed to purchase an estimated $481.500 million of foods for TEFAP in FY 2027, and roughly $360 million in surplus foods acquired in FY 2026, a list that includes butter, cheese and milk, is being delivered to states during FY 2027. The FY 2027 dairy list runs to fresh whole, skim and 1% milk, shelf-stable UHT milk, shredded and chunk yellow cheddar, reduced-fat American loaves, and three flavors of high-protein yogurt.",
+      "why": "This is the one federal dairy demand channel with a published forward list, and it now reads the way the market does, protein-forward, with whole milk back in and butter moving only as surplus.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22876.pdf",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Animal health",
+      "headline": "USDA is hiring 228 people to run the sterile-fly plant that is supposed to stop screwworm",
+      "body": "APHIS announced on November 10 that it has begun hiring 228 positions for the New World Screwworm Sterile Fly Production Facility in Edinburg, Texas, which the agency bills as the nation's largest facility of its kind. A hiring event runs in McAllen, Texas, November 17-19, 2026, with applications also open through USAJobs.gov. The agency's program pages state production at the site will approach approximately 500 million sterile flies per week.",
+      "why": "Sterile-fly output is the rate limiter on how long movement restrictions and infested-zone orders keep disrupting cattle hauling across the Southwest, and the plant is still at the staffing stage.",
+      "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-begins-hiring-nations-largest-facility-combat-new-world-screwworm",
+      "source_name": "USDA APHIS"
+    }
+  ]
+}
