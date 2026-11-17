@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-17",
+  "intro": "USDA confirmed avian influenza in an Oklahoma dairy herd on Monday, the same day the cheese board pulled apart again and blocks gave up 2.75 cents. The rest of the day's news sits at the cow and the carton rather than the exchange: September fluid sales show whole milk gaining while skim falls away, organic pay prices slid for a third month, and two new trials put numbers on dry period length and on a non-antibiotic dry-off treatment.",
+  "items": [
+    {
+      "section": "Animal health",
+      "headline": "USDA confirms H5N1 in an Oklahoma dairy herd",
+      "body": "USDA's Animal and Plant Health Inspection Service confirmed highly pathogenic avian influenza in an Oklahoma dairy herd on November 16. APHIS has not released the county or the location of the affected herd. The Oklahoma Department of Agriculture, Food and Forestry is asking dairy producers to strengthen biosecurity, stay in regular contact with their herd veterinarians, and watch for reduced feed intake, decreased milk production, reduced rumination, thick colostrum-like milk, dehydration and fever. State and federal officials say the detection poses no food safety concern, citing federal animal health requirements and pasteurization. Suspected cases go to ODAFF at 405-522-6141.",
+      "why": "With the location withheld, no neighbouring operation can judge its own proximity risk, which leaves herd-level biosecurity and the bulk tank as the only controls a producer actually holds. Oklahoma sits on the hauling corridor that moves cattle, feed and milk between the Texas panhandle and the central plains, so the practical exposure here is traffic, not geography.",
+      "url": "https://www.oklahomafarmreport.com/2026/11/16/usda-confirms-case-of-highly-pathogenic-avian-influenza-in-an-oklahoma-dairy-herd/",
+      "source_name": "Oklahoma Farm Report"
+    },
+    {
+      "section": "Milk price",
+      "headline": "Blocks dropped 2.75 cents Monday and reopened the barrel premium to 7 cents",
+      "body": "USDA's CME daily report for Monday, November 16 has 40-pound cheddar blocks closing at $1.5900, down 2.75 cents, while barrels slipped only half a cent to $1.6600. That puts barrels 7.00 cents above blocks, against 4.75 cents at Friday's close, when blocks finished at $1.6175 and barrels at $1.6650. Butter gained 2 cents to $1.2600 and extra grade dry whey added another cent to $0.9200, its highest close in the current series. Grade A nonfat dry milk eased half a cent to $2.0300.",
+      "why": "The barrel over block inversion looked like it was closing on Friday, and one session put most of it back. If your milk is priced off a plant on the block side of that spread, the gap is again running against you, while the whey climb is the one part of the Class III build still moving the right way.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1603.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Demand",
+      "headline": "September fluid sales: whole milk up 5.4%, skim down 25.5%",
+      "body": "Handlers shipped 3.6 billion pounds of packaged fluid milk products in September, 0.7% below a year earlier. Underneath that flat total, conventional whole milk sales rose 5.4% to 1,306 million pounds and flavored whole milk rose 16.8% to 84 million pounds, while fat-free (skim) fell 25.5% to 128 million pounds, flavored fat-reduced fell 16.0% to 288 million and 1% fell 9.5% to 334 million. Total conventional fat-reduced milk was down 6.9% for the month and 4.9% year to date. Reduced fat (2%) milk, still the second largest category at 897 million pounds, rose 1.2%.",
+      "why": "The bottling side of the business is not shrinking so much as rotating into butterfat, and that rotation decides how much cream a Class I plant has to move out and at what multiple. A fluid pool holding its volume on whole milk puts a different demand on your handler's butterfat balance than one holding it on skim.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Herd management",
+      "headline": "In 44,894 dry periods, the yield peak sat at about 55 days and every extra 10 days raised displaced abomasum risk",
+      "body": "A retrospective study published November 16 in Animal Bioscience analysed 44,894 dry period records from 17,975 cows on 10 commercial dairies between January 2018 and May 2026, modelling dry period length as a continuous variable with restricted cubic splines. Median dry period length was 58 days. Predicted 305-day milk yield peaked at roughly 55 to 56 days: against the 58-day reference, yield was 894.9 kg lower at a 30-day dry period and 600.0 kg lower at 120 days. Each 10-day increase in dry period length was associated with a higher hazard of displaced abomasum (hazard ratio 1.14, 95% CI 1.09 to 1.20). The authors report no significant overall association with mastitis or death, and decline to name a single optimal target because the associations shift over the postpartum period.",
+      "why": "Both ends of the dry pen cost yield, and the penalty for a short dry period is the larger of the two at roughly 895 kg on the next lactation. The displaced abomasum finding is the one that argues against letting late-bred cows drift long, because that risk accumulates steadily rather than appearing at some threshold.",
+      "url": "https://www.animbiosci.org/journal/view.php?doi=10.5713/ab.260748",
+      "source_name": "Animal Bioscience"
+    },
+    {
+      "section": "Udder health",
+      "headline": "A field trial of platelet lysate at dry-off, and the quieter result is that sealant alone held its own",
+      "body": "A non-randomised controlled field trial published November 16 in Frontiers in Veterinary Science enrolled 605 quarters from 165 cows on 17 commercial dairies in Veneto, Italy. Quarters received internal teat sealant alone, antimicrobial plus sealant, or autologous platelet lysate plus sealant. In healthy quarters (linear score 4 or below, n = 446), the change in linear score did not differ among the three groups (p = 0.5638). In quarters with elevated linear score, the difference between antimicrobial and platelet lysate did not reach significance (p = 0.0936), though in the culture-negative and non-aureus staphylococci subgroups the antimicrobial arm did better (adjusted p = 0.0360). Of 293 platelet lysate preparations, 275 (93.9%) were bacteriologically negative. No clinical mastitis was recorded in any group in the 30 days after calving. The authors call platelet lysate feasible and possibly antimicrobial-sparing, but say it does not replace antimicrobials in high linear score quarters, and that larger randomised trials are needed.",
+      "why": "The headline treatment is years from a product, but the control arm is usable now: in quarters that were already healthy at dry-off, teat sealant alone matched antibiotic plus sealant, which is the evidence selective dry cow therapy runs on. The subgroup result cuts the other way for quarters that are not clean, so the selection step is where the value sits, not the substitution.",
+      "url": "https://www.frontiersin.org/articles/10.3389/fvets.2026.2007365/full",
+      "source_name": "Frontiers in Veterinary Science"
+    },
+    {
+      "section": "Organic",
+      "headline": "Organic pay prices fell for a third straight month, and the butterfat behind them fell too",
+      "body": "The Pennsylvania Monthly Organic Dairy Report for August, released November 13 under USDA's Organic Data Initiative pilot, puts the weighted average organic fluid milk price at $40.18 per hundredweight before hauling deductions, down $1.44 from July's $41.62 and down from $42.63 in June. Weighted average butterfat slid to 3.98% from 4.22% in June, protein to 3.07% from 3.19%, and average daily production to 33.01 pounds per cow. Reported volume fell for a second month, to 759,366 pounds. The Vermont companion report released the same day shows the same direction, with that state's August weighted average at $37.88 per hundredweight, against $38.49 in July and $39.85 in June.",
+      "why": "Organic has no futures market and no spot board, so these two state pilots are the only public read on what an organic producer is actually being paid. Three months of decline in both, with butterfat falling alongside the price, means the component premium is not cushioning the slide the way it usually does.",
+      "url": "https://www.ams.usda.gov/mnreports/pn_da001.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Inputs",
+      "headline": "The late corn came off fast: harvest jumped 7 points in a week to 88%",
+      "body": "Monday's Crop Progress report put corn harvested at 88% across the 18 major states for the week ending November 15, up from 81% a week earlier and now 4 points behind the 2021-2025 average of 92%. The two states furthest behind both closed ground: Iowa moved from 72% to 84% against a 95% average, and South Dakota from 68% to 78% against 92%. Ohio reached 80% against an 86% average, Michigan 73% against 78%, and Wisconsin pulled level with its average at 84%.",
+      "why": "Last week's worry was a fifth of the crop standing into late November and competing for the same dryers and trucks. A 12-point week in Iowa says that queue is clearing, which should take some of the premium out of drying and hauling quotes before the ration gets priced for winter.",
+      "url": "https://release.nass.usda.gov/reports/prog4626.pdf",
+      "source_name": "USDA NASS"
+    }
+  ]
+}

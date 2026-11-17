@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-10",
+  "intro": "The fat-versus-solids split that has defined 2026 has stopped being a domestic story: U.S. butterfat is now the deepest-discounted fat in the developed world while U.S. powder sits above every export origin USDA surveys. Underneath it, the whey rally holding up Class III still has not reached a milk check, and next year's condensed skim contracts are being written under scarcity.",
+  "items": [
+    {
+      "section": "Trade",
+      "headline": "U.S. butterfat is now the deepest-discounted fat in the developed world",
+      "body": "CME Grade AA butter closed Monday at $1.2600 a pound, about $2,778 a metric ton. USDA's own European survey, gathered through Nov. 6, puts West Europe 82% butter at $4,125 to $4,750 a metric ton, or roughly $1.87 to $2.15 a pound. European butter is therefore running 48% to 71% above the U.S. board, and Western U.S. churn operators are already telling USDA that export sales are up year over year while domestic holiday interest stays sluggish.",
+      "why": "Export pull on butterfat, not holiday retail, is the only credible floor under a Class IV check this quarter, and at this spread the pull should strengthen before the board does.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Trade",
+      "headline": "U.S. powder has priced itself above every export origin USDA surveys, just as Q1 2027 loads get booked",
+      "body": "Grade A nonfat dry milk closed Monday at $2.1825 a pound, about $4,812 a metric ton. USDA's bi-weekly international survey puts West Europe skim milk powder at $3,200 to $4,275 and Oceania skim at $3,975 to $4,100. U.S. powder now sits above the top of both ranges, and the same report notes European sellers discounting loads to free warehouse space while \"doing well contracting loads for Q1 of 2027.\" NDM and SMP carry different protein specs, but USDA surveys them side by side for exactly this comparison.",
+      "why": "The powder rally propping up Class IV is simultaneously handing first-quarter export volume to Europe and New Zealand, and those contracts are being signed now, not in January.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The whey rally is about 13 cents ahead of the survey that actually sets your milk check",
+      "body": "Extra grade dry whey closed the week at $0.8400 a pound with a weekly average of $0.8460, up another 1.5 cents, and added a cent more Monday to $0.8500. But October's National Dairy Products Sales Report, the survey the Class III other-solids price is built from, came in at $0.7191. For scale, USDA's own European survey puts West Europe dry whey at $1,800 to $2,375 a metric ton, or $0.82 to $1.08 a pound, so the U.S. spot price is no longer the cheap one.",
+      "why": "Class III prices off the NDPSR survey with a lag, so roughly 13 cents of whey strength is still in the pipeline for November and December checks, and it will unwind the same way if spot breaks.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Condensed skim is tight enough that suppliers are leaving 2027 contracts unfilled",
+      "body": "USDA reports condensed skim \"remains tight\" in the West with limited availability, and buyers now \"must also contract for other, more readily available fluid products in order to secure the contract.\" Some manufacturers are substituting nonfat dry milk, at $2.18 a pound, to fill ingredient gaps. Most pointedly: \"suppliers have left some 2027 condensed skim contracts unfilled because of current availability projections.\" In the East the picture is the same, described as \"tight and difficult to find.\"",
+      "why": "If a balancing or ingredient plant takes your milk, next year's terms are being written under scarcity right now, which is leverage on the farm side of a condensed skim or Class IV contract.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Markets",
+      "headline": "The East is clearing cheese and butter through the ad circular, not the price board",
+      "body": "In the Northeast, 1-pound conventional butter is advertised in 1,990 stores against 752 a year ago, at a weighted average of $3.66 versus $4.11. Six-to-eight-ounce conventional shred is in 3,604 stores against 2,157 a year ago, at $2.55 versus $2.58, roughly 67% more ad placements at essentially last year's shelf price. Behind that, September natural American cheese stocks in New England, Middle Atlantic and South Atlantic warehouses ran 5.9% above a year earlier.",
+      "why": "Heavier Eastern inventory is moving on promotion volume rather than price cuts, which is why blocks absorbed a 12.75-cent drop in their weekly average while barrels moved three-tenths of a cent.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Federal orders",
+      "headline": "In the three Western market areas, Class III is the only class still growing",
+      "body": "USDA reports that federal milk market data for market areas 51, 124 and 131 show Class I, II and IV all posting the largest year-over-year declines from 2025 to 2026, while Class III shows the strongest growth in fluid demand. That lands in a region where California output is rising week over week and Pacific Northwest output is falling on expanding avian influenza cases.",
+      "why": "Western milk is being routed to the cheese vat because bottling and drying demand is shrinking, so a Western producer's blend will increasingly track Class III, the class carrying the barrel-block inversion.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Inputs",
+      "headline": "A fifth of the corn crop is still standing, and the two states furthest behind are dairy states",
+      "body": "Monday's Crop Progress put corn harvested at 81% across the 18 major states, up from 74% a week earlier but still five points behind the 2021-2025 average of 86%. Iowa sits at 72% against an 89% average and South Dakota at 68% against 85%, each 17 points behind, the widest gaps in the report. Michigan is at 61%, Ohio 69%, and Wisconsin is the outlier at 72% against a 71% average.",
+      "why": "The corn that comes off last comes off wettest, and in Iowa and South Dakota that is a large share of the crop still competing for the same dryers, trucks and storage into late November.",
+      "url": "https://release.nass.usda.gov/reports/prog4526.pdf",
+      "source_name": "USDA NASS"
+    },
+    {
+      "section": "Processing",
+      "headline": "Cottage cheese is taking the protein dollar off cream cheese",
+      "body": "U.S. cottage cheese sales topped $2bn in 2025, up 19.2% in dollars and 13.9% in volume on Circana data. On Kraft Heinz's third-quarter earnings call, chief executive Steve Cahillane said Philadelphia gained share while overall cream cheese category consumption declined, and that the category is \"losing to cottage cheese and other more protein-forward products.\"",
+      "why": "A skim-solids product is displacing a cream product in the retail case, the same fat-versus-solids rotation that shows up as $2.18 powder against $1.26 butter, now visible in consumer demand rather than just the board.",
+      "url": "https://www.dairyreporter.com/Article/2026/11/09/cream-cheese-losing-to-cottage-cheese-as-protein-trend-reshapes-us-dairy-market/",
+      "source_name": "DairyReporter"
+    },
+    {
+      "section": "Food safety",
+      "headline": "A post-pasteurization E. coli recall is USDA's reminder of where contamination actually enters",
+      "body": "USDA's international report flags a South Australian recall of reduced fat milk in 1-litre and 2-litre bottles after routine testing found E. coli contamination, with a use-by date of Oct. 21, 2026 and distribution through independent retailers. USDA's own framing is the useful part: pasteurization is designed to eliminate harmful bacteria, but \"contamination can occur through equipment failures or post-pasteurization handling.\"",
+      "why": "Finished-product contamination traces to fill and handling equipment, not the pasteurizer, which is the part of a plant audit a milk supplier can actually ask about before a recall puts their tank in the trace-back.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    }
+  ]
+}

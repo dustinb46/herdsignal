@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-13",
+  "intro": "Washington moved on dairy's money and its land rules this week while the price boards sat nearly still: the processing-grant match came down and a rewrite of Western grazing fees opened a comment window that closes in a month. The sharper questions are in two courtrooms, one on whether a calf hutch satisfies a state cruelty statute, the other on who gets to fine a farm employer.",
+  "items": [
+    {
+      "section": "Policy",
+      "headline": "USDA drops the 25% match for dairy processing grants, and moves the deadline to January 4",
+      "body": "USDA has amended its fiscal 2026 funding notice for the Dairy Business Innovation Initiatives. AMS now states that \"cost sharing is required for subawards only,\" with subaward recipients providing 10 to 25 percent of the federal subaward amount as determined by the center administering the money; the original notice had applied a 25 percent match more broadly. Applications are now due January 4, 2027, approximately $12.65 million is available, and at least 50 percent of each initiative's funds must flow to subawards to dairy businesses.",
+      "why": "A farmstead processor or a dairy weighing a plant upgrade, a grazing transition or a new product line now faces a match as low as 10 percent instead of 25, and the window to apply closes January 4.",
+      "url": "https://www.ams.usda.gov/services/grants/dbi",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Policy",
+      "headline": "A grazing-rule rewrite for 16 Western states would add a surcharge on leased livestock",
+      "body": "A Forest Service proposed rule published November 12 would amend the regulations governing grazing and livestock use on the National Forest System at 36 CFR part 222. It would update permit issuance, eligibility and qualification provisions, establish a framework for adaptive response to drought, wildfire and similar disturbance events, and expand authorities for stewardship-oriented livestock use such as outcome-based or targeted grazing under a temporary permit. It would also \"revise grazing fee provisions to ensure consistent fee-setting across the national forests in the 16 contiguous Western States and the national grasslands, and establish a surcharge for authorized leasing of livestock by permittees.\" Comments are due December 14, 2026.",
+      "why": "Operations that summer replacement heifers or dry cows on Forest Service allotments, and anyone who leases cattle onto another permittee's allotment, would be priced under a new fee structure and a new leasing surcharge, and the only chance to shape it closes December 14.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-12/pdf/2026-23033.pdf",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Markets",
+      "headline": "Midwest plants are paying over Class for spot milk. In January they were getting it $2.51 under",
+      "body": "USDA's Dairy Monthly Averages, published November 5, puts the Central region's spot Class III milk price at $1.61 over Class for October, against $2.51 under Class in January and $3.80 under in April. The series turned positive in July and has stayed there. The current weekly report has Central spot Class III milk ranging from flat to $3.00 over Class, with spot availability tightening as Class I and Class IV processors increase intake.",
+      "why": "A four-dollar swing in what a plant will pay above or below Class for an extra load is the clearest evidence that Upper Midwest milk has gone from surplus to contested, which is leverage on hauling terms and premiums heading into 2027 contracts.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1623.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Processing",
+      "headline": "A 60-year-old Gulf Coast fluid plant closes January 9, taking about 150 jobs",
+      "body": "Company officials confirmed on November 10 that the Borden milk plant in Lafayette, Louisiana will permanently close on January 9, 2027, after more than six decades of operation, with nearly 150 employees losing their jobs. Workers who stay through the closing date were offered severance and bonus packages. An LSU economics professor emeritus told local reporters the direct losses should be at least doubled to account for the regional multiplier effect. Published counts range from 149 to 150; the state WARN notice has not been released publicly.",
+      "why": "One fewer Class I outlet on the Gulf means longer hauls and thinner bargaining in a region already redistributing milk: September Southeast Federal Order receipts rose while Florida's fell.",
+      "url": "https://www.acadiananewsfirst.com/2026/11/10/borden-plant-close-january/",
+      "source_name": "Acadiana News First"
+    },
+    {
+      "section": "Animal welfare",
+      "headline": "A California suit asks whether a calf hutch is an \"adequate exercise area\"",
+      "body": "An animal-protection nonprofit has sued a Riverside County calf-raising facility, arguing that individual calf crates violate California Penal Code section 597t, which requires an \"adequate exercise area\" for confined animals but does not define the term. Reporting published November 12 describes wooden crates of about 13 square feet per calf, calves kept in them for roughly nine weeks, and a facility whose most recent state water-board records list 4,200 calves. Dairy trade groups defend individual housing on the grounds that it permits individualized care and limits pathogen transmission; the operation had not answered the reporter's questions by publication.",
+      "why": "Individual hutches are standard practice on most US dairies, so a court reading 597t to reach them would put a statutory floor under pen dimensions in the largest milk-producing state, and hand a template to plaintiffs elsewhere.",
+      "url": "https://www.yahoo.com/news/us/articles/little-known-law-could-upend-133000029.html",
+      "source_name": "Vox (via Yahoo News)"
+    },
+    {
+      "section": "Oversight",
+      "headline": "GAO says USDA never showed its work on the reorganization that cut its workforce a fifth",
+      "body": "In a report published November 5 and publicly released November 9, GAO found that \"the extent to which USDA conducted and considered analysis before announcing the department's reorganization is unknown,\" and that USDA did not respond to its requests for information on the analyses behind the July 2025 plan to relocate thousands of positions to five hub locations. GAO puts the department's workforce decline at about 20 percent between December 2024 and March 2026, roughly 91,000 to 73,000 employees, with agency declines ranging from 12 percent at the Forest Service to 41 percent at the National Institute of Food and Agriculture.",
+      "why": "FSA county offices, APHIS disease response and NRCS cost-share all run on that headcount, so a department that cannot document its own service-delivery analysis is a poor bet for turnaround times on a DMC signup, an indemnity claim or a herd-status enrollment this winter.",
+      "url": "https://www.gao.gov/products/gao-27-108734",
+      "source_name": "the U.S. Government Accountability Office"
+    },
+    {
+      "section": "Labor",
+      "headline": "The Supreme Court heard argument on whether Labor can fine farm employers in its own forum",
+      "body": "The Court heard argument on November 10 in Department of Labor v. Sun Valley Orchards, No. 25-966. The two questions presented are whether Article III precludes the Department of Labor from adjudicating proceedings to collect monetary remedies from employers accused of violating H-2A and corresponding domestic worker employment terms, and whether 8 U.S.C. 1188(g)(2) authorizes the department to adjudicate those collection proceedings. Certiorari was granted April 27, 2026; the docket shows no decision.",
+      "why": "Dairies that use H-2A labor for forage and custom work, and any farm employer facing a DOL back-wage or civil-penalty assessment, could end up before a federal judge instead of an agency hearing officer, which changes both the cost and the odds of contesting one.",
+      "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-966.html",
+      "source_name": "the Supreme Court of the United States"
+    },
+    {
+      "section": "Trade",
+      "headline": "Australia's dairy industry is trying to kill its own EU trade deal over an A$830 million gap",
+      "body": "USDA's International Dairy Market News reports that the Australian Dairy Industry Council has urged Parliament to reject the proposed Australia-EU Free Trade Agreement unless concerns over fair market access are addressed. The council cites a dairy trade deficit of about A$830 million in 2025/2026, A$858 million of EU dairy products imported against A$28 million exported to Europe, and objects to the planned removal of Australia's A$1.22-per-kilogram tariff on EU cheese while Australian exports continue to face EU quotas and tariffs.",
+      "why": "Europe is placing cheese into the same Asia-Pacific accounts US exporters are courting, and a deal that opens Australia duty-free gives EU product a cheaper base in the region just as US cheese exports run at a record pace.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    }
+  ]
+}

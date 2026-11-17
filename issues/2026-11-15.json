@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-15",
+  "intro": "The price board split this week, powder shed 16.25 cents while whey added seven and the cheese barrel premium narrowed to under a nickel, but the sharper news for an operation sat off the board entirely, in feed and in calves. USDA's Friday hay reports describe Western dairies buying one small load at a time against a fuel cost that will not let delivered prices fall and an export channel that has already cleared the Columbia Basin's supply, while the most recent dedicated dairy-feeder sale traded $15 to $31 per hundredweight lower and five drought disaster designations quietly opened emergency credit across five states.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Powder lost 16.25 cents in a week while whey added 7, the two halves of your check moved opposite ways",
+      "body": "USDA's CME weekly recap for November 9-13 shows Grade A nonfat dry milk falling every session, from $2.1825 Monday to $2.0350 Friday, a weekly change of -$0.1625 and a weekly average of $2.0980, down 7.85 cents from the prior week. Grade AA butter closed Friday at $1.2400, down 2.5 cents on the week, with the weekly average at $1.2510, off 3.85 cents. Extra grade dry whey went the other way, rising in three of five sessions to close at $0.9100 for a weekly gain of 7 cents and a weekly average of $0.8710.",
+      "why": "Class IV is written off butter and powder and both fell; the other-solids value inside Class III is written off whey and it rose, so this week widened the gap between a Class IV plant's milk and a cheese plant's milk rather than lifting either.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1602.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Markets",
+      "headline": "The barrel premium is closing: barrels ended Friday 4.75 cents over blocks after blocks gained 5 cents on the week",
+      "body": "In the same USDA daily series, 40-pound cheddar blocks opened the week at $1.5725, ran to $1.6800 on Wednesday, then gave back 6 cents Thursday to finish at $1.6175, a net weekly gain of 5 cents. Barrels moved the other way, holding $1.7000 Monday and Tuesday before sliding to $1.6650, a weekly loss of 3.5 cents. Friday's closes leave barrels 4.75 cents above blocks, with weekly averages of $1.6830 for barrels and $1.6230 for blocks.",
+      "why": "The inversion that has been paying process-cheese plants a premium over block plants is narrowing fast, which matters if your milk is priced off a plant whose product mix sits on one side of that 4.75 cents.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1603.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Idaho dairies are buying hay one small load at a time, and USDA says fuel is what keeps the delivered price from falling",
+      "body": "USDA's Idaho direct hay report for the week ending November 13 calls demand moderate and alfalfa prices steady, and describes the standoff directly: \"Dairy's and feedlots are buying small loads at a time waiting for prices to come down before buying big lots, with diesel fuel prices reaching $6 a gallon, most producers cant afford to deliver hay at cheaper prices.\" Western Idaho moved 1,000 tons of Supreme large-square alfalfa at $250.00 a ton F.O.B. to a dairy, with Premium trading $240.00-$250.00 and Good at $200.00-$220.00. The same report notes 66.40% of the state is in moderate drought or worse, 32.28% in severe or worse, 15.27% in extreme or worse and 4.45% in exceptional drought.",
+      "why": "Waiting for a better price only works if someone can afford to haul it to you, and USDA is saying plainly that they cannot, so the hand-to-mouth buying pattern is building a forage risk into the winter rather than saving money.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_3056.pdf",
+      "source_name": "USDA AMS Livestock, Poultry and Grain Market News"
+    },
+    {
+      "section": "Trade",
+      "headline": "Columbia Basin hay is sold out, and Chinese buyers have started asking for residue tests before loading",
+      "body": "USDA's Washington-Oregon (Columbia Basin) hay report for the week ending November 13 says all grades are steady with trade moderate to active, and that \"Most of the available supplies have been sold.\" It adds that \"Some Chinese export buyers are asking domestic exporters to test for chemical residues in hay before shipping,\" that exporters are having trouble getting hay onto ships at the port of Tacoma, and that some exporters are under financial strain. Confirmed volume was 45,775 tons against 52,010 tons in the previous report. Supreme alfalfa sold at $240.00 a ton F.O.B. to a dairy while Premium/Supreme went to export at $260.00 delivered and Good/Premium at $245.00 F.O.B. export.",
+      "why": "A Northwest dairy is bidding for forage against an export channel that is paying up but now carries testing and port risk, which is the one scenario that could push committed export tonnage back into the domestic market at a discount.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_3058.pdf",
+      "source_name": "USDA AMS Livestock, Poultry and Grain Market News"
+    },
+    {
+      "section": "Credit",
+      "headline": "USDA issued five drought disaster designations on Friday, and the contiguous-county rule makes the eligible area much larger than the headlines",
+      "body": "On November 13 the Farm Service Agency designated Scott County, Minnesota a primary natural disaster area for drought, with Carver, Dakota, Hennepin, Le Sueur, Rice and Sibley counties also eligible and an application deadline of July 2, 2027. The same day it designated Edmunds, Faulk and Walworth counties in South Dakota plus nine contiguous counties, and Baca and Lincoln counties in Colorado plus twelve contiguous Colorado counties and single counties in Kansas, New Mexico and Oklahoma, both with a June 21, 2027 deadline. Designations also went out for 11 Texas counties and Crawford County, Arkansas. The trigger in each case is a U.S. Drought Monitor reading of D2 for eight or more consecutive weeks, or D3 to D4.",
+      "why": "The designation unlocks FSA emergency loans that can be used to replace livestock, reorganize an operation or refinance certain debts, and because contiguous counties qualify, an operation can be eligible without ever appearing in the announcement.",
+      "url": "https://www.fsa.usda.gov/news-events/news/11-13-2026/usda-designates-scott-county-minnesota-natural-disaster-area-due",
+      "source_name": "USDA Farm Service Agency"
+    },
+    {
+      "section": "Animal health",
+      "headline": "In 1,779 calves, the lung score predicted whether pneumonia resolved. The serum total protein did not.",
+      "body": "A multifarm retrospective cohort published November 12 in The Bovine Practitioner followed calves diagnosed with bovine respiratory disease across eight commercial dairies in Ohio and Wisconsin between August 2022 and November 2025. Of 1,779 calves, 1,200 (67.5%) resolved and 579 (32.5%) failed, counting persistent lesions, death or culling. Each one-point increase in thoracic ultrasound severity at diagnosis raised failure risk by 53% (risk ratio 1.53; P < 0.01), and calves first caught at their second examination failed more often than those caught at the first (RR 1.50; P < 0.01). Early-life serum total protein showed no association with failure (P = 0.90).",
+      "why": "The colostrum number most operations already track told the researchers nothing about whether a treated calf would clear its lesions, while the ultrasound score and how early the calf was found told them a lot, which is an argument for screening earlier, not for recording more blood protein.",
+      "url": "https://bovine-ojs-tamu.tdl.org/bovine/article/view/9522",
+      "source_name": "The Bovine Practitioner"
+    },
+    {
+      "section": "Calf nutrition",
+      "headline": "A yeast postbiotic fed in whole milk moved frame and IgG but not a single kilogram of gain",
+      "body": "In a trial published November 13 in Frontiers in Veterinary Science, 30 Holstein calves received 0, 3.5 or 5 grams a day of Saccharomyces cerevisiae fermentation product in whole milk from 7 days of age to weaning at 70 days. Day-70 body weight was 103.50, 104.10 and 97.80 kg across the three groups (P = 0.406), and neither pre-weaning nor post-weaning average daily gain differed (P = 0.179 and P = 0.104). Withers height was higher in the supplemented groups, at 98.00, 108.50 and 104.88 cm (P = 0.006), and serum IgG rose at the high dose, 30.99, 29.39 and 47.55 mg/mL (P < 0.001). The authors call the sample small, note they did not measure how much product reached the rumen, applied no disease challenge, and decline to claim improved immune competence.",
+      "why": "If a milk-delivered additive is being sold to you on growth, this trial did not find growth, so ask the supplier for the bodyweight and gain tables rather than the immune panel.",
+      "url": "https://www.frontiersin.org/articles/10.3389/fvets.2026.2009350/full",
+      "source_name": "Frontiers in Veterinary Science"
+    },
+    {
+      "section": "Cull and calf market",
+      "headline": "At the one US auction dedicated to dairy feeders, steers traded $15 to $31 per hundredweight lower",
+      "body": "USDA's report on the Centennial Livestock monthly dairy feeder cattle sale in Fort Collins, Colorado, held November 2, says that compared with the previous sale \"Dairy feeder steers traded 15.00-31.00 lower\" on 1,770 head, against 1,931 head at the October 5 sale and 1,841 a year ago. The supply was 88% dairy steers and 12% dairy heifers. Large 3 steers at 308-346 pounds averaged $436.35 per hundredweight in a $420.00-$455.00 range, 400-423 pound steers averaged $384.57, and the heaviest offerings brought $269.00 at 732 pounds and $262.50 at 815 pounds. The next sale is December 7.",
+      "why": "On a 325-pound calf, $15 to $31 per hundredweight is roughly $49 to $101 a head off the October sale, and with this sale's next price discovery five weeks out, the calf check is the first place a softening beef market shows up in dairy income.",
+      "url": "https://www.ams.usda.gov/mnreports/AMS_1898.pdf",
+      "source_name": "USDA AMS Livestock, Poultry and Grain Market News"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-14",
+  "intro": "Class I and Class II plants spent this week outbidding the cheese vats for the marginal load of milk, pushing Midwest spot milk to $5.00 over Class while retailers cleared butterfat at a dollar under last year's advertised price. The rest of the week's news sat around the cow rather than on the price board: a labor union's warning about untested workers in Washington's outbreak, a whey complex that has quietly inverted, and a plant built for a mastitis treatment being converted to calf-scours production.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Spot milk reached $5.00 over Class this week, the top of the range gained $2.00 in seven days",
+      "body": "USDA's Central fluid milk report for November 9-13 puts Class III spot milk at $0.50 under to $5.00 over Class, with trade activity described as moderate. The same report a week earlier had the range at flat to $3.00 over. USDA says Class I and Class II processors continue to secure the available spot loads, \"leaving Class III processors with reduced availability,\" while upper-Midwest farm output runs average to slightly above average and Southwest production stays behind expectations. Midwest cream multiples are described as elevated, at 1.2500-1.5700 for all classes, with Class II processors absorbing a significant share of spot loads.",
+      "why": "Bottling and Class II plants are outbidding cheese vats for the marginal load, which is the strongest hand a Midwest shipper has held on hauling terms and volume premiums going into 2027 contract talks.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1100.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Animal health",
+      "headline": "A farm-labor union says symptomatic dairy workers are going untested in Washington's H5N1 outbreak",
+      "body": "In reporting published November 13, the United Farm Workers warned that H5N1 cases among Washington farm workers are being widely undercounted, saying \"more workers are sick with avian flu symptoms who have not been tested\" and that workers with milder symptoms are reluctant to be tested or to miss work. The union also says the protective equipment offered for handling raw milk is inadequate, usually goggles and gloves, and that workers \"need to be given real information and usable PPE.\" Three human cases tied to occupational contact with dairy cattle were reported in the Yakima Valley earlier this month; one of those patients, who had an underlying health condition, died. Officials say there is no evidence of human-to-human transmission and that risk to the general public remains low.",
+      "why": "A herd's exposure picture is only as good as the testing behind it, and the two controls that sit entirely inside the operation, usable PPE for milking and raw-milk handling and sick pay that does not penalize a worker for reporting symptoms, are precisely the ones being described as missing.",
+      "url": "https://www.yahoo.com/news/us/articles/union-warns-bird-flu-cases-165158113.html",
+      "source_name": "NewsNation (via Yahoo News)"
+    },
+    {
+      "section": "Inputs",
+      "headline": "The whey complex has inverted: commodity dry whey is tightening while WPC 80% loads are offered under $7",
+      "body": "For the week of November 9-13, USDA reported Central dry whey up at both ends of the range to $0.6850-$0.8500, with the mostly series three cents higher at $0.7600-$0.8300, on steady production, firm demand and recent plant downtime that pulled spot loads off the market, conditions tight enough that some buyers and sellers cannot participate in tenders. Whey protein concentrate 34% rose to $2.5000-$3.2000, up 14 cents at the bottom and 10 cents at the top, and USDA notes growing interest in producing WPC 34% to infant-formula specification. WPC 80% moved the other way: demand is \"steady to lighter,\" loads were offered below last week's prices, and \"the span includes under $7 to mid $9s.\" USDA adds that although prices for the higher-protein whey derivatives keep declining, manufacturers continue to prioritize their production.",
+      "why": "The Class III other-solids price is paid off commodity whey, and that is now the firm end of the market, while the high-protein premium that justified routing whey value away from cheese yield is the end that is eroding.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1053.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Markets",
+      "headline": "Butter is advertised a dollar below last year while cheese ad prices run 24% higher",
+      "body": "USDA's Northeast reports for November 9-13 have 1-pound conventional butter advertised in 2,619 stores at a weighted average $3.14, against 2,243 stores at $4.14 a year ago. In the same week, 6-to-8-ounce conventional shredded cheese was advertised in 4,254 stores at $2.82, against 1,285 stores at $2.28 last year, more than three times the placements at a price 54 cents higher. Churns are running up to seven days a week and butter makers are buying spot cream, while weekly holdings at selected storage centers show butter down 1.456 million pounds, or 3%, from the start of the month to 43.321 million pounds on November 9, and cheese up 1.249 million pounds, or 2%, to 80.690 million.",
+      "why": "Retailers are clearing butterfat with price and cheese with shelf space, so the butter drawdown now under way is discount-driven, which is why it is not turning up in your butterfat price.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1090.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Trade",
+      "headline": "Asia is pulling US cheese hard, and Europe has no spot cheese to answer with",
+      "body": "USDA's Western cheese report for November 9-13, citing Foreign Agricultural Service data, says US cheese exports are up 21% nationally from September 2025 to September 2026, with Indonesia up more than 40%, Japan up 29% and South Korea up 19%; contacts credit West Coast proximity for the Asian business. In the same week USDA's foreign-type cheese report describes European cheese demand as strong with spot inventories \"tight and difficult to find,\" most recent production committed to contract customers, and seasonally light milk leaving some cheesemakers running lighter schedules than they had anticipated. Western September output shows the mix shifting underneath that: mozzarella production in the West rose 2.8% year over year while cheddar fell 2.7% and American-type cheese fell 1.6%.",
+      "why": "Exports are the only channel adding cheese demand while US food service runs below expectations, and with Europe short of spot product that pull should hold into the first quarter, which is worth confirming with any plant that takes your milk and claims export business.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1085.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Processing",
+      "headline": "Condensed skim loosened in the West and stayed short in the East, USDA says Asian buyers backed off",
+      "body": "USDA's West fluid milk report for November 9-13 says condensed skim availability increased in the West this week, attributing it to unexpected facility downtime and \"decreased interest from Asian buyers.\" Three days earlier the same series had Western condensed skim tight, with suppliers leaving some 2027 contracts unfilled. The East has not changed: Class II needs are being met but Class III availability is \"insufficient,\" at flat to $0.30 over the respective Class II and Class III markets, and Northeast cream multiples increased at both ends to 1.3000-1.5700 while Western multiples slipped at the top to 1.1300-1.2000. USDA also reports HPAI has now been identified in Washington, Oregon, Idaho and Colorado, with Northwest and Mountain supplies tightening while California and the Southwest have more milk available on plant downtime.",
+      "why": "Condensed skim and cream are where a balancing plant's leverage shows up first, and that leverage just moved east: an Eastern Class III plant short of skim solids will pay for them, while a Western supplier is negotiating against both downtime and softer export interest.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1102.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Processing",
+      "headline": "A kefir maker posted record sales and lost 10.7 points of gross margin, to milk and packaging",
+      "body": "In results released November 12, Lifeway Foods reported third-quarter net sales of $67.8 million, up 18.6% and the highest in company history, driven primarily by higher volumes of branded drinkable kefir, against a gross profit margin of 18.0% versus 28.7% a year earlier, \"primarily reflecting elevated input costs including milk, resin-based packaging, ingredients, and transportation costs.\" Net income fell to $0.3 million, or $0.02 a share, from $3.5 million, or $0.23. Management expects the cost pressure to persist in the fourth quarter, says planned price increases will reach distributors and retailers on a rolling basis through year-end and into the first quarter of 2027, and puts the scale-up of its Waukesha facility at early 2027.",
+      "why": "This is the protein-demand story read from the buy side of your milk: a processor growing volume fast while its margin halves is the profile of a buyer about to get firmer on premiums, hauling allowances and contract terms.",
+      "url": "https://www.sec.gov/Archives/edgar/data/814586/000168316826008612/lifeway_ex9901.htm",
+      "source_name": "Lifeway Foods, SEC filing"
+    },
+    {
+      "section": "Animal health",
+      "headline": "The plant built for a mastitis treatment is being converted to calf-scours production",
+      "body": "ImmuCell's quarterly report, filed November 12, says roughly $11,845,000 of idle property and equipment, primarily the facility previously used for Re-Tain, its treatment for subclinical mastitis, whose FDA approval efforts the company suspended on December 23, 2025, is now planned for refit to produce First Defense, its calf scours product. The filing also records a $0.1 million reversal of an annual regulatory sponsor fee it no longer has to obtain \"as a result of the decision to cease focus on Re-Tain.\" Product sales rose 46.0%, or $2.5 million, to $8.0 million in the quarter on higher volumes across all First Defense categories, a sales-team expansion and price increases. The filing flags colostrum, sourced primarily from dairy farms, as a key input, and warns that a backlog of orders risks losing customers who are not easily regained.",
+      "why": "The scours product that has run on backorder before is getting a second plant behind it, and the capital is coming out of the mastitis side, so for subclinical cases the near-term toolkit stays diagnostic, with cow-side somatic cell testing, rather than therapeutic.",
+      "url": "https://www.sec.gov/Archives/edgar/data/811641/000143774926036588/iccc20260930_10q.htm",
+      "source_name": "ImmuCell Corp., SEC filing"
+    },
+    {
+      "section": "Herd management",
+      "headline": "Thawing the straw in the cow matched conception rates in a two-year field trial",
+      "body": "A paper published November 13 in Translational Animal Science tested \"direct cervical thawing,\" placing the frozen straw straight into the cow rather than into a water bath, against conventional water-bath thawing, using straws from a single bull across in-vitro, mitochondrial and field components (n = 25, 10 and 96 straws per treatment, respectively). Conception rates were \"comparable between treatments in the field trial (P = 0.386).\" Progressive motility was slightly better after water-bath thawing (19.5% +/- 2.9 versus 16.5% +/- 2.3; P = 0.02), while mitochondrial activity was higher under direct cervical thawing (50.1% +/- 7.59 of sperm active, against 23.00% +/- 6.53 after the water bath; P = 0.0043). The authors call it a \"practical alternative to conventional semen handling procedures\" but say the fertility data are preliminary and larger commercial-herd studies are needed.",
+      "why": "It is a protocol change with no capital cost that removes the step where technique varies most between technicians, but one bull and 96 straws is not a breeding season's worth of evidence, which makes this a question for your AI provider rather than a change to make on Monday.",
+      "url": "https://academic.oup.com/tas/article/doi/10.1093/tas/txag179/8384061",
+      "source_name": "Translational Animal Science"
+    }
+  ]
+}
