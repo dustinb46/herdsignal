@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-18",
+  "intro": "Butterfat is being repriced downward everywhere at once while protein keeps getting bid, and this week's Global Dairy Trade auction made the split impossible to miss: fat products fell 6.5% to 8.2% while both powders gained. The rest of the day's news is about what gets built on the protein side of that trade, and about two new papers that test whether the tools being sold into your parlor and calf barn actually hold up.",
+  "items": [
+    {
+      "section": "Trade",
+      "headline": "Fat fell 6.5% to 8.2% at this week's auction while both powders gained, and the index did not move",
+      "body": "At the latest Global Dairy Trade auction the overall price index was unchanged, but the two halves of it went opposite directions: anhydrous milk fat fell 8.2% and butter fell 6.5%, while whole milk powder rose 2.7% and skim milk powder rose 2.2%. Fat has historically traded $2,000 to $3,000 a tonne above the powders. All four of those majors are now sitting in the US$4,000 a tonne range, with AMF down 36% and butter down 39% from their March peak.",
+      "why": "The premium your butterfat pounds have carried for three years is being competed away by a global fat surplus that nobody has a buyer for, while the solids-not-fat half of your check is the part being fought over. If you are deciding whether to chase components, this is the auction that says which component.",
+      "url": "https://farmersweekly.co.nz/markets/dairy-markets/global-dairy-protein-demand-turns-commodity-prices-upside-down",
+      "source_name": "Farmers Weekly"
+    },
+    {
+      "section": "Milk price",
+      "headline": "Cheese has now lost ground two sessions running, and blocks closed Tuesday under $1.58",
+      "body": "USDA's CME daily report for Tuesday, November 17 has 40-pound cheddar blocks closing at $1.5775, down another 1.25 cents after Monday's 2.75-cent drop, for 4 cents off in two sessions. Barrels fell harder, down 1.50 cents to $1.6450, which narrows the barrel premium from 7.00 cents Monday to 6.75 cents. The Class IV side held: Grade AA butter added half a cent to $1.2650 after gaining 2 cents Monday, Grade A nonfat dry milk added half a cent to $2.0350, and extra grade dry whey was unchanged at $0.9200.",
+      "why": "Two consecutive down days in both cheese formats, against a powder and butter market that is firming off the bottom, is the domestic version of the auction split, and it points the Class III to Class IV spread wider again in the month you are pricing December milk against.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1603.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Technology",
+      "headline": "California issued a production permit for mozzarella made from fermented casein, not milk",
+      "body": "New Culture said on Monday that the California Department of Food and Agriculture has granted the approvals it needs to produce its animal-free mozzarella, which the company calls the world's first production permit for animal-free dairy mozzarella. The approval covers three things: the production process, with CDFA reviewing ingredients, equipment, cooling, packaging, sterilization and critical control points; a new commercial facility in the Bay Area; and the product label, approved as \"Mozzarella Style Animal-free Dairy Cheese\" with the ingredient listed as \"Animal-free casein (from fermentation).\" The company applied in April 2024 and says the review ran longer than expected because the agency had not evaluated an animal-free dairy cheese before.",
+      "why": "Mozzarella is the largest cheese category in the country by volume and one of the biggest single destinations for your milk, and the pizzeria channel it is aimed at is the least brand-loyal part of that demand. A permitted US plant with an approved label is the step that turns a fermentation startup into a competitor for vat space.",
+      "url": "https://www.newculture.com/blog/new-culture-secures-approvals-for-cheese-production",
+      "source_name": "New Culture"
+    },
+    {
+      "section": "Processing",
+      "headline": "The largest mozzarella maker is quadrupling a specialty whey line, and says cheese demand is what limits it",
+      "body": "Leprino is expanding the whey plant at its Lubbock, Texas site in a $35 million project announced in late October that quadruples its microparticulated capacity and is projected to put 20 million pounds of microparticulated WPC 80 into the market. The company describes the product, sold as MP PRO C80, as fat-mimicking and more heat stable than standard whey protein. Leprino's senior director of R&D for its nutrition arm put the constraint plainly: \"In order to make the whey, you have to make cheese, and the cheese markets are very soft right now.\"",
+      "why": "Processors are putting capital into the protein side of the carcass of a milk check while the cheese side is soft, which is the same trade the auction just priced. It also sets the ceiling on it: the high-value whey stream only exists if somebody is paid enough to run the vats that produce it.",
+      "url": "https://www.dairyreporter.com/Article/2026/11/16/leprino-quadruples-microparticulated-whey-protein-capacity/",
+      "source_name": "DairyReporter"
+    },
+    {
+      "section": "Calf nutrition",
+      "headline": "In 283 calf records, the calves on antibiotic waste milk gained faster than the calves on replacer",
+      "body": "A retrospective study on a commercial Holstein herd compared 140 calves fed nonsalable waste milk from antimicrobial-treated cows against 143 fed commercial milk replacer. Average daily gain was higher on waste milk, 0.836 kilograms a day against 0.802 (P = 0.0017), and total weight gain was 59.61 kilograms against 58.51 (P < 0.001). Weaning weight did not differ, 95.15 against 95.34 kilograms (P = 0.6280), and the replacer calves were slightly heavier at birth (36.64 against 35.73 kilograms) and tended to be weaned a day and a half later. The authors say prospective work on health outcomes, antimicrobial residues, nutrient composition and microbiome effects is still needed.",
+      "why": "Waste milk is already going down calves on most operations and this is a growth number that argues against buying replacer to avoid it, but the same paper is explicit that it measured only growth. The residue and resistance questions, which are the ones a buyer or an inspector will ask you about, were not tested.",
+      "url": "https://link.springer.com/article/10.1007/s11250-026-05449-0",
+      "source_name": "Tropical Animal Health and Production"
+    },
+    {
+      "section": "Animal health",
+      "headline": "A thermal camera model hit 0.96 for subclinical mastitis, then fell to 0.33 sensitivity when it was validated",
+      "body": "Researchers thermographed 89 lactating cows on a voluntary milking system over six months and cultured 530 quarters, of which 61 (11.5%) were positive for subclinical mastitis. The binary model built on somatic cell count plus the coldest udder surface temperature showed an apparent area under the ROC curve of 0.96. Under ten-fold cross-validation that fell to 0.81, and sensitivity fell from 0.90 to 0.33. The thermographic variables improved model fit modestly but significantly, while somatic cell count accounted for most of the predictive information. In the model asked to name the organism, sensitivity was 0.03 for coagulase-negative staphylococci and 0.30 for Staph aureus.",
+      "why": "This is the gap between a sales demo and a working herd tool, stated in the same paper: the headline accuracy was the model scored against the data it was built on, and two thirds of real cases went unflagged once it was tested properly. The somatic cell count you already pay for was doing most of the work.",
+      "url": "https://link.springer.com/article/10.1007/s11250-026-05475-y",
+      "source_name": "Tropical Animal Health and Production"
+    },
+    {
+      "section": "Demand",
+      "headline": "Organic fluid sales fell 5.2% in September and organic milk exports are down by half",
+      "body": "USDA's organic dairy market report puts September sales of total organic fluid milk products at 238 million pounds, down 5.2% from a year earlier, with the category down 0.8% year to date at 2,219 million pounds. The split inside it mirrors the conventional market: organic whole milk sales rose 1.9% to 138 million pounds and are up 4.5% year to date, while total fat-reduced organic milk fell 14.0% to 98 million pounds, with 2% down 12.4% and 1% down 18.3%. On the export side, September organic milk shipments were 289,353 liters, down 10.6% from August and down 51.5% from September 2025, leaving the year to date down 35.2%.",
+      "why": "Organic pay prices have now fallen three months running, and this is the demand side of that: the only organic fluid category still growing is whole milk, the reduced-fat half of the shelf is collapsing, and the export valve that could absorb surplus organic milk has closed by half.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyorganic.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    }
+  ]
+}

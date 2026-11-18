@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-09",
+  "intro": "No spot session and no federal dairy release landed over the weekend, so today's news sits entirely on the cost, credit and animal-health side of the ledger rather than on the price board. The through-line is that the inputs are repricing faster than the milk: a vaccine has now protected lactating cows against H5N1 in a controlled challenge, lenders have put dairy back on their worry list, the largest animal-health supplier grew its cattle business on a 3 percent price increase, and this year's corn is carrying more vomitoxin than the ten-year norm against a lactating-cow feed guideline five times stricter than the one for dry cows.",
+  "items": [
+    {
+      "section": "Animal health",
+      "headline": "A vaccine has protected lactating cows against H5N1, with 1,000-fold less virus in the milk",
+      "body": "A study published Oct. 28 in Nature Biotechnology reports an mRNA-lipid nanoparticle vaccine encoding the hemagglutinin of A/dairy cattle/Texas/24-008749-002/2024, a strain the authors describe as representative of circulating bovine H5N1, tested directly in lactating dairy cows. Eight cows were split into vaccinated and control groups, given two intramuscular doses of vaccine or saline, then challenged with virus into the udder. Vaccination raised hemagglutinin-reactive and neutralizing antibodies in serum and hemagglutinin-reactive antibodies in milk, and after challenge the vaccinated cows had \"~1,000-fold lower peak viral RNA in milk and a lower occurrence of mastitis and mammary fibrosis.\" The authors note that the mammary gland, not the respiratory tract, is the main site of replication and that transmission between animals is thought to run through shedding in milk.",
+      "why": "Every tool offered to a dairy so far has been containment, bulk-tank testing, milk diversion, movement restriction, so the first evidence that a vaccine blunts udder infection and milk shedding changes what a future herd break might cost rather than only how it is detected. This is an eight-animal challenge study and not a licensed product, but it is the kind of result a conditional-licence application gets built on, and it is worth asking your veterinarian and your cooperative now what a vaccinated-herd protocol would mean for testing status and milk disposition.",
+      "url": "https://europepmc.org/article/MED/42951950",
+      "source_name": "Nature Biotechnology, via Europe PMC"
+    },
+    {
+      "section": "Credit",
+      "headline": "Ag lenders have put dairy back on their worry list: 25% now flag it",
+      "body": "The 2026 ABA-Farmer Mac Agricultural Lender Survey, released Nov. 4 from more than 600 loan officers, managers and executives, puts dairy at 25 percent of lenders reporting heightened concern, behind grains at 53 percent and fruits and nuts at 28 percent, but ahead of beef at 14 percent. The report is explicit about the turn: concern was \"relatively muted last year due to elevated dairy prices and record prices for cull cows and dairy calves,\" and while beef prices still support cull cow and calf values, \"increasing U.S. dairy production has begun placing downward pressure on milk prices, contributing to lender concern.\" Across all commodities, liquidity was the top lender concern about producers for a fourth consecutive year, credit quality and agricultural loan deterioration was the number one concern facing the lending institutions themselves, nearly 75 percent of lenders said borrower profitability declined this year, and lenders reported an average approval rate of 82 percent on new agricultural loan applications and expect 88 percent on renewals. Note the fieldwork ran July 13 to Aug. 17, so this is a summer reading.",
+      "why": "This is your lender's own stated view going into renewal season, and it says the examination will be of working capital rather than of your milk price forecast, so the operating-line conversation this winter is won or lost on a current ratio, a documented cash position and a feed-cost plan, not on a chart of Class III futures.",
+      "url": "https://www.aba.com/-/media/documents/reference-and-guides/2026-ag-lender-survey-report-fin.pdf",
+      "source_name": "American Bankers Association / Farmer Mac"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Herd health is the fastest-growing line in a major supplier's book, and 3% of the growth is price",
+      "body": "In third-quarter results filed with the SEC on Nov. 6, Elanco Animal Health reported cattle revenue of $339 million against $289 million a year earlier, up 17 percent as reported and 11 percent on an organic constant-currency basis. \"Global ruminants remained Elanco's fastest growing species, with revenue up 12% year-to-date on an organic constant currency\" basis, the company said, \"as innovation fortified the company's beef and dairy portfolio.\" Its Farm Animal segment overall took in $631 million, up 6 percent reported and 4 percent organic, and the company attributed that increase \"primarily\" to \"a 3% increase in price during the period and a 2% contribution\" from an acquisition. Poultry revenue fell 7 percent over the same quarter.",
+      "why": "Half of the segment's reported growth is price rather than volume, and that price is your invoice, so while the milk check is falling, the herd-health line is one of the few input costs still being actively marked up, which makes this the quarter to price-shop the repeat items in your protocol and to ask what a contract rather than a list price looks like.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1739104/000173910426000054/elanco-20260930exhibit991.htm",
+      "source_name": "Elanco Animal Health, SEC filing"
+    },
+    {
+      "section": "Feed",
+      "headline": "The 2026 corn crop is carrying more vomitoxin than normal, and milking cows get a fifth of the tolerance dry cows do",
+      "body": "The 2026 Ontario grain corn ear mould and deoxynivalenol survey, published Oct. 24 and updated Nov. 3, tested 272 ear corn samples collected across the province between Sept. 23 and Oct. 9. It found 77 percent of samples below 2 parts per million of DON, against a ten-year average of 86 percent, similar to 2016 and 2023, and well short of 2018, the decade's worst. The surveyors tie the risk to an August of \"frequent showers, cool night temperatures and heavy morning dews which allowed corn canopies to stay wet for long periods,\" warn that levels vary field to field, and restate the Agriculture and Agri-Food Canada feed guidelines: 1 ppm DON in the diet for lactating cows, calves, lambs and pigs, against 5 ppm for adult cattle, adult sheep and poultry. They also warn that the largest source of testing error is the subsample: a 200-gram whole-kernel draw from a 2-kilogram sample represents parts of only about 500 kernels, where coarse-grinding the whole bulk sample first represents about 5,000. This is a grain corn survey from one province, not a silage survey, and no 2026 U.S. silage dataset is published yet.",
+      "why": "The milking string has five times less headroom on vomitoxin than the dry cows and heifers eating out of the same bins, so in a year running nine points worse than the ten-year norm, the cheap insurance is a probe-drawn, whole-bulk-ground sample from each field's corn before it reaches the lactating ration, and a grab off the top of the load is the one sampling method guaranteed to tell you nothing.",
+      "url": "https://fieldcropnews.com/2026/10/2026-ontario-grain-corn-ear-mould-and-deoxynivalenol-don-mycotoxin-survey/",
+      "source_name": "OMAFA / Field Crop News"
+    },
+    {
+      "section": "Global supply",
+      "headline": "Europe's heat bill, priced: 12.2 million tonnes of milk a year by 2050",
+      "body": "In analysis published Nov. 4, Rabobank estimates that annual heat-related milk losses across the European regions it assessed \"could increase from around 4.5 million metric tons under today's climate to 12.2 million metric tons around 2050 under a high-warming scenario.\" The exposure is uneven: northern Atlantic regions stay relatively advantaged, while \"major production centers in northern Italy, southern Germany, France, and Spain face a marked increase in potential losses.\" Rabobank is explicit that these are \"not a forecast\" but an illustration of what today's production base would do in a warmer climate \"if herd size, productivity, breed composition, and heat-management practices remain unchanged,\" and says the losses \"will either lead to lower utilization rates in factories and/or costly adaptation strategies, both of which will diminish the competitiveness of regional dairy sectors.\"",
+      "why": "The competitor that sets the cost floor under your export markets is being told it has to spend on cooling and sourcing flexibility just to hold current volume, which is the first credible case in years that Europe's cost disadvantage widens rather than narrows, and the same arithmetic runs through any barn whose cooling system was sized for the last decade's summers rather than the next one's.",
+      "url": "https://www.rabobank.com/knowledge/q011557070-europe-s-dairy-comfort-zone-is-moving",
+      "source_name": "RaboResearch"
+    },
+    {
+      "section": "Trade",
+      "headline": "Canada has raised its butter support price again, and its storage charge by 23%",
+      "body": "The Canadian Dairy Commission announced on Oct. 30 that the support price for butter will rise from C$10.5662 to C$10.6366 per kilogram effective Feb. 1, 2027, and that its carrying charges will go from C$0.0254 to C$0.0312 per kilogram of butter, a 23 percent increase in the storage component. The processor's make allowance is unchanged. The Commission buys butter from manufacturers and stores it at that price when milk production is high and demand is low, then sells it back when the position reverses; its announcement states that \"these support price serves as a benchmark for provincial authorities when setting farm-level milk prices.\"",
+      "why": "An administered butterfat price that ratchets up on a published schedule is the mirror image of the market you sell into, where butter printed four-year lows two weeks ago, so the North American butterfat spread is now widening on a calendar rather than on supply, and that spread is the ground on which every cross-border butter and cheese argument of the next year will be fought.",
+      "url": "https://cdc-ccl.ca/en/adjustment-support-price-butter-and-carrying-charges-february-1-2027",
+      "source_name": "Canadian Dairy Commission"
+    },
+    {
+      "section": "Policy",
+      "headline": "A new insect-protected corn trait entered the deregulation queue today; comments close Jan. 8",
+      "body": "In today's Federal Register, APHIS gave notice that it has received a petition from Pioneer Hi-Bred International (petition 26-084-01p, Docket No. APHIS-2026-1288) seeking a determination of nonregulated status under 7 CFR part 340 for COR-OO121-4 maize, engineered to express the IPD083Cb protein \"for protection against certain susceptible lepidopteran pests\" along with a phosphomannose isomerase selectable marker. The petition and APHIS's draft plant pest risk assessment are open for public review, and the agency \"will consider all comments that we receive on or before January 8, 2027.\" The notice does not name the specific pest species the trait is intended to cover.",
+      "why": "Caterpillar feeding on the ear is one of the openings that lets ear moulds and their mycotoxins into a silage pile, and the Ontario survey above makes exactly that point, so the traits moving through this queue now are the ones that will or will not be available in the silage hybrids you plant in a few years, and this docket is the only stage at which the people feeding the crop, rather than the people selling the seed, get a say.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/html/2026-22810.htm",
+      "source_name": "USDA APHIS, Federal Register (GPO)"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-08",
+  "intro": "The through-line this week is that protein is the product and cheese and butter are increasingly what is left over. Skim powder is trading above whole milk powder for a run of auctions, a major buyer has pushed through a 26 percent price rise on whey with no loss of volume, and USDA is now saying plainly that global cheddar is cheap because the world wants the whey. Underneath the commodity story, the cost of holding a cow has risen about a fifth in a year while the cow herself is worth $50 more, Europe's farmgate price is climbing again, and avian influenza has started redrawing where western milk physically goes.",
+  "items": [
+    {
+      "section": "Inputs",
+      "headline": "The replacement cow is worth $50 more than a year ago. Her feed costs 20% more.",
+      "body": "USDA's September price survey puts the U.S. average price of a cow sold for dairy herd replacement at $3,160 a head, against $3,110 in September 2025, a $50 gain. Over the same twelve months alfalfa hay went from $172.00 to $208.00 a ton, corn from $4.00 to $4.81 a bushel and soybeans from $9.93 to $12.20, while the all-milk price fell from $20.40 to $19.50 per hundredweight. The state spread is wide and does not follow the national line: Colorado replacements rose from $3,100 to $3,350 and Michigan from $3,220 to $3,360, but Wisconsin fell $120 to $3,240 and Pennsylvania slipped $30 to $3,120.",
+      "why": "Herd value is flat while the cost of carrying that herd is up roughly a fifth, so the expansion arithmetic that worked on last year's numbers no longer closes, and in Wisconsin, where the all-milk price fell $1.90, the collateral behind an operating line is worth less than it was twelve months ago.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Trade",
+      "headline": "Skim powder is now selling above whole milk powder, an inversion that has held for several auctions",
+      "body": "USDA reports that the Oceania skim milk powder average price is 60 percent higher than a year ago and \"has traded at a premium to whole milk powder the last several events.\" Oceania SMP processor prices are up from both last month and year-ago levels, \"with a 54 percent improvement year-over-year.\" September SMP export volumes ran 31 percent above a year earlier, with shipments to Asia excluding China up 62 percent and purchases from Australia and Oceania up 201 percent, while exports to China fell 16 percent and to the Middle East 54 percent. Europe is moving the other way: USDA reports European SMP prices decreased across the range, with \"some manufacturers offering loads at discounts to free up warehouse space.\"",
+      "why": "Whole milk powder normally carries the premium, so an inversion this persistent means the world is paying up for protein and skim solids specifically, which supports the Class IV side of your check, but is being supplied by buyers who have switched origin rather than by new demand, and European warehouses are still clearing at a discount underneath it.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Processing",
+      "headline": "A major whey buyer just raised prices 26% and lost almost no volume",
+      "body": "In its nine-month statement published Nov. 4, Glanbia reported third-quarter like-for-like revenue growth of 26.9 percent in its Optimum Nutrition brand, made up of a 26.1 percent price increase and 0.8 percent volume growth, attributing the pricing to \"innovation and pricing actions in response to significant whey inflation.\" Its Dairy Nutrition division grew like-for-like revenue just 2.1 percent (volume up 1.4 percent, price up 0.7 percent), and the company was explicit about the split inside that number: the price gain \"was a result of double-digit pricing in protein solutions, partially offset by negative pricing in cheese markets.\" Glanbia raised full-year Dairy Nutrition EBITDA guidance to $175-180 million and adjusted EPS growth guidance to 22-24 percent.",
+      "why": "This is the demand side of the barrel-block inversion stated in a buyer's own accounts: whey protein took a 26 percent price increase with essentially no volume loss while cheese pricing ran negative, which is exactly the incentive pushing plants to optimise for the whey stream rather than for cheese yield on your milk.",
+      "url": "https://www.glanbia.com/sites/glanbia-plc/files/glanbia/investors/results-presentations/2026/Glanbia-Q3-IMS-2026.pdf",
+      "source_name": "Glanbia plc"
+    },
+    {
+      "section": "Global supply",
+      "headline": "Europe's farmgate price has climbed 19% since January, and just rose again",
+      "body": "A large European cooperative's published guaranteed milk price for November 2026 is EUR 47.00 per 100 kilograms, up EUR 1.50 from October's EUR 45.50 and the second consecutive monthly increase of that size. That is EUR 7.50 above the January figure of EUR 39.50 and EUR 8.00 above March's EUR 39.00, the year's low, a rise of about 19 percent over ten months. The guaranteed price is benchmarked to the published raw milk prices of reference companies in Germany, Denmark, the Netherlands and Belgium, so it tracks the regional farmgate rather than one buyer. The co-op's rolling average price stands at EUR 42.05.",
+      "why": "European farmgate prices were running a fifth below year-ago levels as recently as the August data, so a sustained climb back means the cost floor under your main export competitor is rising, and it sits awkwardly beside the same week's reports of European processors discounting powder to empty warehouses.",
+      "url": "https://www.frieslandcampina.com/owned-by-farmers/guaranteed-milk-price/",
+      "source_name": "FrieslandCampina"
+    },
+    {
+      "section": "Milk price",
+      "headline": "New Zealand's forecasters and its futures board are both well above what its biggest co-op is paying",
+      "body": "USDA reports that a New Zealand milk price forecasting group, which the agency does not name, raised its 2026/2027 season forecast to $10.43 per kilogram of milk solids, with a range of $10.23 to $10.83/kgMS. The September 2027 Milk Price Futures contract last settled at $10.55/kgMS. Both sit above the NZ$9.75 midpoint the country's largest cooperative is currently forecasting, inside a range of NZ$9.00 to $10.50. USDA attributes the move to continued gains in whole milk powder and skim milk powder at the Global Dairy Trade auction, \"while milk fats moved lower.\"",
+      "why": "When independent forecasters and the futures board both price New Zealand milk 68 to 80 cents above the co-op's own midpoint, the market is saying the world's lowest-cost exporter will be paid more and will therefore keep producing, so the powder strength now lifting your Class IV check is being met with supply, not scarcity.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Avian influenza is now moving milk across state lines to keep Washington's plants full",
+      "body": "USDA's Western coverage reports that dairy farms in Washington have confirmed positive HPAI detections in dairy cows and that producers \"are working with veterinarians and regulatory officials to strengthen biosecurity measures and limit further spread.\" The agency adds that although HPAI \"has not significantly affected milk production,\" market contacts report milk is moving from the Mountain States into Washington to keep facilities full. In the Pacific Northwest more broadly, USDA reports milk production \"has declined somewhat as positive cases of Highly Pathogenic Avian Influenza have expanded across the region,\" while Idaho output is balanced and California is rising week over week.",
+      "why": "The outbreak has stopped being only a herd-health event and become a freight and procurement event: plants short of local milk are bidding for loads several states away, which sets spot milk values and hauling costs across the whole western supply area, not just inside the quarantine zones.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Markets",
+      "headline": "The world is paying 15% less for cheddar than a year ago, because whey is what the vat is really for",
+      "body": "USDA reports Oceania cheddar processor prices are higher than the previous month but \"remain 15 percent below year-ago levels,\" with the Oceania cheddar range at $3,875-4,225 per metric ton. The agency's explanation is explicit: \"Growing global demand for whey proteins continues to support higher cheese production, while rising inventories and export volumes are placing downward pressure on cheddar prices.\" The prices on the other side of that trade, from the same report: whey protein concentrate 80 percent regular is quoted in the $8s and $9s a pound and instant in the $9s and $10s, while whey protein isolate runs from the mid-$13s to the mid-$14s, against 40-pound cheddar blocks that closed Friday at $1.5675.",
+      "why": "Cheese is increasingly a by-product of making whey protein, and that is a structural problem for anyone paid off a block-weighted cheese price: the vat keeps running because the whey pays, which means cheddar supply does not fall when cheddar prices do.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Processing",
+      "headline": "Southeast milk receipts jumped 10.7% while Florida's fell 6.5%",
+      "body": "USDA's September Federal order figures show receipts in the Southeast Federal Order up 10.7 percent from a year earlier, with Appalachian receipts nearly unchanged and Florida receipts declining 6.5 percent. In the Northeast Federal Order, September receipts rose 3.3 percent year over year while Class I use was \"nearly unchanged,\" and USDA notes more of the Northeast's milk went to Class II products than in the previous year.",
+      "why": "These are the two orders that carry the highest Class I differentials, and milk is arriving into them faster than fluid demand is growing, so the extra volume lands in Class II and lower, diluting the differential money that props up blend prices for everyone already shipping there.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    }
+  ]
+}
