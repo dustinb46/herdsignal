@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-07",
+  "intro": "Fat and protein are still pulling apart, and this week the split reached the cheese vat: American-type cheese output fell 2.5% from a year ago, barrels closed 13.25 cents above blocks, and butter sat at $1.2650 with holiday buying that USDA's contacts call sluggish. Away from the spot board, avian influenza now shows up as lost milk in federal market reporting, screwworm cases are accelerating, and the world's two cheapest sources of milk solids both just posted big gains.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Butter is at $1.2650 and the holiday buying that should be here is not",
+      "body": "Grade AA butter closed Friday at $1.2650 a pound, pulling the weekly average down 2.5 cents to $1.2895. USDA's market reporters say the increased holiday buying interest that normally shows up at the start of November is sluggish compared with a year ago, cream volumes are tighter in parts of the country, and some butter makers are short on contracted cream.",
+      "why": "The seasonal demand peak is the one window that lifts your butterfat check, and it is opening weak while cream buyers still have to pay up for loads.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Processing",
+      "headline": "American-type cheese output fell 2.5% in September, and barrels are still 13.25 cents over blocks",
+      "body": "September American-type cheese production was 464 million pounds, 2.5% below a year ago and 3.0% below August, while total cheese output rose 0.7% to 1.23 billion pounds. September natural American cheese stocks were still 5% above year-ago levels, and Friday's spot session left barrels at $1.7000 against blocks at $1.5675.",
+      "why": "Plants are shifting milk out of cheddar and into everything else, which is exactly the mix that keeps the barrel-block inversion alive and caps the protein price in your Class III check.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Avian influenza is now showing up as lost milk in USDA's own market reporting",
+      "body": "In this week's fluid milk assessment, USDA reports that Western milk supplies are increasing in California but declining in the Pacific Northwest, due to confirmed cases of Highly Pathogenic Avian Influenza affecting some herds.",
+      "why": "This is the first time the outbreak has moved from a herd count into the federal supply reporting that plants and brokers price off, which is how a disease event starts changing what you get paid for spot milk.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Screwworm cases are accelerating: 61 in 30 days, after three in all of September",
+      "body": "USDA data through November 4 shows 61 confirmed animal cases in the preceding 30 days, more than half of the 113 cases recorded since the first U.S. detection on June 3. The monthly domestic count ran four in August and three in September, then 36 in October and 24 in the first four days of November, with 55 of the recent domestic cases still active.",
+      "why": "Every new case can pull a 20-kilometre zone and a veterinary certificate requirement around whatever is inside it, which is a direct problem for moving cull cows, heifers and bulls on your own schedule.",
+      "url": "https://hpj.com/2026/11/05/usda-reports-61-new-world-screwworm-cases-in-30-day-period/",
+      "source_name": "High Plains Journal (USDA data)"
+    },
+    {
+      "section": "Trade",
+      "headline": "Exports grew 10% in September, but the butterfat leg broke",
+      "body": "U.S. dairy exports rose 10% year over year in September on a milk-solids-equivalent basis, with cheese up 12% (+6,555 MT) for an 18th straight monthly gain and butter up 29%. Anhydrous milkfat went the other way: down 68% (-1,368 MT) to 630 MT, its first monthly decline since March 2024, as Canada fell 95% and the Caribbean 93%. WPC80+ rose 7%, its first year-over-year increase in nine months.",
+      "why": "Milkfat exports have been the release valve for surplus cream all year, and that valve closing is a straight line to the butter price sitting at four-year lows.",
+      "url": "https://blog.usdec.org/usdairyexporter/u.s.-dairy-exports-strong-in-september",
+      "source_name": "U.S. Dairy Export Council"
+    },
+    {
+      "section": "Global supply",
+      "headline": "Germany has added 5.5% more milk this year while Britain and Poland shrank",
+      "body": "German milk production from the start of 2026 through September reached 26.65 million tons, up 5.5% from the same period a year ago. Over the same stretch the United Kingdom produced 1.2 million tons in September, down 2%, and Poland 1.1 million tons, down 0.7%.",
+      "why": "Europe's largest producer growing at that rate puts more powder and butter into the same export channels you are selling into, and it undercuts the tight-EU-supply story behind the current powder premium.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Global supply",
+      "headline": "New Zealand just cleared two billion kilograms of milksolids for the first time",
+      "body": "The 2025/26 New Zealand Dairy Statistics report puts the season at 2.02 billion kgMS, up 4.5%, from 21.8 billion litres of milk, up 3.5%. Per-cow output hit 428 kgMS, up from 414, and cow numbers rose about 1% to 4.72 million, while the number of herds fell by 102 to 10,268.",
+      "why": "The world's lowest-cost exporter is producing record volume off more milk per cow, not just more cows, which is the kind of supply that stays in the market through a price downturn.",
+      "url": "https://www.dairynz.co.nz/news/new-zealand-dairy-production-reaches-record-high/",
+      "source_name": "DairyNZ"
+    },
+    {
+      "section": "Inputs",
+      "headline": "A pound of milk now buys 1.90 pounds of feed, against 2.40 a year ago",
+      "body": "USDA's September price survey puts the all-milk price at $19.50 per hundredweight, 30 cents below August and 90 cents below September 2025. The milk-feed price ratio fell to 1.90 from 2.40 a year earlier, with alfalfa hay at $208 a ton (up $36), corn at $4.81 a bushel (up 81 cents) and soybeans at $12.20 (up $2.27).",
+      "why": "Milk's purchasing power against feed is down roughly a fifth in twelve months, so a flat milk check this year is a materially worse year than the same check was last year.",
+      "url": "https://release.nass.usda.gov/reports/agpr1026.pdf",
+      "source_name": "USDA NASS Agricultural Prices"
+    }
+  ]
+}

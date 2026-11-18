@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-06",
+  "intro": "Powder and protein are carrying this market while butterfat gives ground: September butter output ran 10.9% above a year ago, and butter was the one thing sold lower at this week's Global Dairy Trade auction as cheddar and milk powders climbed. October's class prices show the same split from the other side, with Class III at its lowest since January while Class IV pushed past $20, and three regulatory dockets moving quietly this fortnight may shape margins longer than any of this week's prices.",
+  "items": [
+    {
+      "section": "Markets",
+      "headline": "Butter production jumped 10.9% in September, and the fat market is now paying for it",
+      "body": "USDA's Dairy Products report, released November 5, put September butter output at 204 million pounds, 10.9 percent above September 2025 and 8.9 percent above August 2026. Skim milk powder production collapsed 58.8 percent year over year to 19.1 million pounds while nonfat dry milk for human use rose 3.7 percent to 129 million pounds, and total cheese output slipped 2.5 percent from August to 1.23 billion pounds.",
+      "why": "A double-digit year-over-year jump in churn output is the supply-side reason butterfat is losing ground, so butterfat risk is worth covering now rather than waiting on a seasonal holiday bounce that this much cream may not allow.",
+      "url": "https://release.nass.usda.gov/reports/dary1126.pdf",
+      "source_name": "USDA NASS"
+    },
+    {
+      "section": "Milk price",
+      "headline": "October Class III fell to $15.16 as Class IV hit $20.54, the widest spread since May",
+      "body": "USDA announced October class prices on November 4: Class III at $15.16 per hundredweight, down $0.88 from September and the lowest since January, against Class IV at $20.54, up $1.60. That is a $5.38 gap, the widest of 2026 apart from May's $5.40. Separately, the November base Class I price was announced at $20.27, up $1.39.",
+      "why": "A $5-plus gap between cheese milk and butter-powder milk is what drives negative producer price differentials and tempts handlers to depool, so your mailbox price can slide even if your own components and volume held steady.",
+      "url": "https://www.ams.usda.gov/mnreports/dymclassprices.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Trade",
+      "headline": "Global buyers bid up powder and cheddar while dumping butter at the November 3 auction",
+      "body": "The Global Dairy Trade index rose 3.0 percent to a weighted average of $4,166 per tonne across 39,806 tonnes sold. Cheddar gained 8.6 percent and whole milk powder 5.9 percent, with skim milk powder up 3.1 percent. Butter went the other way, down 4.7 percent, and anhydrous milk fat fell 3.2 percent.",
+      "why": "Export demand is still pulling hard on cheese and powder even as it backs away from fat, which supports the plants buying your milk for cheese and protein but argues against counting on an export-led butterfat recovery.",
+      "url": "https://ahdb.org.uk/dairy/global-dairy-trade-events",
+      "source_name": "AHDB"
+    },
+    {
+      "section": "Animal health",
+      "headline": "H5N1 turns up in an Indiana dairy herd, caught by routine milk testing, not a sick-cow call",
+      "body": "On November 2 USDA confirmed highly pathogenic avian influenza H5N1 genotype B3.13 in an Indiana dairy herd, bringing the number of states with infected dairy cattle to 21 since the outbreak began in March 2024. APHIS said the detection came from routine National Milk Testing Strategy testing rather than pre-movement surveillance, and milk from affected animals is being diverted or destroyed.",
+      "why": "Bulk-tank surveillance can place a herd under investigation before anyone sees a clinical sign, so biosecurity and a written plan for a positive tank now matter as much as watching for drops in intake or production.",
+      "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-indiana",
+      "source_name": "USDA APHIS"
+    },
+    {
+      "section": "Policy",
+      "headline": "USDA reopens the milk-order exemption that has not moved since 1999, comments close November 23",
+      "body": "A request for information published October 23 asks whether the 150,000-pounds-per-month route disposition limit in the Federal milk marketing order exempt plant definition still fits today's fluid milk market. The threshold was set in the 1999 Order Reform final rule and the nonpool plant definition has never been amended. AMS is asking what plant data it should weigh and how the limit affects producers, handlers, consumers and small businesses.",
+      "why": "Raising that ceiling would let more bottlers sell fluid milk outside the pool, moving Class I money away from the pool that pays every other producer in the order, and the window to put a number on that closes November 23.",
+      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21668/exempt-plant-definition-request-for-information",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Policy",
+      "headline": "FDA starts rewriting infant formula nutrient specs, the first tranche of 30",
+      "body": "A proposed rule published November 2 would change minimum or maximum levels for iodine, vitamin A, vitamin D and manganese, set a first-ever maximum for manganese, switch vitamin A and D to metric units on labels, and alter the permitted source for vitamin A. It covers 8 of the 30 required nutrients, with further proposed rules to follow before a single final rule. FDA said it does not expect cow-milk-based formulas to need reformulation for the manganese change. Comments are due March 2, 2027.",
+      "why": "Infant formula is one of the highest-value homes for US skim solids, lactose and whey protein, so a phased rewrite of its nutrient rules sets reformulation timelines that work their way back into long-term ingredient contracts.",
+      "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22273/infant-formula-nutrient-requirements",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Trade",
+      "headline": "Canada is the only country Commerce lists as subsidizing in-quota cheese, and nobody filed comments",
+      "body": "Commerce's quarterly update published October 29 covers cheese imported between April 1 and June 30, 2026. Canada's export assistance on certain types of cheese is listed at 47 cents per pound gross and net; the 27 EU member states, Norway and Switzerland are all listed at zero. Commerce noted that after the previous quarterly update it received no comments, information or requests for consultation from any party. The current comment window runs to December 31, 2026.",
+      "why": "This is a standing, quarterly trade lever on the one subsidy Commerce actually recognizes on competing cheese, and the US industry left the last round uncontested, a cheap place to put a comment on the record while USMCA dairy terms are in play.",
+      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22103/quarterly-update-to-annual-listing-of-foreign-government-subsidies-on-articles-of-cheese-subject-to",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Processing",
+      "headline": "Saputo's quarter shows where processor money is now made: protein, not cheese",
+      "body": "In results released November 5 for the quarter ended September 30, Saputo reported revenues of $4,256 million, up 3.6 percent, and adjusted EBITDA of $438 million, up 13.8 percent, with margin widening to 10.3 percent from 9.4 percent. The company credited favourable high-protein ingredient prices for offsetting softer cheese and dairy commodity markets. Its USA sector revenue slipped 0.6 percent to $2,140 million, yet adjusted EBITDA there rose to $205 million and margin jumped to 9.6 percent from 7.8 percent. Figures are in Canadian dollars.",
+      "why": "A major buyer in several US milksheds just posted its best margins on protein streams while cheese dragged, which is a signal about where plant investment and component premiums are heading when your next milk contract is negotiated.",
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3397203/0/en/saputo-reports-financial-results-for-the-second-quarter-of-fiscal-2027-ended-september-30-2026.html",
+      "source_name": "Saputo, via GlobeNewswire"
+    }
+  ]
+}

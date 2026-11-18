@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-05",
+  "intro": "Butterfat is coming apart while protein carries the market: powder closed roughly 91 cents above butter on Wednesday, cheese barrels are trading above blocks, and the Nov. 3 Global Dairy Trade auction split the same way. On the cost side, feed drove the September margin down to $8.35 and the industry has now put a per-hundredweight number on the diesel and hauling squeeze.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Powder is now worth more than butter, and barrels are worth more than blocks",
+      "body": "Wednesday's CME cash session closed with Grade A nonfat dry milk up 2.75 cents to $2.1875 a pound while Grade AA butter fell 1.75 cents to $1.2800, powder trading roughly 91 cents above butterfat. Cheese stayed split the same way: barrels held at $1.7250 with no sales, while 40-pound blocks rose a cent to $1.5875 on five trades between $1.5775 and $1.5900, leaving barrels about 13.75 cents above blocks instead of the usual small block premium.",
+      "why": "Class IV and the protein side of the milk check are carrying the market while butterfat erodes, so component-weighted pay prices and any butterfat-heavy hedge or forward contract will behave very differently than they did a year ago.",
+      "url": "https://brownfieldagnews.com/news/nonfat-dry-milk-leads-cash-dairy-gains-wednesday-at-cme/",
+      "source_name": "Brownfield Ag News"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Fuel and hauling relief for dairy now has a number attached: 53 cents a hundredweight",
+      "body": "An industry fuel cost report filed with USDA's Harvest Fuel Relief Team on Nov. 1 puts hard figures on the diesel squeeze. In a survey of 372 dairies averaging 550 cows, the median increase in monthly non-harvest fuel cost since July was $6,000, or $10.91 per cow per month, or $0.53/cwt, with 61.8% of farms reporting non-harvest fuel up 30% or more. Separately, hauling fuel surcharges deducted from milk checks averaged $0.267/cwt in January, $0.403 in July and $0.473 in October, a 76% rise, with some per-mile surcharges going from $0.44 to $1.11. The all-milk-to-mailbox gap widened to $1.07/cwt by July.",
+      "why": "USDA is being asked to pay dairy relief per hundredweight marketed rather than per crop acre, so how that rate is defined decides whether a milking operation collects on fuel aid at all.",
+      "url": "https://wispolitics.com/2026/american-dairy-coalition-sends-sec-rollins-requested-fuel-relief-data",
+      "source_name": "WisPolitics"
+    },
+    {
+      "section": "Animal health",
+      "headline": "USDA sequencing ties the Washington H5N1 outbreak to cattle moved in from Idaho",
+      "body": "APHIS posted an update on Nov. 4 on the two Washington dairy herds first confirmed Oct. 8. Whole genome sequencing at the National Veterinary Services Laboratories identified H5N1 genotype B3.13 and found the detection \"consistent with transmission of virus from Idaho to Washington likely through cattle movement,\" not wild birds.",
+      "why": "The documented vector here is purchased or transferred cattle, which makes isolation and testing of incoming animals a higher-return control than bird deterrence on most operations.",
+      "url": "https://www.aphis.usda.gov/news/agency-announcements/update-genetic-sequencing-results-washington-dairy-herd-detection-highly",
+      "source_name": "USDA APHIS"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Indiana becomes the 21st state with H5N1 in dairy cattle, caught by bulk-tank milk testing",
+      "body": "APHIS confirmed H5N1 genotype B3.13 in an Indiana dairy herd on Nov. 2, the state's first cattle case, bringing the total to \"a total of 21 states\" affected since March 2024. USDA was explicit about how it surfaced: \"This detection was a result of routine National Milk Testing Strategy testing, not pre-movement surveillance.\"",
+      "why": "Bulk-tank surveillance, not clinical signs or movement permits, is now what flags a herd first, so a positive can arrive from a lab before anyone on the farm sees a sick cow, and the milk diversion that follows is immediate.",
+      "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-indiana",
+      "source_name": "USDA APHIS"
+    },
+    {
+      "section": "Policy",
+      "headline": "EPA abandons the livestock air-emissions models farms funded two decades ago",
+      "body": "EPA has determined it will not finalize the air emissions estimating methodologies built from the 2005 Air Compliance Agreement, and will move to end all obligations under that agreement. The agency concluded the 2005 to 2007 monitoring data were too old and too limited to support reliable methods, noting the participating farms had since \"changed hands, closed, or modernized.\" Roughly 2,600 animal feeding operations signed and funded the study; EPA expects to notify about 14,000 farms tied to those operations before terminating the agreement. Draft methods released in November 2024 drew comments that closed in August 2025.",
+      "why": "The open question of whether a dairy's ammonia or particulate estimates would push it into industrial-style air permitting or federal release reporting is closed for now, which takes a contingent compliance liability off the balance sheet.",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2026/11/02/epa-drops-nationwide-livestock-air",
+      "source_name": "DTN/Progressive Farmer"
+    },
+    {
+      "section": "Milk price",
+      "headline": "September's Dairy Margin Coverage margin lands at $8.35, the fourth payment month of 2026",
+      "body": "The September margin came in at $8.35/cwt, down 99 cents from August, as an all-milk price of $19.50 (down 30 cents) met the year's heaviest feed bill at $11.15/cwt (up 69 cents). Feed inputs: corn $4.81/bu (up 36 cents), soybean meal $365.95/ton (up $45.65), dairy-quality alfalfa hay $241/ton (down $2). Top-tier $9.50 coverage indemnifies $1.15/cwt before the 5.7% sequestration cut.",
+      "why": "The actual print came in above the $8.23 that was projected for September, but feed, not milk price, did the damage, so 2027 coverage elections should be stress-tested against corn and meal rather than against the milk forecast alone.",
+      "url": "https://www.agproud.com/articles/64365-september-prices-trigger-dairy-margin-coverage-payment",
+      "source_name": "Progressive Dairy"
+    },
+    {
+      "section": "Processing",
+      "headline": "Pooled milk jumped 11.7% in September while Class I volume fell, fluid is down to 26% of the pool",
+      "body": "USDA's September Federal order market summary shows 12.9 billion pounds of producer milk pooled, 11.7% above September 2025, while milk pooled as Class I products fell 2.2% to 3.4 billion pounds. All-market utilization ran Class I 26%, Class II 14%, Class III 55%, Class IV 5%, and the weighted average statistical uniform price was $18.09/cwt, down 66 cents from August and 54 cents from a year earlier. The same report shows September butter stocks down 5% for the month but up 16% from a year ago, with cheese stocks up 1%.",
+      "why": "A pool growing on Class III volume with shrinking Class I dilutes the Class I differential that lifts blend prices, so producer price differentials get thinner even in months when the component prices hold.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Trade",
+      "headline": "Cheddar jumps 8.6% at the Nov. 3 Global Dairy Trade auction while butter drops again",
+      "body": "Event results dated 3 November 2026 put the GDT price index up 3.0%, with a weighted average of US$4,166 per tonne across 39,806 tonnes sold. Cheddar led at +8.6% to US$3,970/t, whole milk powder rose 5.9% to US$3,971/t and skim milk powder 3.1% to US$4,109/t, while butter fell 4.7% to US$4,503/t and anhydrous milkfat 3.2% to US$5,306/t. The next auction is 17 November.",
+      "why": "The world market is splitting fat from protein the same way the US spot market is, which means export demand is unlikely to rescue domestic butterfat values this quarter.",
+      "url": "https://ahdb.org.uk/dairy/global-dairy-trade-events",
+      "source_name": "AHDB"
+    },
+    {
+      "section": "Policy",
+      "headline": "USDA reopens the 150,000-pound exempt plant threshold, comments close Nov. 23",
+      "body": "AMS has issued a request for information (Doc. No. AMS-DA-26-0298) on the monthly route disposition limit in the exempt plant definition at 7 CFR 1000.8(e)(4). The 150,000-pound-per-month figure was set in the 1999 Federal Milk Marketing Order Reform final rule (64 FR 47898) by taking the highest exemption then allowed in any order, and has not been amended since. AMS is asking whether the limit is still appropriate, what data should inform a change, and what the effect would be on producers, handlers and consumers. Comments must be received by November 23, 2026.",
+      "why": "Where that line sits decides which small bottlers owe into the pool, so moving it shifts both the competitive floor for local fluid milk and the money flowing into every blend price in the order.",
+      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21668/exempt-plant-definition-request-for-information",
+      "source_name": "the Federal Register"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-04",
+  "intro": "Fat and protein have come apart. Butter is printing four-year lows while nonfat dry milk trades 86 cents a pound above it, cheddar barrels sit 14.75 cents over blocks, and the same split showed up at Tuesday's global auction, all of which decides which half of your component check actually gets paid this month. Meanwhile H5N1 has reached a 21st state and claimed a dairy worker's life in Washington.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Barrels are trading 14.75 cents over blocks, a rare, costly inversion",
+      "body": "Cheddar barrels closed at $1.7250 on Nov. 3 while 40-pound blocks closed at $1.5775, leaving barrels 14.75 cents above blocks. Blocks lost 13.75 cents in a single session on Oct. 30 (from $1.7350 to $1.5975) while barrels never moved off $1.7250 and have reported no sales for days.",
+      "why": "Class III is priced off the block-weighted cheese average, so a block collapse that barrels ignore pulls your cheese milk check down even though half the cheddar market never repriced, and thin, saleless barrel trade means the spread can snap back without warning.",
+      "url": "https://brownfieldagnews.com/news/cme-dairy-prices-mixed-as-cheese-blocks-butter-fall/",
+      "source_name": "Brownfield Ag News"
+    },
+    {
+      "section": "Milk price",
+      "headline": "Powder is now worth 86 cents a pound more than butter",
+      "body": "Nonfat dry milk closed Nov. 3 at $2.16 while butter closed at $1.2975, an 86.25-cent gap in favor of powder. Butter touched $1.2850 on Oct. 28, its weakest print in roughly four years, and averaged $1.3145 for the week ending Oct. 30, with USDA noting churns running up to six days a week and cream \"more accessible than is typical for this time of year.\"",
+      "why": "A fat-heavy component mix is now a liability instead of a bonus: the same butterfat test that paid a premium for two years is diluting your mailbox price, while nonfat solids and protein carry the check.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Milk price",
+      "headline": "November Class I is $20.27, and Class IV is the mover by $5.65",
+      "body": "USDA set the November base Class I price at $20.27 per cwt, up $1.39 from October and the first print above $20 since July. The advanced Class IV skim pricing factor came in at $16.03 versus just $10.38 for Class III, a $5.65 gap that makes Class IV the \"higher-of\" mover. The advanced butterfat factor fell to $1.3730.",
+      "why": "The fluid-milk lift is being generated entirely by powder, so operations shipping to cheese plants see almost none of it, and the widest Class III and Class IV spread of the year is what will drive negative producer price differentials and depooling in cheese-heavy orders.",
+      "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Trade",
+      "headline": "The same fat-versus-protein split just showed up at the global auction",
+      "body": "GDT Event 415 on Nov. 3 lifted the overall index 3.0% to an average winning price of $4,166 per metric ton on 39,806 MT sold to 111 winning bidders out of 166 participants. Underneath that: cheddar jumped 8.6% to $3,970/MT and whole milk powder rose 5.9%, while butter fell 4.7% to $4,503/MT and anhydrous milk fat slid 3.2%.",
+      "why": "Two independent markets on opposite sides of the world are now repricing fat down and protein up at the same time, which means this is a demand shift rather than a U.S. cream-supply quirk, and hedges built on a butterfat premium need rechecking.",
+      "url": "https://www.indexbox.io/blog/global-dairy-trade-prices-mixed-in-early-november-2026-auction/",
+      "source_name": "IndexBox, from USDA AMS data"
+    },
+    {
+      "section": "Animal health",
+      "headline": "H5N1 reaches Indiana, and routine milk testing, not pre-movement testing, is what caught it",
+      "body": "APHIS confirmed highly pathogenic avian influenza in an Indiana dairy herd on Nov. 2, the state's first cattle case. The agency specified the detection came \"as a result of routine National Milk Testing Strategy testing, not pre-movement surveillance,\" and that dairy cattle in 21 states have now been infected since March 2024.",
+      "why": "Bulk-tank surveillance is now finding herds that movement testing would have missed, so a clean pre-movement test is no longer evidence your herd is clear, and a silo-level positive can put your operation under a state response plan with no sick cows to warn you first.",
+      "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-indiana",
+      "source_name": "USDA APHIS"
+    },
+    {
+      "section": "Animal health",
+      "headline": "A dairy worker has died in the Washington outbreak, now at 40 herds",
+      "body": "A Yakima County, Wash. resident with underlying health conditions died Nov. 1 after exposure to H5N1-infected dairy cattle. APHIS confirmed six more Washington herds on Oct. 30, bringing the state to 40 infected herds since the first two were found Oct. 8. The county has logged three confirmed human cases tied to infected cattle; health officials recommended dairy workers use disposable coveralls and hair coverings, gloves, masks, safety goggles and rubber boots.",
+      "why": "This converts H5N1 from a production problem into a worker-safety and liability problem: the named PPE list is now the documented standard of care, and an operation without it on hand is exposed on both labor and insurance fronts.",
+      "url": "https://capitalpress.com/2026/11/02/washington-resident-exposed-to-infected-dairy-cattle-dies-of-bird-flu/",
+      "source_name": "Capital Press"
+    },
+    {
+      "section": "Policy",
+      "headline": "EPA is terminating the 2005 air agreement and walking away from its own emissions data",
+      "body": "On Oct. 30 EPA said it will not develop emissions estimates or finalize methodologies under the 2005 Animal Feeding Operations Air Compliance Agreement, and will move to terminate the agreement for the roughly 2,600 AFOs, representing nearly 14,000 farms, that enrolled. EPA called the 2005-2007 National Air Emissions Monitoring Study data \"too old and too limited to support methods that farms could rely on.\" The agency said the action does not change its implementation of the Clean Air Act.",
+      "why": "The safe harbor that came with enrolling disappears along with the agreement, and with no federal emissions-estimating method left standing, operations near populated areas face Clean Air Act and nuisance exposure with no agreed yardstick to measure themselves against.",
+      "url": "https://www.epa.gov/newsreleases/trump-epa-brings-closure-20-year-old-agreement-ending-decades-long-uncertainty",
+      "source_name": "U.S. EPA"
+    },
+    {
+      "section": "Policy",
+      "headline": "USDA is buying $165.5 million of dairy right as butter hits four-year lows",
+      "body": "USDA announced on Oct. 29 a food purchase of up to $472.5 million across 14 commodities for charitable food networks and federal nutrition programs, with $165.5 million of it in dairy. The buys use Section 32 authority. NMPF's Gregg Doud said the purchases \"will help move product and get wholesome dairy foods to Americans who need them.\"",
+      "why": "Government purchases are the only new demand arriving in a market where butter just printed a four-year low, and because Section 32 buys are physical product, where they land, butter versus cheese, decides which of your component prices actually gets supported.",
+      "url": "https://www.agproud.com/articles/64351-usda-announces-purchase-of-1655m-dairy-products",
+      "source_name": "Progressive Dairy"
+    },
+    {
+      "section": "Policy",
+      "headline": "The 2027 DMC window closes Dec. 18, with Tier 1 now covering 6 million pounds",
+      "body": "Enrollment for 2027 Dairy Margin Coverage opened Oct. 5 and runs through Dec. 18. The Working Families Tax Cuts Act reauthorized DMC through 2031, raised Tier 1 eligible production from five million to six million pounds, and updated production histories. Coverage runs $4.00 to $9.50 per cwt, a catastrophic level carries no premium but a $100 annual administrative fee generally applies, and a multi-year election through 2031 earns a 25% premium discount.",
+      "why": "The extra million pounds at Tier 1 rates is the cheapest margin protection available to a mid-size herd, and it is a use-it-or-lose-it decision with a hard December deadline, including for producers already in multi-year coverage, who still must sign and pay each year or lapse.",
+      "url": "https://www.fsa.usda.gov/news-events/news/09-30-2026/usda-announces-2027-dairy-margin-coverage-enrollment",
+      "source_name": "USDA FSA"
+    },
+    {
+      "section": "Inputs",
+      "headline": "A meta-analysis finds essential-oil additives move neither milk nor methane",
+      "body": "A systematic review published Oct. 29 in Frontiers in Animal Science pooled 31 eligible reports on plant essential oils in dairy cows and found no statistically significant effect on milk yield (SMD 0.47; 95% CI -0.29 to 1.22; P = 0.225), methane emission (P = 0.083), methane yield (P = 0.498) or methane intensity (P = 0.075). Heterogeneity was severe throughout, above 85% for every outcome. The authors conclude essential oils \"should therefore be regarded as candidate, formulation-specific interventions requiring confirmatory evaluation.\"",
+      "why": "If an essential-oil blend is in your ration on the strength of a yield or methane claim, the pooled evidence does not support paying for it, and the same heterogeneity finding undercuts any single trial a seller puts in front of you, in either direction.",
+      "url": "https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2026.1923564/full",
+      "source_name": "Frontiers in Animal Science"
+    }
+  ]
+}
