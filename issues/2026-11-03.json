@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-03",
+  "intro": "Two first-time disease detections landed yesterday, and in both the surveillance system, not a sick cow, was what raised the alarm: H5N1 in a 21st state off a bulk-tank sample, and a midge-borne cattle virus in Britain that nobody is required to report. Closer to the checkbook, USDA has put a cause under October's cheddar whipsaw (plants chasing whey protein and making cheese that will not grade) while federal relief has quietly taken 24.4 cents a gallon off road fuel for anyone whose state went along with it.",
+  "items": [
+    {
+      "section": "Animal health",
+      "headline": "H5N1 reaches a 21st state, and the milk tank, not the cows, is what reported it",
+      "body": "APHIS announced on Nov. 2 that its National Veterinary Services Laboratories confirmed highly pathogenic avian influenza H5N1, genotype B3.13, in a dairy herd in Indiana, the state's first cattle detection. USDA says the herd was identified through routine National Milk Testing Strategy sampling rather than pre-movement surveillance, and that dairy cattle in a total of 21 states have now been infected since the outbreak began in March 2024. The agency says the detection \"does not pose a risk to consumer health or affect the safety of the commercial milk supply,\" adding that FDA is confident pasteurisation inactivates the virus, and that the finding does not change its eradication strategy.",
+      "why": "Three weeks ago this virus had never been found in cattle in Washington either, and the last three state firsts (Washington, Colorado, now Indiana) have all come out of a tank test rather than a clinical call, so assume the paperwork arrives before the symptoms do: know today who gets the first phone call, which movements stop, and whether your buyer's contract treats a positive bulk tank differently from a sick pen.",
+      "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-indiana",
+      "source_name": "USDA APHIS"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Farm-tank diesel can legally move your milk right now, but only the federal half is automatic",
+      "body": "Executive Order 14435, signed Oct. 5, directed Treasury and the IRS to suspend enforcement of the federal excise tax on highway use of dyed off-road diesel and to waive the penalty for running it on the road. IRS guidance IR-2026-122 (Oct. 14) set that up and IR-2026-125 (Oct. 21) added reporting relief. The IRS's own FAQ now says no records are required for relief-period distribution, sale or purchase for the section 4041(a) tax, that it \"will not challenge\" a failure to keep them, that sellers need not display \"nontaxable use only\" notices until the relief ends, and that dyed biodiesel mixtures are covered, while clear diesel, dyed kerosene and every state tax and dye rule are not. USDA said on Oct. 29 that 31 states had taken or announced corresponding action, leaving 19 that had not, and put the combined federal and state saving at more than $640 million across approximately 224.6 million harvested acres, against a federal diesel tax of 24.4 cents a gallon.",
+      "why": "Milk, feed and manure all move on the road, and for the length of this relief that fuel can come off the farm tank, but the exposure that stops a truck is usually the state's, not the IRS's, so find out which of the two lists your state is on before a hauler assumes the answer, and note that the FAQ points to the IR releases for the end date rather than naming one.",
+      "url": "https://www.irs.gov/newsroom/dyed-diesel-frequently-asked-questions",
+      "source_name": "the IRS"
+    },
+    {
+      "section": "Milk price",
+      "headline": "USDA names the cause of October's cheddar squeeze: plants chasing whey protein are making cheese that will not grade",
+      "body": "In its Oct. 26 to 30 Dairy Market News, AMS writes that \"the ongoing focus on high protein, premium whey concentrates has led some cheese manufacturers to push the cheesemaking process further than usual. This is increasing liquid whey output, resulting in more off spec cheese production.\" That is the supply side of the squeeze that ran blocks up through the first three weeks of October and then broke them: 40-pound blocks closed Oct. 30 at $1.5975, down 13.75 cents for the week, with barrels at $1.7250, dry whey at $0.8400 and nonfat dry milk at $2.1125. The same report notes that in the West \"other high value products continue to utilize dryer space, limiting NDM output,\" and that excess bulk cheese inventories in the East are moving into Midwest markets rather than into export channels.",
+      "why": "The October cheddar rally was partly a quality artifact, not a demand signal, because fresh cheese was scarce while plants optimised for the whey stream, so Class III strength built on that move is thinner than the board suggests. If your milk goes to a plant maximising whey concentrates, the questions worth asking this month are what that is doing to cheese yield, to the make allowance behind your component prices, and to the share of production that has to be sold at a discount.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Feed",
+      "headline": "The corn harvest gap closed to three points nationally, and almost all of what is left is in dairy states",
+      "body": "USDA's Nov. 2 Crop Progress puts corn harvested in the 18 major states at 74% as of Nov. 1, up from 60% a week earlier and now just 3 points behind the 2021 to 2025 average of 77%. The lag that remains is concentrated in milk country: Iowa is 66% against a 79% average, Michigan 43% against 54%, Ohio 53% against 60%, Pennsylvania 61% against 53% (ahead) and Wisconsin 61% against 57%, also ahead. Soybeans are 88% harvested against an 84% average, with Iowa at 90% and Wisconsin at 94%. The report carries a note that the October to November 2025 funding lapse cancelled these same weeks last year, so there are no year-ago comparisons in this issue.",
+      "why": "Standing corn in Iowa, Michigan and Ohio is manure you cannot haul, high-moisture corn you cannot book and local basis that stays firm while the futures board sags, which is why the feed side of your margin is improving faster on paper than it is in the pit, and why anyone still buying corn load by load is paying for someone else's wet field.",
+      "url": "https://esmis.nal.usda.gov/sites/default/release-files/796135/prog4426.pdf",
+      "source_name": "USDA NASS"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Britain logs its first cases of a milk-dropping cattle virus, and it is not reportable, so the case count will never be the real one",
+      "body": "APHA confirmed on Nov. 2 the first detections of Shamonda virus in Great Britain, in cattle on two dairy farms (one in Powys, Wales, one in Shropshire, England) from October samples tested at Weybridge, calling the finding \"not unexpected given recent reports of the virus in Europe.\" Its disease information note, published the same day, is the useful part: SHAV is a Simbu-serogroup orthobunyavirus closely related to Schmallenberg, spread by the same Culicoides midges that carry bluetongue, and until 2026 had been found only in Africa and Asia. Two European clades are circulating. Acute disease hits several animals at once, \"predominantly...adult dairy cattle,\" with reduced rumination, anorexia, lethargy, a sudden temporary drop in milk yield, foul-smelling diarrhoea and transient fever above 40C lasting up to two days, alongside returns to service, abortions, retained fetal membranes and metritis; within-herd morbidity has been \"very high\" in some outbreaks, running two to three weeks, with no direct deaths described. In-utero infection has produced fixed joints, twisted necks and brain deformities in calves and lambs. APHA states plainly that \"SHAV is not notifiable or reportable\" and that there is \"currently no evidence to suggest that additional disease-control measures are required.\"",
+      "why": "A vector-borne virus that empties the bulk tank for a fortnight and then shows up again nine months later in the calving pen is now established in two more herds with no reporting duty behind it, which means published case numbers understate spread and anyone importing genetics, embryos or cattle out of northern Europe has no register to check. The practical read for a U.S. herd is the clinical pattern: a simultaneous herd-wide fever-and-diarrhoea event with a milk crash and a reproductive tail is exactly the presentation that gets blamed on feed or heat before anyone tests for a midge-borne virus.",
+      "url": "https://www.gov.uk/government/publications/shamonda-virus-infection-in-animals/shamonda-virus-shav-disease-information-note-shav-in-animals",
+      "source_name": "APHA"
+    },
+    {
+      "section": "Farm economy",
+      "headline": "The checkoff's own accounting: $264.3 million spent in 2025, and 44 cents of every dollar went to reputation",
+      "body": "The national dairy checkoff published its 2025 annual report. The audited Unified Plan shows $264.3 million in program revenues ($131.6 million from the National Dairy Promotion and Research Board and $132.7 million from the United Dairy Industry Association) and the same $264.3 million spent: reputation $115.7 million, innovation $59.1 million, exports $32.9 million, farmer and community relations $20.7 million, sustainability $16.6 million, strategic intelligence $7.4 million and other $11.9 million. Alongside it, the report puts 2025 U.S. dairy export value at $9.63 billion, up 15% on the year and just short of the 2022 record of $9.66 billion, and credits international partnerships with roughly 1.5 billion additional milk-equivalent pounds of export volume.",
+      "why": "This is the one audited public accounting of money that leaves your milk check before you ever see it, and the split is a choice: 44 cents of every checkoff dollar went to reputation work and 12 cents to exports, the channel that moved $9.63 billion of product and absorbed the fat and protein the domestic market would not. If you think that ratio is wrong for a year in which exports carried the surplus, the window to say so to your qualified program and board representatives is while this report is the current one.",
+      "url": "https://www.dairycheckoff.com/about-us/annual-report",
+      "source_name": "Dairy Management Inc."
+    },
+    {
+      "section": "Technology",
+      "headline": "The last job robots left on a grazing dairy was fetching the cows. A Tasmanian herd has handed that to collars.",
+      "body": "A north-west Tasmanian dairy is reported to be the first farm in Australia running virtual-fencing collars and robotic milkers together, a combination it has used for two years. The solar GPS collars move cows with vibration, sound and herd behaviour, with a low-energy pulse if an animal does not respond, and walk them to the shed, where the robots read each ear tag and decide whether to milk her; virtual paddocks are drawn in a phone app. The operation runs close to 100 cows per robot, and the farmer says night call-outs are now about once a week, when a robot goes down. The collars are approved in every Australian state except Western Australia, where they are still being assessed. A Tasmanian Institute of Agriculture researcher quoted in the report cautions that \"any system has trade-offs\" and that under this arrangement \"the cow's not choosing when she's milked,\" adding, \"that might be okay, we haven't looked at it.\"",
+      "why": "Robotic milking never solved the pasture problem, because someone still had to walk out and bring cows in; collars plus robots is the first configuration that removes that shift entirely, which changes the labour arithmetic for any grazing or hybrid herd weighing automation against finding another employee. The same feature is the regulatory exposure: the welfare question of a cow who no longer chooses her milking time is openly unstudied, and one state has already withheld approval of the collars.",
+      "url": "https://www.abc.net.au/news/2026-11-02/cows-moved-and-milked-by-ai-and-robots-in-australian-first/107327042",
+      "source_name": "ABC News"
+    }
+  ]
+}

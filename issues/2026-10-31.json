@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-31",
+  "intro": "Friday's spot session knocked the cheese block down 13.75 cents and left barrels trading above it, even as Washington committed $165.5 million to buying dairy off the market and September's margin formula confirmed a payout. Animal health is the brief's other half: a naive Washington milkshed went to 27 H5N1 herds in three weeks, and screwworm reached a third state while another cattle port reopened.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "September margin lands at $8.35, and DMC pays $1.15 per cwt",
+      "body": "USDA's September Dairy Margin Coverage margin came in at $8.35 per cwt, built from a $19.50 all-milk price against $11.15 per cwt in total feed costs, the heaviest feed burden recorded so far in 2026. Ration components behind it: corn at $4.81 per bushel, soybean meal at $365.95 per ton and dairy-quality alfalfa at $241 per ton. Operations covered at the $9.50 level in Tier I collect $1.15 per cwt, before the 5.7% sequestration haircut.",
+      "why": "That is a confirmed payout, not a projection, so if you are enrolled at $9.50, budget the $1.15 per cwt less sequestration now, and note that it is feed cost, not the milk price, doing the damage this month.",
+      "url": "https://www.agproud.com/articles/64365-september-prices-trigger-dairy-margin-coverage-payment",
+      "source_name": "Progressive Dairy"
+    },
+    {
+      "section": "Markets",
+      "headline": "Cheese blocks break 13.75 cents and leave barrels trading above them",
+      "body": "Friday's CME spot session knocked 40-pound cheddar blocks down $0.1375 to $1.5975 on three sales, while barrels sat unchanged at $1.7250 with no sales, putting barrels a rare 12.75 cents above blocks. The fat and powder side went the other way: butter rose $0.0375 to $1.3575 on 11 sales, nonfat dry milk added $0.0250 to $2.1125, and dry whey gained $0.02 to $0.84.",
+      "why": "A block-over-barrel inversion that wide distorts the Class III build and means barrel buyers, not block buyers, are setting your cheese milk price, while strong powder against weak butter keeps Class IV firmer than Class III going into November.",
+      "url": "https://brownfieldagnews.com/news/cheese-blocks-drop-sharply-while-butter-dry-whey-gain-friday-at-cme/",
+      "source_name": "Brownfield Ag News"
+    },
+    {
+      "section": "Policy",
+      "headline": "USDA buys $165.5 million in dairy, the largest slice of a $472.5 million food package",
+      "body": "USDA announced it intends to purchase up to $472.5 million in domestic commodities under Section 32 authority, and dairy is the single largest category at $165.5 million, roughly 35% of the package, ahead of pork at $41 million and split peas at $37 million. The agency named milk and cheese among the products; a full dairy item list was not published. This round adds to the $148 million in Section 32 dairy purchases announced in February, for $313.5 million this year.",
+      "why": "This is government demand landing in the same week the cheese block broke. It pulls finished product out of commercial channels and partially cushions the Class III side, though USDA has given no purchase or delivery timeline you can plan around.",
+      "url": "https://www.agproud.com/articles/64351-usda-announces-purchase-of-1655m-dairy-products",
+      "source_name": "Progressive Dairy"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Washington goes from zero to 27 H5N1 herds in three weeks",
+      "body": "Washington has become the 20th state to detect avian influenza in dairy cattle, and the outbreak is moving fast: from the first two Yakima County herds in early October to 27 positive dairies in the span of three weeks, including a Benton County herd confirmed October 26. Every farm in the targeted milkshed is now being tested weekly. State officials put human risk as very low and note pasteurization inactivates the virus.",
+      "why": "A naive region went to 27 herds in 21 days, which is the practical argument for tightening visitor, cull-truck and shared-equipment biosecurity now rather than after the first clinical cow, and for expecting weekly bulk-tank obligations if your milkshed is next.",
+      "url": "https://www.opb.org/article/2026/10/29/washington-state-dairy-farms-bird-flu-spread/",
+      "source_name": "OPB"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Screwworm reaches a third state as USDA reopens another cattle port",
+      "body": "New World screwworm cases in the U.S. have reached 71, with 18 still active, after APHIS confirmed the first Arizona case, a dog found October 28, making Arizona the third state with confirmed animal cases after Texas and New Mexico. New Mexico added a dog case October 27. Meanwhile the border keeps opening to cattle: Santa Teresa, NM on September 24, Douglas, AZ on August 24, Columbus, NM on October 26, and Nogales, AZ scheduled for November 30 if inspection conditions hold.",
+      "why": "Every reopened port raises the odds of an introduction event on the inbound cattle you or your neighbors buy, so any open wound, whether from fresh calvings, dehorning, branding or foot work, needs daily inspection and a treatment plan while the active case count stays in the double digits.",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2026/10/30/new-world-screwworm-found-arizona",
+      "source_name": "DTN/Progressive Farmer"
+    },
+    {
+      "section": "Supply",
+      "headline": "The September production data shows where the new milk actually is: Kansas, up 14.7%",
+      "body": "September output across the 24 major states hit 18.7 billion pounds, up 2.7%, on 9.30 million cows (162,000 head more than a year ago) and 2,012 pounds per cow. But the national figure hides a reshuffle. Kansas is up 14.7% year over year on 29,000 more cows, South Dakota up 7.9%, Indiana up 7.4% and Georgia up 7.1%, while California is dead flat, Arizona is down 4.9%, Utah down 3.2% and Illinois down 2.2%.",
+      "why": "Growth is concentrating in the states where new processing capacity went in, which is both the source of the cheese-price pressure you are feeling and a signal about where milk will be short, and basis strong, over the next few years.",
+      "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/mkpr1026.pdf",
+      "source_name": "USDA NASS"
+    },
+    {
+      "section": "Milk price",
+      "headline": "November Class I base jumps $1.39 to $20.27, effective tomorrow",
+      "body": "The advanced Class I base price for November is $20.27 per cwt, up $1.39 from October and $3.52 above November 2025, with the base skim price at $16.03 per cwt (up $1.91). Working against it, the advanced butterfat pricing factor fell 13 cents to $1.37 per pound. With zone differentials added, November's Class I base should average about $24.39 per cwt across all orders.",
+      "why": "Fluid-heavy operations get a materially better November check starting tomorrow, but the 13-cent drop in the butterfat factor trims the component side, so the gain is real only if your utilization is weighted to Class I.",
+      "url": "https://www.agproud.com/articles/64305-november-class-i-base-price-up-to-2027-per-cwt",
+      "source_name": "Progressive Dairy"
+    },
+    {
+      "section": "Labor",
+      "headline": "The H-2A wage rule dies December 30, and Labor has to rewrite it first",
+      "body": "A federal judge in the Eastern District of California ruled the Labor Department illegally cut H-2A guest worker wages by setting pay well below relevant market rates and skipping public comment. An October 2 order gives the department until December 30 to issue a new wage rule; the current rule expires that day regardless, and if the deadline is missed, rates revert to the prior administration's formula. DOL's own estimate was that the current formula shifted about $2.46 billion a year from workers to employers, and in California the minimum H-2A wage fell from $19.97 to $16.90 an hour. H-2A certifications hit a record 398,258 positions in fiscal 2025.",
+      "why": "Dairies gained limited H-2A access in June 2026 for work that is genuinely temporary or seasonal, so any operation using or pricing that route should plan for a higher wage floor from December 30, and for back pay exposure if retroactivity survives.",
+      "url": "https://fortune.com/2026/10/28/trump-h2a-farmworker-pay-cut-ruling-back-pay-deadline/",
+      "source_name": "Fortune"
+    },
+    {
+      "section": "Inputs",
+      "headline": "A meta-analysis of 31 trials finds essential oil additives do nothing measurable",
+      "body": "A review in Frontiers in Animal Science pooled 31 eligible reports on plant essential oil feed additives in lactating dairy cows and found no statistically significant effect on any outcome tested. Milk yield came in at SMD 0.47 (95% CI -0.29 to 1.22; P = 0.225), methane emission at SMD -0.87 (P = 0.0835), methane yield at SMD -0.40 (P = 0.498) and methane intensity at SMD -0.79 (P = 0.0748). Heterogeneity was severe throughout, from I-squared of 85.76% to 95.2%, and the authors call the subgroup patterns hypothesis-generating only.",
+      "why": "Essential oil products are sold on yield and methane claims this evidence base does not support, so treat any such line item in your ration budget as unproven and demand trial data on your own ration before paying for it.",
+      "url": "https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2026.1923564/full",
+      "source_name": "Frontiers in Animal Science"
+    }
+  ]
+}

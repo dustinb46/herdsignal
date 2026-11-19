@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-30",
+  "intro": "Two animal-health fronts widened in the last two days: a bird flu cluster that Washington's own table now totals at 30 dairy herds, and a screwworm quarantine that reached the far western corner of Texas because a dog tested positive across a state line. On the money side the midweek break reversed in a single session, the survey prices that actually write the milk check turned up together for the first time in a month, and a tariff rewrite published this morning repriced the packaging and plant equipment that cross the Canadian border.",
+  "items": [
+    {
+      "section": "Animal health",
+      "headline": "The state's own table now lists 30 infected dairy herds, 29 of them in one county",
+      "body": "Washington's agriculture department publishes a dated table of H5N1 detections in cattle. It now carries seven rows for 2026: two Yakima County dairy herds on 10/08, one on 10/15, five on 10/16, one on 10/21, seventeen on 10/23, one Benton County herd on 10/23, and three more Yakima herds on 10/26. That is 30 herds in eighteen days, twenty-nine of them inside a single county, and the seventeen-herd row is by a wide margin the largest single date the state has posted. The state veterinarian told a public broadcaster this week that \"the virus is moving fast ... despite all the efforts that we've done within containment,\" and that \"every farm in the targeted milkshed where we're seeing spread is being tested on a weekly basis.\"",
+      "why": "Thirty herds inside one milkshed is a regional supply and labor event rather than a biosecurity footnote, and weekly testing of every farm in an affected milkshed is the surveillance bill any state will copy the week it gets its own first detection.",
+      "url": "https://agr.wa.gov/departments/animals-livestock-and-pets/avian-health/avian-influenza/hpai-(h5n1)-in-cattle-producer-resources",
+      "source_name": "the Washington State Department of Agriculture"
+    },
+    {
+      "section": "Policy",
+      "headline": "Carton board, filling lines and refrigeration came off a 50% Canadian duty at 12:01 this morning",
+      "body": "A proclamation signed October 23 and published in today's Federal Register rewrites which Canadian goods carry the 50 percent additional duty imposed under Section 338 of the Tariff Act of 1930, effective 12:01 a.m. eastern time on October 30. Annex I, Part A, \"Products No Longer Covered by Section 338 Tariffs,\" drops the duty on coated bleached paperboard (4811.51.20 and 4811.51.40), corrugated cartons, boxes and cases (4819.10.00), paper sacks and bags (4819.40.00), molded or pressed paper-pulp articles (4823.70.00), polyethylene sacks and bags (3923.21.00), polypropylene film (3920.20.00), plastic crates and cases for packing goods (3923.10.90), \"refrigerating or freezing equipment nesoi\" (8418.69.01), industrial equipment \"for the treatment of materials, by process involving a change in temperature\" (8419.89.95), machinery \"for filling, closing, sealing, capsuling or labeling bottles, cans, boxes\" (8422.30.91) and packing or wrapping machinery (8422.40.91). Part B moves the other way, putting the 50 percent duty onto cocoa powder across subheading 1806.10. Neither annex contains a Chapter 04 subheading.",
+      "why": "Packaging contracts and plant capital projects quoted with a 50 percent duty built into Canadian-sourced board, film, cases, fillers and cooling gear were repriced overnight, cocoa-based flavored milk and frozen dessert just got dearer to make, and nothing in this action touches the duty on Canadian cheese.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22292.pdf",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The survey prices that write your check all turned up at once, and still sit 32 cents under spot cheese",
+      "body": "In the National Dairy Products Sales Report published October 28 for the week ending October 24, every one of the four surveyed products rose. Forty-pound cheddar blocks averaged $1.4178 a pound, up 3.1 cents and the first weekly increase after four straight declines from $1.4974 on September 26. Nonfat dry milk averaged $2.0538, up 5.8 cents and the highest of the five weeks printed. Dry whey averaged $0.7374, up 1.2 cents, and butter $1.3627, up 0.9 cents. Block sales came to 10.5 million pounds, also the heaviest of the five weeks. Set against Thursday's CME close of $1.7350 for blocks, the survey price is still 31.7 cents lower.",
+      "why": "These are the prices the Class III and Class IV formulas actually use, so the exchange rally has not been paid out yet. At current spot levels it reaches the November and December checks, and only for as long as spot holds.",
+      "url": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Markets",
+      "headline": "Wednesday's break in fat and powder lasted exactly one session",
+      "body": "At Thursday's CME spot call, Grade AA butter closed at $1.3200, up 3.5 cents and back above where it started the week, after Wednesday's 2.5-cent drop to $1.2850. Grade A nonfat dry milk closed at $2.0875, up 4.75 cents after losing 2 cents the day before, and extra grade dry whey added a cent to $0.8200 after Wednesday's 3.25-cent break. Cheese went the other way: 40-pound blocks lost a cent to $1.7350, giving back most of the 1.5 cents they had gained on Tuesday and Wednesday, while barrels held unchanged at $1.7250.",
+      "why": "Butterfat found a floor at Wednesday's $1.2850 inside a single session, which argues that the break was positioning rather than demand, while cheese, the one leg that has been holding Class III up on its own, is the market that stopped going up.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1603.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Animal health",
+      "headline": "A dog across a state line just put part of a Texas county under a livestock movement quarantine",
+      "body": "Texas animal health officials issued an executive director order on October 29 designating parts of El Paso County as Infested Zone 26 for New World screwworm. The order states its trigger plainly: \"On October 28, 2026, New Mexico established an infested zone in Dona Ana County following the detection of NWS in a canine less than 12 miles from the Texas-New Mexico border near El Paso County, Texas.\" Inside the zone, warm-blooded animals may not be moved out without prior authorization, must be inspected and treated as required and issued a permit or certificate to move, and \"hides, carcasses, and parts of any animal capable of serving as a host\" must be inspected and treated before leaving. Unauthorized movement carries administrative penalties or criminal prosecution. Two further orders landed in the same two days, covering El Paso and Hudspeth counties on October 28 and Jeff Davis and Presidio counties on October 29.",
+      "why": "The quarantine that catches your cattle can be triggered by a companion animal in another state, and the carcass-and-hide clause pulls mortality pickup and rendering into the permit requirement, not just live-animal moves.",
+      "url": "https://www.tahc.texas.gov/regs/pdf/2026-10-29_NWS_EDO_ElPaso.pdf",
+      "source_name": "the Texas Animal Health Commission"
+    },
+    {
+      "section": "Inputs",
+      "headline": "The Fed held rates, and both dissenting votes wanted them higher",
+      "body": "The Federal Open Market Committee voted 10-2 on October 28 to keep the federal funds target range at 3-3/4 to 4 percent, and the Board set the primary credit rate at 4.0 percent. The statement reads that \"Economic activity is expanding at a strong pace,\" that \"Inflation remains elevated,\" and that \"The Committee will deliver price stability.\" The two votes against the action, Lisa D. Cook and Beth M. Hammack, both \"preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.\" The next scheduled meeting is in December.",
+      "why": "Operating lines and variable-rate term debt sit still for now, but with both dissents on the hike side the risk to next year's interest line points up rather than down, which is the rate to stress-test against before committing to heifers, feed contracts or facility work this winter.",
+      "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf",
+      "source_name": "the Federal Reserve"
+    }
+  ]
+}
