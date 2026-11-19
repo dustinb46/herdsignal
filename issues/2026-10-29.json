@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-29",
+  "intro": "Wednesday's spot session took whey, powder and butter down together and left cheddar as the only market still bid, which leaves Class III leaning on cheese alone. Read against the last Global Dairy Trade event, the same prices show an export position that has flipped by product: U.S. butterfat is now the cheap origin, and U.S. cheese and powder are not.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Whey, powder and butter all broke in the same session while cheese held",
+      "body": "At the CME spot call on Wednesday, October 28, dry whey fell 3.25 cents to $0.8100 after holding at $0.8425 for two sessions, Grade A nonfat dry milk lost 2 cents to $2.0400, and Grade AA butter gave up 2.5 cents to $1.2850. Cheddar was the only market higher: 40-pound blocks and barrels each added half a cent, to $1.7450 and $1.7250.",
+      "why": "Cheese is now holding Class III up on its own. The whey and powder legs that carried the class through October are coming off, and USDA's survey whey price was still only $0.7260 for the week ending October 17, so the spot break has not reached the milk check yet.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1603.pdf",
+      "source_name": "USDA Dairy Market News"
+    },
+    {
+      "section": "Trade",
+      "headline": "U.S. butterfat is clearing 40% under the world price, and U.S. cheese and powder are now above it",
+      "body": "USDA's recap of Global Dairy Trade Event 414 on October 20 put butter at $2.1414 per pound across all contracts, cheddar at $1.6534 and skim milk powder at $1.8030. At the CME spot call on October 28, Grade AA butter closed at $1.2850, 40-pound cheddar blocks at $1.7450 and Grade A nonfat dry milk at $2.0400.",
+      "why": "The export advantage has flipped by product. Butterfat is the cheap origin and should get pulled offshore, while cheese and powder, where nearly all the new U.S. processing capacity is aimed, have just lost their price edge.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1604.pdf",
+      "source_name": "USDA Dairy Market News"
+    },
+    {
+      "section": "Processing",
+      "headline": "Danone's North American volumes went backwards last quarter",
+      "body": "In results published October 28, Danone reported third-quarter sales of EUR 7,233 million, up 4.0% like-for-like on volume/mix of +0.4% and price of +3.6%. North America grew 2.4% like-for-like, but entirely on price: volume/mix was -0.6%. The company said new leadership for its U.S. business has been appointed effective immediately.",
+      "why": "A buyer that size holding sales up on price while shipping fewer units means softer pull on cultured and fluid milk from that account, and a management change at the top of a U.S. business usually resets promotional plans and procurement volumes with it.",
+      "url": "https://www.danone.com/content/dam/corp/global/danonecom/investors/en-all-publications/2026/pressreleases/prdanone281026.pdf",
+      "source_name": "Danone"
+    },
+    {
+      "section": "Policy",
+      "headline": "An Australian state has written cell-cultured food into its dairy statute, with a milk analogue application pending",
+      "body": "Reported October 29: Victoria's agriculture minister has gazetted cell-cultured food as permitted for sale under the state's Dairy and Food Innovation Act from July 2027, while Eden Brew's application to sell a lab-grown milk alternative is still pending. Dairy Australia notes the state gazette does not constitute national food approval and that application A1342 remains under assessment by Food Standards Australia New Zealand. Farm groups are asking for labelling that distinguishes conventional dairy, and for genetically modified milk protein to be declared as such.",
+      "why": "Labelling is the whole contest, meaning whether a fermentation-made or cell-made protein has to say so on the panel, and a precedent set in a major exporting country is the one U.S. processors and regulators will be pointed to.",
+      "url": "https://www.stockandland.com.au/story/9381584/dairy-leaders-sound-alarm-over-approval-of-cell-cultured-food/",
+      "source_name": "Stock & Land"
+    }
+  ]
+}

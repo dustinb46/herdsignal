@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-02",
+  "intro": "The weekend turned the H5N1 outbreak from a production problem into a public-health one: a Washington county reported on Sunday that a resident exposed to infected dairy cattle has died, and a third human case alongside it. The price signals worth reading are all offshore, because the lowest-cost exporter is paying more for milk at record volume, Europe's farmgate is still a fifth below last year, and Commerce quietly reaffirmed that exactly one country subsidises the cheese coming in under quota.",
+  "items": [
+    {
+      "section": "Animal health",
+      "headline": "A dairy-linked H5N1 infection has turned fatal, and a third human case came in the same release",
+      "body": "The Yakima Health District announced on Sunday, Nov. 1, that a county resident hospitalised with severe avian influenza died that day after exposure to infected cattle at a Yakima County dairy; the person had underlying health conditions, and the district is withholding name, age and gender. The same release reported a third confirmed human case in the county, also traced to exposure to infected dairy cattle, which did not involve severe illness or hospitalisation. The district's health officer said that \"while this is a serious and heartbreaking outcome, the risk to the general public remains low,\" and officials noted person-to-person spread has never been documented in the United States. The district says it will update its avian influenza page twice a week.",
+      "why": "Worker exposure on an infected herd is now a documented fatality risk rather than a conjunctivitis story, which raises the bar on parlour PPE, sick-leave practice and who you let near a fresh pen, and makes it likelier that state health authorities, not just agriculture departments, shape the terms of the next herd break.",
+      "url": "https://www.nbcrightnow.com/tricities/yakima-county-resident-dies-from-avian-influenza-complications/article_c7592c7d-7b25-46c6-8e0e-560428a3866f.html",
+      "source_name": "NBC Right Now"
+    },
+    {
+      "section": "Trade",
+      "headline": "Commerce's quarterly cheese-subsidy list has exactly one country on it, at 47 cents a pound",
+      "body": "In a notice published Oct. 29, the International Trade Administration updated its statutory listing of foreign government subsidies on cheese entering under an in-quota rate of duty, covering imports from April 1 through June 30, 2026. Canada's \"Export Assistance on Certain Types of Cheese\" is carried at a gross and net subsidy of $0.47 per pound. Everything else on the list is zero: the 27 EU member states' restitution payments, Norway's indirect milk and consumer subsidies, and Switzerland's deficiency payments all show $0.00. Commerce also records that it received no comments, information or requests for consultation from any party on the previous quarterly update. Comments on this one are due Dec. 31, 2026, under Docket No. ITA-2020-0005.",
+      "why": "That 47-cent figure is the official number any countervailing duty on in-quota Canadian cheese would be built from, and with no industry comments filed last quarter the list is being maintained on Commerce's own information while the broader Canada tariff fight sits in front of a trade court.",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/html/2026-22103.htm",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The lowest-cost exporter just raised its farmgate forecast to NZ$9.75 while running record collections",
+      "body": "On Oct. 29 Fonterra lifted the midpoint of its 2026/27 forecast farmgate milk price by 25 cents to NZ$9.75 per kgMS and narrowed the range to NZ$9.00 to $10.50 from $8.50 to $10.50. The co-op attributed the move mainly to improving whole milk powder and skim milk powder demand (WMP and SMP rose roughly 5% and 7% across the last two Global Dairy Trade auctions on demand from Southeast Asia, the Middle East, Africa and China) and its chief executive pointed to a well-contracted sales book despite record milk collections. New Zealand's September output was itself a record, 2,693,000 MT, up 1.0% year over year with milk solids up 1.9%. The organic forecast midpoint rose from NZ$14.30 to NZ$15.25.",
+      "why": "The cheapest milk in the world is getting a raise because powder demand improved, not because supply tightened, so U.S. nonfat dry milk is chasing the same recovering tenders against a competitor that is simultaneously at record volume and already contracted.",
+      "url": "https://www.nzherald.co.nz/business/companies/agribusiness/fonterra-lifts-202627-farmgate-milk-price-forecast-to-975-per-kgms/KOBYFSOU4FCFJIN2LNNGQYSS3U/",
+      "source_name": "the NZ Herald"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The EU farmgate price is still running 20.6% below a year ago",
+      "body": "USDA's international dairy report puts the August 2026 EU average milk price at 42.22 euro cents per kilogram, up 0.40% from July but 20.64% below August 2025. The spread inside the bloc is wide: Belgium posted the largest monthly gain, up 12.34% to 42.50 euro cents, while France recorded the largest decline, down 1.79% to 43.38 euro cents, and some member states were unchanged. USDA attributes the summer's output hit to heatwaves, compounded by dry weather that reduced feed quality and availability; milk production is now declining in France and Germany, and Dutch September output was down 1.7%.",
+      "why": "A European farmgate price down a fifth year over year is what sits behind the competitively priced EU skim powder now winning export interest in other regions, and it means the European supply response to this powder rally will be slower than its commodity quotes suggest, because the milk price doing the signalling is still a long way down.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Cull market",
+      "headline": "Organic cull cows brought $20 more per hundredweight, and about 160 pounds less per head",
+      "body": "A Pacific Northwest livestock auction reported in USDA's organic dairy coverage shows organic cull cows averaging $125.97 per hundredweight at 1,100.0 pounds, against $105.99 per hundredweight at 1,258.1 pounds for conventional cows. At the top of the market the ranking flips: the top 10 organic cows averaged $133.21 per hundredweight at 1,191.5 pounds, while the top 10 conventional cows averaged $142.85 at 1,743.0 pounds.",
+      "why": "The per-hundredweight premium barely survives the scale ticket. On those averages the organic cow is worth about $1,386 a head against $1,334 conventional, and at the top end the conventional cow is roughly $900 ahead, so an organic herd budgeting cull revenue off the quoted price rather than off carcass weight is overstating the salvage value of every cow it ships.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Finance",
+      "headline": "Chapter 12 farm bankruptcy filings are running 19% ahead of last year",
+      "body": "Federal court data compiled by the National Agricultural Law Center's DEBT project, reported Oct. 22 by the University of Arkansas Division of Agriculture, show 292 Chapter 12 farm bankruptcy filings in the first three quarters of 2026 against 246 in the same period of 2025, nearly 19% more. Ninety-one of those came in the third quarter alone. Arkansas led the nation with 12 third-quarter filings and Iowa was next with six. Chapter 11 filings across all industries rose 11.5%, to 7,623 from 6,838.",
+      "why": "Chapter 12 filings are not broken out by commodity, so this is a credit-conditions signal rather than a dairy number, but it is the signal an ag lender reads before repricing an operating line or tightening covenants at renewal, and renewal season is now.",
+      "url": "https://www.uaex.uada.edu/media-resources/news/2026/october/10-22-2026-ark-nalc-q3-bankruptcies.aspx",
+      "source_name": "the University of Arkansas Division of Agriculture"
+    },
+    {
+      "section": "Nutrition",
+      "headline": "Only about a third of cows respond to protein the way the herd-average model says",
+      "body": "Virginia Tech announced on Oct. 27 a four-year, $1.15 million USDA-funded project to build a self-learning feeding tool, SLDairy, that uses real-time robotic milking and automated-feeder data to set protein cow by cow. The research behind it finds that about one-third of cows respond as herd-average models predict, one-third need considerably less protein than conventional feeding supplies, and one-third do better on more. Reallocating protein from the second group to the third is expected to raise the herd's milk protein output without increasing total protein fed, while improving nitrogen-use efficiency and reducing ammonia emissions. Partners include Emory University and the universities of Idaho, Nebraska and Tennessee; planned extensions include wearable sensors and weather-aware diet adjustment.",
+      "why": "If the response really splits in thirds, every herd on a single ration is overfeeding roughly a third of its cows and underfeeding another third, which is a feed-cost line, a component-premium line, and, wherever a nutrient management plan is binding, a permitted-nitrogen line all at once.",
+      "url": "https://news.vt.edu/articles/2026/10/cals-mark-hanigan-sldairy.html",
+      "source_name": "Virginia Tech"
+    }
+  ]
+}

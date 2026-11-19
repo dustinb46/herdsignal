@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-19",
+  "intro": "USDA's December price announcement and its weekly cheese survey landed on the same day and pointed at the same gap: the regulated numbers that will set your check are running well above where the exchange closed this week. Around that, the day's news is mostly about terms being set for you from the outside, by a farm bill clock, a screwworm program short on flies, and the people who buy your milk.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "December Class I is $21.11, and powder has now set the mover ten months running",
+      "body": "USDA announced December advanced prices on November 18. The base Class I price is $21.11 per hundredweight, up $0.84 from November, and the base skim milk price for Class I is $16.93, which is the advanced Class IV skim factor rather than the Class III one. Class IV skim has been the higher of the two every month since March, so it has set the Class I mover for ten straight months. The advanced Class III skim factor jumped to $13.44 from $10.38 in November on a two week cheese average of $1.6798, while the advanced butterfat pricing factor slipped again to $1.3641 on a two week butter average of $1.3536.",
+      "why": "Your fluid premium is being written off nonfat dry milk, not cheddar, so the powder market moves the Class I side of your check more than the cheese market does, and anyone hedging Class III as a proxy for fluid exposure is hedging the wrong class. The butterfat factor is the other half of the story: at $1.3641 it is less than half the $2.9307 that applied in January 2025, which is the whole butterfat repricing arriving inside the regulated formula.",
+      "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The survey price for cheddar is running about 15 cents above the spot board",
+      "body": "The National Dairy Products Sales Report published November 18 put the weighted average price for 40 pound cheddar blocks at $1.7137 per pound for the week ending November 14, up 7.4 cents on the week and up 32.7 cents in four weeks, on 11.9 million pounds sold, the heaviest volume in the five week table. Cheese Market News reported CME blocks closing at $1.5675 on November 18 and barrels at $1.6000. Dry whey ran the other way: the survey average was 75.4 cents, up 1.9 cents, while the exchange sat at 92 cents.",
+      "why": "Component prices are set off the survey, not the board, so November Class III will print stronger than the spot market has looked all month, and that gap has to close one way or the other in December. The whey half is the opposite trade, with the board already about 17 cents above what plants are reporting they actually sold at, which means the other solids price still has room to climb even if cheese does not.",
+      "url": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Animal health",
+      "headline": "GAO says sterile flies may not be enough, and USDA has gone to EPA for an emergency exemption",
+      "body": "GAO published a Science and Technology Spotlight on New World screwworm eradication on November 18. It states that the jointly funded Panama facility releases about 100 million sterile flies a week, and that researchers are developing genetically engineered male only strains and gene drives that could suppress wild populations more effectively than the current sterile insect technique. GAO notes that as of November 2026 USDA is seeking an emergency use exemption from EPA for a strain of genetically engineered male flies, and that these technologies face an uncertain regulatory environment and raise ethical questions.",
+      "why": "The federal fallback if this reaches your cattle is a fly supply that is already short, which is why USDA is trying to shortcut a pesticide approval rather than wait for the normal route. Plan wound checks and treatment protocols on the assumption that sterile releases get rationed by geography, and that the first line of defense on your place is a person looking at animals, not a release schedule.",
+      "url": "https://www.gao.gov/products/gao-27-109347",
+      "source_name": "GAO"
+    },
+    {
+      "section": "Policy",
+      "headline": "The farm bill has weeks left on the clock, and the fight is over SNAP, not the commodity titles",
+      "body": "Negotiators have until the new year to reconcile a five year farm bill before a new two year session begins, after which another extension becomes the likely outcome. The Senate Agriculture Committee approved S. 5526 along party lines in September and the House passed H.R. 7567 in April. The open dispute is a proposal to shift part of SNAP's cost to states with high payment error rates: Senate Republicans have offered a one year delay and Democrats want at least two. Senate Agriculture Chairman John Boozman says both parties are negotiating in good faith, while some expect Democrats to wait until they control both chambers next year.",
+      "why": "Dairy Margin Coverage is a farm bill program, so an extension freezes the coverage terms and premium schedule you are electing under right now instead of whatever either chamber wrote. Make your 2027 DMC election on the rules that exist today, and treat any promised improvement in coverage levels or Tier 1 pounds as unfunded until a bill is signed.",
+      "url": "https://www.agri-pulse.com/articles/25524-farm-bill-negotiators-try-to-outrun-the-clock-as-hurdles-remain",
+      "source_name": "Agri-Pulse"
+    },
+    {
+      "section": "Demand",
+      "headline": "Thanksgiving costs more for the first time since 2022, and the milk line rose while the cream line fell",
+      "body": "The American Farm Bureau Federation's 41st annual survey puts a classic Thanksgiving dinner for ten at $58.63, about $5.86 a person and up 6% on the year. It is the first increase since the 2022 record and still more than 8% below it. A 16 pound frozen turkey is $23.68, up $2.38 or 10%. Whole milk and pumpkin pie mix both rose, while heavy whipping cream is cheaper than last year. Farm Bureau points to record diesel costs, elevated fertilizer prices and higher labor expenses, and notes farmers cannot pass those costs up the supply chain the way wholesalers and retailers can.",
+      "why": "The two dairy lines in the basket split exactly the way the commodity market has, with fluid firming and cream getting cheaper, so the butterfat discount is now visible at the shelf and not only on the exchange. If your fourth quarter plan assumed holiday churn demand would put a floor under butter, the retail side is not confirming it.",
+      "url": "https://www.fb.org/intel/markets/thanksgiving-dinner-cost-ticks-upward-in-2026",
+      "source_name": "the American Farm Bureau Federation"
+    },
+    {
+      "section": "Technology",
+      "headline": "A collar company put an assistant on top of 1.2 trillion rows of cow data",
+      "body": "Halter launched Mav on November 19, an AI tool that answers farmer questions against the data its collars already collect: which animals need attention, how pasture growth compares with past seasons, how long the herd spends on the feedpad. It also sends a daily text summarizing grazing, pasture covers, heat detections, mating and calvings. The company says the system sits on more than 1.2 trillion data records and more than 500 million collar days, including 7 million heat detections, 1.2 million health cases and 10,000 cumulative breeding seasons, and that more than 100,000 questions were asked during the beta.",
+      "why": "What a collar sold you until now was an alert; what is being sold next is the archive behind it, which is a different purchase and a much stickier one. Before you sign, ask any vendor pitching an on farm assistant who owns the history it answers from, and what you can still query about your own herd on the day you switch systems.",
+      "url": "https://farmersweekly.co.nz/technology/halter-launches-mav-ai-tool-for-farmers",
+      "source_name": "Farmers Weekly"
+    },
+    {
+      "section": "Sustainability",
+      "headline": "A processor funded net zero farm is down 26% on absolute emissions, and its intensity went backwards this year",
+      "body": "Nestle has renewed funding through 2030 for the Net Zero Pilot Dairy Farm it runs with Fonterra and Dairy Trust Taranaki, a 250 hectare farm near Fonterra's Whareroa manufacturing site. Measured against the 2021/22 baseline, absolute emissions are down about 26% and emissions intensity is down about 9%. Intensity worsened in the most recent period, which Fonterra attributed to greater reliance on imported feed through a drought in 2025.",
+      "why": "This is the farm your buyer's sustainability team will point to when it writes the next supply agreement, and the number worth arguing with is not the 26%: it is that one dry year pushed intensity the wrong way on a farm with a corporate budget behind it. Any emissions intensity target that lands in a milk contract needs a weather provision, because purchased feed in a short forage year is exactly what breaks it.",
+      "url": "https://www.dairyreporter.com/Article/2026/11/18/fonterra-and-nestle-extend-net-zero-dairy-farm-project-as-emissions-fall-26/",
+      "source_name": "DairyReporter"
+    }
+  ]
+}

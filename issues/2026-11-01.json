@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-01",
+  "intro": "This week's USDA data describes a pool that is growing fast into the classes that pay least: September's federally pooled volume rose 11.7% while the Class I milk inside it fell 2.2%, and the retail circulars pulled conventional gallon milk almost entirely out of the ad rotation. The demand that is still growing sits abroad, in ice cream in Europe and cheese into Central America, while a second state this month found H5N1 in a herd that looked healthy.",
+  "items": [
+    {
+      "section": "Animal health",
+      "headline": "Colorado turns up its first H5N1 dairy herd since 2024, found by bulk tank, not by sick cows",
+      "body": "Routine bulk-tank testing at a Weld County dairy came back non-negative for H5N1 clade 2.3.4.4b on Friday, Oct. 23, and the National Veterinary Services Laboratories confirmed it; the genotype is B3.13, the lineage that has moved dairy-to-dairy rather than from wild birds. The herd was not visibly sick, and the dairy reported some recent mastitis cases and a slight drop in milk production. The farm is under state quarantine restricting movement of lactating cattle until it passes two negative bulk-tank tests at least a week apart, and Colorado's status under the National Milk Testing Strategy has moved to \"Affected.\"",
+      "why": "Lactating cattle leaving the state must now test negative for Influenza A within seven days of the move, every animal in groups of 30 or fewer and 30 head in larger groups, and APHIS pays for the lab work but not for sample collection or shipping, so a herd with no clinical signs can still become a movement and cost problem overnight.",
+      "url": "https://kiowacountypress.net/content/bird-flu-confirmed-weld-county-dairy-milk-sample-changing-colorados-status",
+      "source_name": "the Colorado Department of Agriculture, via the Kiowa County Press"
+    },
+    {
+      "section": "Milk price",
+      "headline": "September's pool grew 11.7% while the Class I milk inside it shrank 2.2%",
+      "body": "USDA's September market summary reports 12.9 billion pounds of milk received from federally pooled producers, 11.7% more than September 2025. Regulated handlers pooled 3.4 billion pounds as Class I, down 2.2% from a year earlier. All-market class utilization came in at Class I 26%, Class II 14%, Class III 55% and Class IV 5%, and the weighted average statistical uniform price was $18.09 per cwt, $0.66 below August and $0.54 below last September.",
+      "why": "The pool is expanding almost entirely into the manufacturing classes while the highest-priced outlet contracts, and that mix shift is what pulls a uniform price down even in a month when component prices hold. If your order's Class I share is falling, your producer price differential is being diluted by someone else's new milk.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Milk check",
+      "headline": "The July mailbox price lands at $19.23, down 91 cents from a year ago",
+      "body": "Newly published in this week's report: mailbox milk prices for selected reporting areas in Federal milk orders averaged $19.23 per cwt in July 2026, down $0.95 from the June 2026 average and down $0.91 per cwt from July 2025. Mailbox is reported on a roughly three-month lag, so July is the most recent month available.",
+      "why": "Mailbox is the only published figure that nets hauling, marketing and cooperative deductions out of the announced price, so it is the closest public proxy for what actually cleared your account, and it was already running a dollar behind last year before the autumn slide in butterfat worked through the wholesale indexes.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Policy",
+      "headline": "FDA's first infant-formula nutrient rewrite since 1998 sets a manganese ceiling that pinches soy, not milk",
+      "body": "FDA has sent a proposed rule to the Federal Register (docket FDA-2026-N-10832, publishing Nov. 2, comments close March 2, 2027) covering 8 of the 30 required infant formula nutrients, \"the first comprehensive update and review of infant formula nutrients by the FDA since 1998.\" It would raise the iodine minimum from 5 to 15 micrograms per 100 kcal while cutting the maximum from 75 to 50, raise the vitamin D minimum from 40 to 80 IU per 100 kcal, and establish a first-ever manganese maximum of 50 micrograms per 100 kcal. FDA writes that this maximum \"may represent the lowest technologically achievable level for soy protein-based formulas,\" while cow-milk-based formulas, which contain lower inherent manganese, have \"greater formulation flexibility.\"",
+      "why": "Infant formula is one of the highest-value destinations for nonfat solids and whey protein, and a specification ceiling that binds the soy side of the category while leaving milk-based formula room to reformulate is a quiet competitive tilt toward dairy protein in the one dairy-ingredient market still growing on value.",
+      "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22273/infant-formula-nutrient-requirements",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Trade",
+      "headline": "The processors' trade group tells USTR that 58% of U.S. dairy exports go to just five countries",
+      "body": "In comments filed Oct. 29 for USTR's 2027 National Trade Estimate Report on Foreign Trade Barriers, IDFA states that exports account for \"nearly 20% of all U.S. dairy production\" and that \"58% of our exports go to just five countries,\" against total export value \"eclipsing $9.5 billion in value in 2025.\" The markets it flags represent \"more than 54% of all U.S. dairy exports, totaling over $5 billion in 2025.\" Named barriers include Canada's milk class pricing and tariff-rate quota administration, environmental reporting regulations in the EU, facility registration standards in Turkiye and product registration requirements in Malaysia.",
+      "why": "With $15 billion of announced processing investment still looking for an outlet and a fifth of production already leaving the country, that concentration means a single market closing is not an export problem, it is a domestic surplus landing back on the spot market you sell into.",
+      "url": "https://www.idfa.org/news/idfa-urges-u-s-government-to-address-global-trade-barriers-and-expand-market-opportunities-for-u-s-dairy",
+      "source_name": "IDFA"
+    },
+    {
+      "section": "Exports",
+      "headline": "Plant approvals, not tariffs, are what moved U.S. dairy into Costa Rica: 43 plants in January, 259 now",
+      "body": "The number of U.S. dairy plants approved to ship to Costa Rica reached 259 as of Oct. 21, up from 43 in January. U.S. product accounted for $66.4 million of the country's $101.8 million in dairy imports through August, a 65.2% share, and nearly four times the $17.5 million shipped in the same period of 2020. Cheese is doing the work: 208 cheese products of U.S. origin were registered between Jan. 1 and Oct. 30, against 178 from Costa Rica itself. U.S. dairy has entered duty-free under CAFTA-DR since Jan. 1, 2025.",
+      "why": "Duty-free access was already in place for almost two years before volumes moved, so the binding constraint in these markets is whether your processor holds the importing country's plant registration, a procedural question your cooperative can answer, and one worth asking before the next round of surplus needs a home.",
+      "url": "https://ticotimes.net/2026/10/31/us-dairy-imports-costa-rica-2026",
+      "source_name": "The Tico Times"
+    },
+    {
+      "section": "Organic",
+      "headline": "Northeast organic fluid utilization fell about a quarter year over year",
+      "body": "Federal Milk Market Order 1 reports that organic whole milk utilization by regulated Northeast plants totaled 16.25 million pounds in September 2026, down from 21.61 million pounds a year earlier. Organic reduced-fat milk fell to 13.12 million pounds from 15.96 million. Butterfat on the whole milk was unchanged at 3.29%, so this is volume leaving, not a component shift. The same report has Midwest organic feed soybean forward contracts for Q4 2026 delivery trading 69 cents per bushel higher this period.",
+      "why": "The organic premium is paid for by fluid outlets rather than manufacturing ones, so a double-digit drop in the utilization that supports it, landing in the same period that the protein side of the organic ration got dearer, squeezes the organic margin from both ends at once.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Retail",
+      "headline": "Conventional gallon milk has all but vanished from the ad circulars: 1,348 ads this week against 6,156 a year ago",
+      "body": "USDA's week-44 grocery survey counted 1,348 total conventional gallon milk ads, down from 6,156 in week 44 last year, even though conventional milk ads overall rose 21% week over week. Organic half-gallon ads ran the other way at 4,937, up from 2,343 a year ago. The average advertised price for conventional gallons was $3.72, up 21 cents, while conventional half gallons fell 22 cents to $1.86 and organic half gallons eased 10 cents to $4.09, lifting the organic half-gallon premium to $2.23.",
+      "why": "Promotion is what pulls discretionary fluid volume through the case, and retailers have moved it off the conventional gallon and onto organic half gallons heading into the holiday draw, so the Class I weakness in the September pool data is not only a supply-mix story, it is being reinforced at the shelf.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Demand",
+      "headline": "Ice cream volumes are growing 11.6% in Europe and 1.7% in the Americas",
+      "body": "The ice cream business spun out of Unilever reported Q3 organic sales growth of 9.6% on Oct. 29, split between 7.3% volume and 2.2% price, with revenue up 12.1% to 2.5 billion euros. It raised full-year organic sales guidance from 3 to 5% up to 5.5%. The split by region is wide: Europe and ANZ organic volume rose 11.6%, helped by an extended European summer the company credits with roughly 2 to 3% of growth, while Americas volume rose 1.7%.",
+      "why": "Ice cream is the largest discretionary home for surplus butterfat, and the growth in it is happening on the wrong side of the Atlantic. A 1.7% Americas volume line is not the demand signal that clears a domestic cream surplus trading at multiples as low as 1.12 in the West.",
+      "url": "https://www.dairyreporter.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update/",
+      "source_name": "DairyReporter"
+    }
+  ]
+}
