@@ -1,0 +1,62 @@
+{
+ "date": "2026-11-20",
+ "intro": "The skim side of the milk check is being rewritten by where the product goes: powder output fell while domestic use surged, dry whey left the country at a record pace, and imported butterfat ran 35.7 percent above last September. The rest of the day is about what it costs to keep cows fed and clean, from a new exceptional-drought pocket upstream of the region's hay to an Oregon herd that caught H5N1 without a cow crossing the state line.",
+ "items": [
+  {
+   "section": "Animal health",
+   "headline": "Oregon's H5N1 herd got the virus without a cow crossing the state line",
+   "body": "Oregon's state veterinarian said genetic sequencing ties the Morrow County dairy outbreak to the Washington outbreak in the Yakima Valley, where dozens of herds have tested positive, but no cattle moved from Yakima to the Oregon dairy. He attributed the jump to contaminated items such as boots, vehicles or equipment, which is how the virus typically moves within dairy sheds. Routine weekly milk testing by the Oregon Department of Agriculture flagged the herd, and no other Oregon herd had tested positive in the two weeks after the detection. State health officials also confirmed Oregon's first human avian influenza case of the year in a worker at that dairy, with eye inflammation and upper respiratory symptoms, treated with oseltamivir and not hospitalized.",
+   "why": "Pre-movement testing and a closed herd do not cover this route, so the control that actually carries the risk is traffic: shared trucks, equipment and people between farms. State health workers expect to stay with that one farm at least six more weeks, which is a reasonable planning window for any herd that breaks.",
+   "url": "https://www.opb.org/article/2026/11/19/avian-flu-oregon-health-dairy-cows-influenza/",
+   "source_name": "OPB"
+  },
+  {
+   "section": "Milk price",
+   "headline": "Powder production fell 13.4% in September while domestic use ran 27.9% ahead",
+   "body": "USDA's November outlook, published November 17, puts September production of dry skim milk products 13.4 percent below a year earlier, with September ending stocks 5.1 percent under last year. Through the first nine months of 2026, domestic use of dry skim milk products was 27.9 percent higher year over year, the largest increase among the major dairy products USDA tracks. For the week ending November 6, USDA's market reporters described tight nonfat dry milk inventories, limited spot availability and stronger demand both domestically and internationally. CME spot nonfat dry milk averaged $2.0980 a pound in the week ending November 14, and the survey price averaged $2.0705 for the week ending November 7.",
+   "why": "The Class IV side of your check is being held up by a domestic shortage of powder rather than by an export order, which is a slower and more durable kind of support. It also moves the risk: a stumble in domestic demand, not a lost foreign buyer, is what would take it away.",
+   "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+   "source_name": "USDA"
+  },
+  {
+   "section": "Exports",
+   "headline": "Dry whey exports are up 58% this year while domestic use of it is down 44.7%",
+   "body": "In the same outlook, January through September exports of dry whey ran 58.0 percent above last year, the largest gain of any product in USDA's table, while domestic use of dry whey fell 44.7 percent over the same nine months. Whey protein concentrate went the other direction, with exports down 8.1 percent and domestic use up 1.5 percent. Lactose exports were flat at 0.1 percent while domestic lactose use dropped 25.5 percent.",
+   "why": "The other-solids line on your check now leans on foreign buyers for the commodity stream and on domestic buyers for the concentrated one. That splits your exposure: a tariff or a freight problem hits one half of the whey complex, and a shift in domestic protein demand hits the other.",
+   "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+   "source_name": "USDA"
+  },
+  {
+   "section": "Trade",
+   "headline": "Butterfat imports jumped 35.7% in September while skim-solids imports fell",
+   "body": "On a milk-fat milk-equivalent basis, September dairy imports totaled 722.1 million pounds, 35.7 percent above September 2025, and the first nine months ran 17.1 percent higher, driven mainly by butter and cheese. Skim-solids imports moved the other way, at 482.1 million pounds in September, 13.8 percent below a year earlier and 3.7 percent lower year to date on weaker lactose and dry whey purchases. USDA notes in the same report that U.S. survey prices were below international prices for butter, cheddar cheese and dry whey.",
+   "why": "Imported fat is arriving in volume in the same month USDA says domestic butter, cheese and whey all price under world product, so the import door is open on price rather than on contract. That is the competition sitting on the fat half of your check while the skim half carries the milk price.",
+   "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+   "source_name": "USDA"
+  },
+  {
+   "section": "Processing",
+   "headline": "A top-five processor is putting $600 million into cottage cheese, cream cheese and protein drinks",
+   "body": "Saputo announced on November 19 a $600 million phased investment to expand and modernize its manufacturing network, aimed at cottage cheese, functional beverages, high-protein dairy and cream cheese. Construction and equipment installation are scheduled during fiscal 2027 and 2028, with roughly $140 million in incremental adjusted EBITDA expected at full utilization and the financial contribution starting in fiscal 2029. The company said existing supply and capacity constraints in those categories are part of the case for the spend, and that some elements remain subject to regulatory and permitting approvals.",
+   "why": "Another large buyer is committing capital to cultured and protein categories rather than to commodity cheese, which over the next three years changes which components a plant in your region wants and what a new milk contract gets written around.",
+   "url": "https://www.foodbev.com/news/saputo-commits-600m-to-expand-capacity-in-high-growth-dairy-categories",
+   "source_name": "FoodBev"
+  },
+  {
+   "section": "Inputs",
+   "headline": "Exceptional drought just appeared in northeastern Wyoming, upstream of the region's hay",
+   "body": "USDA's November 19 Colorado hay report, quoting the Drought Monitor's High Plains summary for November 17, says well above average temperatures and a lack of precipitation expanded extreme drought across northern and northeastern Wyoming and introduced exceptional drought in the northeast of that state. In Colorado itself, 11.40 percent of the state sits in the extreme to exceptional categories and 88.60 percent is abnormally dry or worse. Prices on all classes of hay held unchanged on light trade with good to very good demand, and the state's average diesel price was $5.8179 a gallon, down 22 cents on the week but $2.16 above a year ago. The next edition of the report is not due until December 3.",
+   "why": "Ranchers inside a new exceptional-drought pocket buy hay ahead of dairies, and the published price series you would use to argue a forage quote now goes dark for two weeks. If winter forage is still open, the quotes already in hand are the market until December.",
+   "url": "https://www.ams.usda.gov/mnreports/ams_2905.pdf",
+   "source_name": "USDA"
+  },
+  {
+   "section": "Policy",
+   "headline": "Britain's farm unions want the milk contract rules enforced, not rewritten",
+   "body": "The NFU, NFU Cymru, NFU Scotland and the Ulster Farmers' Union called on November 19 for tougher action against non-compliance with the Fair Dealing Obligations (Milk) Regulations 2024, which give producers rights on price-setting transparency, minimum notice periods and a route to challenge unfair terms through an adjudicator. The unions also want the government's review of those regulations, expected in 2027, to confirm that farmer representatives, including the newly created Association of Dairy Producer Organisations, can submit evidence to the adjudicator on behalf of individual producers or groups.",
+   "why": "This is the first real test of whether a statutory milk contract code gets enforced collectively rather than one producer at a time. It is also the template that would be argued over here if federal order reform ever reaches contract terms rather than minimum prices.",
+   "url": "https://www.dairyreporter.com/Article/2026/11/19/uk-farming-unions-demand-stronger-enforcement-of-milk-contract-rules-as-dairy-price-gap-widens/",
+   "source_name": "DairyReporter"
+  }
+ ]
+}

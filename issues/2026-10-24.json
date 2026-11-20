@@ -1,0 +1,86 @@
+{
+ "date": "2026-10-24",
+ "intro": "Powder is carrying the milk price while cheese slides, and this week's federal data says there is no shortage of milk to make either. The November Class I base price jumped $1.39 on the strength of the Class IV formula even as block cheddar fell for a fifth straight week and butter stocks held 16 percent above a year ago.",
+ "items": [
+  {
+   "section": "Milk price",
+   "headline": "Powder, not cheese, is setting the November Class I mover",
+   "body": "USDA's advanced price announcement put the November base Class I price at $20.27 per cwt, up $1.39 from October and the first print above $20 since July. The base skim price came off the Class IV side of the formula, the advanced Class IV skim milk pricing factor was $16.03 per cwt against Class III's $10.38, while the advanced butterfat pricing factor fell again, to $1.3730 per pound, from $1.8583 a year earlier.",
+   "why": "A fluid-heavy blend firms in November while cheese-plant milk sees none of it, and fat-weighted component checks keep thinning even as fat volumes rise.",
+   "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+   "source_name": "USDA AMS (ADV-1126)"
+  },
+  {
+   "section": "Markets",
+   "headline": "Blocks have given up 15.8 cents in five weeks while powder added 20",
+   "body": "In the National Dairy Products Sales Report for the week ending October 17, 40-pound cheddar blocks averaged $1.3856 per pound, down 4.5 cents on the week and down from $1.5435 on September 19. Nonfat dry milk went the other way, to $1.9959, up 3.0 cents on the week and 20.3 cents over those same five weeks; butter averaged $1.3547 and dry whey $0.7260.",
+   "why": "The Class III, Class IV spread is being written by that divergence, so where your milk is processed is doing more to your mailbox price right now than how much you ship.",
+   "url": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf",
+   "source_name": "USDA AMS (NDPSR-0757)"
+  },
+  {
+   "section": "Supply",
+   "headline": "September milk up 2.7%, and the herd is still growing",
+   "body": "NASS put September output in the 24 major states at 18.7 billion pounds, up 2.7% from a year earlier, with the milking herd at 9.30 million head: 162,000 above last September and 24,000 above August. August was revised up by 132 million pounds, and the national herd now stands at 9.743 million head, up 169,000 year over year.",
+   "why": "Supply growth is not slowing, so any price recovery has to come from demand or exports rather than from milk getting scarce.",
+   "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/mkpr1026.pdf",
+   "source_name": "USDA NASS"
+  },
+  {
+   "section": "Inventories",
+   "headline": "Butter stocks are running 16% above last year",
+   "body": "The Cold Storage report put September 30 butter holdings at 295.7 million pounds, down 5% from August but 16% above a year ago. Total natural cheese was 1.429 billion pounds, down 1% on the month and up 2% on the year, with the \"other cheese\" category at 613.5 million pounds, a record for that series.",
+   "why": "That overhang is why spot butter is sitting in the $1.30s during what should be the holiday build, and it caps how fast fat values can recover.",
+   "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/cost1026.pdf",
+   "source_name": "USDA NASS Cold Storage"
+  },
+  {
+   "section": "Consumer",
+   "headline": "Retail cheddar set a record in the same month wholesale blocks slid",
+   "body": "Federal average-price data put a pound of natural cheddar at retail at $6.133 in September, above the prior high of $6.123 set in August 2025 and up from $5.983 in August 2026. Wholesale 40-pound blocks averaged $1.3856 in the week ending October 17.",
+   "why": "The farm-to-retail gap is widening, which undercuts the usual assumption that weak farm-level prices will pull shoppers back into the dairy case.",
+   "url": "https://data.bls.gov/timeseries/APU0000710212",
+   "source_name": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "section": "Policy",
+   "headline": "USDA reopens the exempt-plant question for the first time since 1999",
+   "body": "AMS published a Request for Information on the de minimis exempt plant definition in the federal milk marketing orders, asking whether the 150,000-pounds-per-month route disposition limit, chosen in the 1999 Order Reform final rule and never amended, still fits current fluid milk marketing. Comments are due November 23, 2026 under Doc. No. AMS, DA, 26, 0298.",
+   "why": "That threshold decides which bottlers stay outside the pool, so moving it shifts pool obligations and, with them, producer price differentials in fluid-heavy orders.",
+   "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21668.pdf",
+   "source_name": "Federal Register"
+  },
+  {
+   "section": "Animal health",
+   "headline": "H5N1 found in two herds that had kept testing clean",
+   "body": "APHIS confirmed H5 clade 2.3.4.4b in two Washington dairy herds on October 8, the state's first livestock detections, and said the herds had \"consistently tested negative through routine surveillance\" under the National Milk Testing Strategy beforehand. Dairy cattle in 19 states have been infected since the outbreak began in March 2024.",
+   "why": "A clean bulk-tank result is a snapshot rather than a clearance, so biosecurity and introduction controls still have to carry the risk between tests.",
+   "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-two-dairy-herds",
+   "source_name": "USDA APHIS"
+  },
+  {
+   "section": "Animal health",
+   "headline": "Four screwworm zone orders in four days across West Texas",
+   "body": "State animal health officials issued or modified New World screwworm infested-zone orders covering Pecos, Terrell, Val Verde, Brewster, Jeff Davis, Reeves and Crockett counties between October 20 and 23. The state now counts 18 counties with a confirmed detection and 47 premises with at least one, and movement restrictions are in place across parts of 12 counties.",
+   "why": "Zone boundaries are being redrawn week to week, so anyone sourcing replacements or shipping culls through that region has to re-check movement requirements before each load.",
+   "url": "https://www.tahc.texas.gov/emergency/nws.html",
+   "source_name": "Texas Animal Health Commission"
+  },
+  {
+   "section": "Inputs",
+   "headline": "Diesel has held above $6 a gallon for six straight weeks",
+   "body": "The federal weekly survey put the U.S. average on-highway diesel price at $6.276 a gallon for the week of October 19, up 9.7 cents on the week, with every week since mid-September landing between $6.179 and $6.529. USDA's November order announcement used a diesel price of $5.815 a gallon in the Appalachian and Southeast mileage rate factor.",
+   "why": "Hauling and custom-harvest quotes are being reset at those levels now, and only the two Southeastern orders pass any of that back through the pool.",
+   "url": "https://www.eia.gov/petroleum/gasdiesel/",
+   "source_name": "U.S. Energy Information Administration"
+  },
+  {
+   "section": "Research",
+   "headline": "Methane-mitigating concentrates held milk yield but moved milk chemistry",
+   "body": "A field study of roughly 400 Holstein cows on three commercial farms over 47 months, published in Food Science of Animal Resources, found no significant effect on daily milk yield when farms switched to methane-mitigating concentrates, a yeast, garlic-derivative and tannin product, and an essential-oil blend, but lower milk protein, solids-not-fat and milk urea nitrogen, plus a modest but statistically consistent rise in somatic cell count. The authors did not measure methane and caution against reading the cell-count shift as causal.",
+   "why": "If an additive trims the components you are paid on, the feed-cost math needs a component-value line in it, not just the emissions claim.",
+   "url": "https://bioengineer.org/methane-cutting-cattle-feed-keeps-milk-flowing-but-shifts-milk-chemistry-on-real-farms/",
+   "source_name": "Study summary (Food Science of Animal Resources)"
+  }
+ ]
+}

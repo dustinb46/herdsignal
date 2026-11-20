@@ -1,0 +1,62 @@
+{
+ "date": "2026-10-28",
+ "intro": "Three deadlines are quietly running against operators at once: a margin-coverage signature due before December 18 that a six-year lock-in does not cover, a bird flu front that has moved to a second county, and a corn harvest still six points behind average in exactly the states that grow the most of it. Underneath that, the cheapest organic grain in years is arriving just as organic demand growth narrows to butterfat, and the cull market has turned down for the first time in weeks.",
+ "items": [
+  {
+   "section": "Policy",
+   "headline": "A six-year DMC lock-in still needs a signature and $100 before December 18",
+   "body": "Enrollment for 2027 Dairy Margin Coverage runs October 5 through December 18, 2026, with coverage selectable from $4.00 to $9.50 per hundredweight in $0.50 increments. The program page is explicit about the trap in the multi-year option: operations that elected the 2026-through-2031 lock-in, and took the 25 percent premium discount with it, \"must annually certify to commercially marketing milk, sign a DMC contract, and pay the $100 administrative fee for each program year to maintain coverage.\" Tier 1 coverage rose from 5 million to 6 million pounds starting in 2026.",
+   "why": "Locking in six years of coverage levels did not lock in six years of paperwork: miss the certification, the contract and the fee by December 18 and there is no 2027 coverage to collect on, whatever was elected last year.",
+   "url": "https://www.fsa.usda.gov/resources/programs/dairy-margin-coverage-program-dmc",
+   "source_name": "USDA Farm Service Agency"
+  },
+  {
+   "section": "Animal health",
+   "headline": "Bird flu reaches a second Washington county, and this time testing found it first",
+   "body": "State agriculture officials confirmed H5N1 in a Benton County dairy herd on October 26, the second county affected after the state's first detections earlier this month. The state veterinarian's statement draws the distinction that matters: \"This detection was through routine surveillance enabling us to detect the virus before cows got sick.\" The herd is quarantined under enhanced biosecurity, and the release puts typical full-herd recovery with supportive care at four to six weeks. Its control list is specific, no shared equipment, vehicles or workers between farms, a 30-day isolation on incoming animals, and milk from sick or suspect cows kept out of the bulk tank.",
+   "why": "Four to six weeks is the number to plan production and labor around, and catching the virus before clinical signs is the whole difference between pulling suspect cows out of the tank on your schedule and discovering the problem on the plant's.",
+   "url": "https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=47441",
+   "source_name": "Washington State Dept. of Agriculture"
+  },
+  {
+   "section": "Inputs",
+   "headline": "Soybeans have passed their average pace; corn is still six points behind it",
+   "body": "In the week ending October 25, corn harvest across the 18 major states reached 60 percent, up from 44 percent a week earlier but still behind the 66 percent five-year average. Soybeans went the other way, hitting 79 percent against a 77 percent average. The corn gap is concentrated: Iowa is 47 percent harvested against a 67 percent average, Michigan 28 against 43, Ohio 35 against 46 and South Dakota 44 against 62. Corn condition held at 56 percent good to excellent.",
+   "why": "Corn is the crop still stuck in the field, and it is stuck in the states that supply the most dairy feed, so expect local corn basis to stay firm into November while soybean meal gets no such support.",
+   "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/prog4326.pdf",
+   "source_name": "USDA NASS Crop Progress (Oct. 26)"
+  },
+  {
+   "section": "Trade",
+   "headline": "The big exporters' milk growth is forecast to fall from 3.1% to 0.5%",
+   "body": "A quarterly market review published October 22 carries Rabobank's forecast that milk production growth across the seven largest exporting regions slows to 0.5 percent in the second half of 2026, down from 3.1 percent in 2025, with the sharpest contractions expected in the EU in the fourth quarter of 2026 and the first quarter of 2027. Great Britain is already there: deliveries fell 3.1 percent in July, 4.4 percent in August and 2.3 percent in September, leaving the milk year down 2.5 percent, and the October forecast puts 2026/27 output at 12.73 billion litres, 2.2 percent below the previous milk year. September commodity prices moved up with it, butter gained 90 pounds a tonne to 3,540, mild cheddar 270 to 3,330 and skim milk powder 260 to 2,730.",
+   "why": "US output is running 2.7 percent higher while the rest of the export bloc flattens, which makes US product the marginal supply into any window that opens, and rising European prices are the first thing that would open one.",
+   "url": "https://ahdb.org.uk/news/q3-2026-dairy-market-review",
+   "source_name": "AHDB Q3 2026 dairy market review"
+  },
+  {
+   "section": "Processing",
+   "headline": "Eleven fermented milk proteins have now cleared the FDA's safety review",
+   "body": "A peer-reviewed review published in September reports that, as of September 1, 2026, eleven notices for recombinant milk and egg proteins had received \"no questions\" letters from the FDA under the Generally Recognized as Safe program. Its own table shows the pace: six of those eleven responses are dated February 2025 or later, the most recent in March 2026. Six of the eleven are beta-lactoglobulin, the principal whey protein, produced in yeast or fungal hosts; two more are recombinant bovine lactoferrin. A GRAS \"no questions\" letter is a safety clearance, not a commercial volume, and the authors' own argument is that these proteins still need case-by-case allergenicity assessment against their native counterparts.",
+   "why": "The ingredient buyers who set the bid for whey protein now have a regulatory path to a version that never passed through a cow, and six of the eleven clearances are for the exact protein your other-solids check is built on.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13564971/",
+   "source_name": "Foods (MDPI), 5 September 2026"
+  },
+  {
+   "section": "Organic",
+   "headline": "Organic feed corn fell more than $1.50 a bushel while organic whole milk sales rose 9%",
+   "body": "USDA's latest organic dairy report has feed mills buying spot organic feed corn $1.58 a bushel lower delivered on old crop and $1.66 lower on new crop, with organic soft red winter wheat down 67 cents; country elevator corn and soybeans were too thinly traded to post a price at all. On the demand side, August organic fluid sales totaled 242 million pounds, up 2.4 percent year over year, but all of the growth is in fat. Organic whole milk sales were 141 million pounds, up 9.1 percent and up 4.8 percent year to date, while total fat-reduced organic milk fell 5.7 percent, with 2 percent down 3.8 percent year to date and skim down 7.2 percent. Organic milk exports are down 32.5 percent year to date.",
+   "why": "Both sides of the organic margin moved the right way at once, and the demand side is entirely a butterfat story, which is the case for a transition conversation, and the case against planning one around volume.",
+   "url": "https://www.ams.usda.gov/mnreports/dybdairyorganic.pdf",
+   "source_name": "USDA AMS Organic Dairy Market News"
+  },
+  {
+   "section": "Herd",
+   "headline": "The cull market cracked at a major auction yesterday",
+   "body": "At one of the larger Southern Plains auctions, the final report for October 27 reads \"slaughter cows 2.00-5.00 lower, breaker cows 5.00 higher\" with slaughter bulls off 4.00, packer demand moderate to good, and the quality of cows \"somewhat plainer than last week.\" Boner cows at 80 to 85 percent lean averaged $127.37 per hundredweight on an average weight of 1,255 pounds; lean cows at 85 to 90 percent averaged $115.40 on 1,106 pounds. Receipts totaled 641 head against 472 the week before and 562 a year earlier, with slaughter cattle making up 31 percent of the run.",
+   "why": "This is one regional market, not a national print, but it is the first softening after weeks of record cull money and it arrived with the run up 36 percent on the week, if culls are on the list this fall, the queue has started working against you rather than for you.",
+   "url": "https://www.ams.usda.gov/mnreports/ams_1823.pdf",
+   "source_name": "USDA AMS Livestock Market News (Oct. 27)"
+  }
+ ]
+}
