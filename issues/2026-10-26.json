@@ -1,0 +1,86 @@
+{
+ "date": "2026-10-26",
+ "intro": "Protein is paying and butterfat is not: November's Class I mover came off Class IV, the global auction bid powders up and cheddar down, and USDA's own forecast moved Class III lower. Underneath it, September milk grew 2.7% in states that barely used to register, culling is running 4% ahead of last year, and screwworm found its way into U.S. wildlife the week a cattle port reopens.",
+ "items": [
+  {
+   "section": "Milk price",
+   "headline": "November Class I lands at $20.27, and powder, not cheese, is writing the check",
+   "body": "USDA's advanced price announcement put the November Class I base price at $20.27/cwt, up $1.39 from October. The Class I mover came off the Class IV skim factor at $16.03 against a Class III skim factor of $10.38, a $5.65 gap and the widest of 2026. The advanced butterfat factor fell to $1.3730/lb, the lowest monthly figure this year.",
+   "why": "Fluid-heavy shippers get a better November, but the butterfat factor at $1.3730 means component checks keep shrinking. If your pay price leans on fat, the Class I headline is not your raise.",
+   "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+   "source_name": "USDA AMS (ADV-1126, Oct. 21)"
+  },
+  {
+   "section": "Markets",
+   "headline": "Spot Class III milk is trading up to $4.00 over class in the Central region",
+   "body": "In the week of Oct. 19-23, USDA reported Central region spot Class III milk at flat to $4.00 over class, with cheddar production easing on downtime and quality issues while Class I and Class IV demand pulled milk away. Blocks averaged $1.7385 for the week, up 19.9 cents, and barrels $1.7040, up 19.45 cents; butter averaged $1.3490 and closed Friday at $1.3400.",
+   "why": "Premiums over class on spot loads this late in the year are a bidding war for your milk. It is the moment to test what a competing plant will pay, not to re-sign quietly.",
+   "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+   "source_name": "USDA AMS Dairy Market News (Vol. 93, No. 43)"
+  },
+  {
+   "section": "Supply",
+   "headline": "September milk was up 2.7%, but the growth has moved to Kansas and the Dakotas",
+   "body": "NASS put September output in the 24 major states at 18.7 billion pounds, up 2.7% year over year, with 9.30 million cows (162,000 more than a year ago) averaging 2,012 pounds. The state detail is lopsided: Kansas production rose 14.7% on 29,000 more cows, South Dakota 7.9%, Indiana 7.4% and Georgia 7.1%, while California, the largest state, was flat at 3,290 million pounds and Arizona fell 4.9%.",
+   "why": "New milk is appearing where the new plants are being built, so hauling rates, base programs and plant leverage are now regional stories rather than national ones.",
+   "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/mkpr1026.pdf",
+   "source_name": "USDA NASS Milk Production (Oct. 22)"
+  },
+  {
+   "section": "Policy",
+   "headline": "USDA cut its Class III forecast and quietly raised the butter and cheese import outlook",
+   "body": "In the October Livestock, Dairy, and Poultry Outlook, ERS lowered the 2026 Class III average to $15.80/cwt (down 40 cents) and raised Class IV to $18.90 (up 35 cents), with the all-milk price held at $19.90. Less noticed: milk-fat-basis imports were revised up 0.2 billion pounds to 9.0 billion on higher expected butter, cheese and milk powder volumes, while milk-fat-basis exports were cut to 20.3 billion. The same report prices 2026/27 corn at $4.70 (up 13% year over year) and soybean meal at $340 per short ton.",
+   "why": "An import forecast moving up while exports move down and corn moves 13% higher is a margin forecast moving against you on three fronts at once.",
+   "url": "https://www.ers.usda.gov/media/29753/ldp-m-388.pdf",
+   "source_name": "USDA ERS (LDP-M-388, Oct. 16)"
+  },
+  {
+   "section": "Animal health",
+   "headline": "Screwworm reaches U.S. wildlife days before another cattle port reopens",
+   "body": "APHIS confirmed the first U.S. detection of New World screwworm in wildlife, an elk harvested by a hunter on a game ranch in Pecos County, Texas, and the Texas Animal Health Commission modified its infested zone on Oct. 23. On the same page, USDA's phased reopening schedule has Columbus, New Mexico opening to Mexican cattle imports on Oct. 26, with Nogales, Arizona set for Nov. 30.",
+   "why": "A wildlife reservoir cannot be inspected at a border crossing, so wound checks after dehorning, branding and calving stop being a Southwest problem and start being a protocol every herd needs written down.",
+   "url": "https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/stop-screwworm/current-status",
+   "source_name": "USDA APHIS Screwworm Status (updated Oct. 23)"
+  },
+  {
+   "section": "Animal health",
+   "headline": "H5N1 hit two Washington dairies that had been testing negative right up until they got sick",
+   "body": "APHIS confirmed H5 clade 2.3.4.4b in two Yakima County, Washington dairy herds on Oct. 8, the state's first livestock detections, and the 19th state affected since March 2024. The agency noted the herds had repeatedly tested negative under routine National Milk Testing Strategy surveillance and were only caught after showing clinical signs. A Yakima County dairy worker later tested positive for H5.",
+   "why": "Clean bulk-tank results are a snapshot, not a clearance. The herds that got caught here were the ones whose people were watching cows, which is the surveillance layer you actually control.",
+   "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-two-dairy-herds",
+   "source_name": "USDA APHIS (Oct. 8)"
+  },
+  {
+   "section": "Inputs",
+   "headline": "Culling is running 4% ahead of last year even as the national herd grows",
+   "body": "Federally inspected dairy cow slaughter reached 2,130,800 head for the year through the week ending Oct. 10, against 2,049,400 head in the same period of 2025: 81,400 more cows, up about 4%. The weekly figure was 52,400 head. That is happening while NASS reports the 24-state herd at 162,000 head above a year ago.",
+   "why": "Herd growth with heavier culling means the expansion is running on heifer inflow, not on keeping cows, so replacement cost rather than cull income is the number that decides whether you can hold your own numbers next spring.",
+   "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+   "source_name": "USDA AMS Dairy Market News (Vol. 93, No. 43)"
+  },
+  {
+   "section": "Trade",
+   "headline": "The fat-versus-protein split just showed up on the global auction too",
+   "body": "At GDT Event 414 on Oct. 20 the overall index rose 2.5% on 42,088 tonnes sold at a weighted average of $4,021/tonne. Powders led, with whole milk powder up 4.4% to $3,760/tonne and skim milk powder up 3.4% to $3,975, while cheddar fell 7.4% to $3,645 and anhydrous milk fat dropped 3.4%.",
+   "why": "World buyers are paying up for protein and backing away from fat and cheese, the same signal in your Class III versus Class IV spread, which means it is unlikely to reverse quickly.",
+   "url": "https://ahdb.org.uk/dairy/global-dairy-trade-events",
+   "source_name": "AHDB / Global Dairy Trade"
+  },
+  {
+   "section": "Processing",
+   "headline": "The processing build-out tally is now above $15 billion across 23 states",
+   "body": "IDFA's updated analysis counts more than $15 billion in new and expanded U.S. dairy manufacturing capacity across 23 states, spanning more than 85 projects in progress or planned through 2030. New York leads at $2.8 billion, then Texas at $1.7 billion, Michigan at $1.43 billion and Wisconsin and Pennsylvania at $1.4 billion each. By category, milk and cream account for $5.63 billion, cheese $3.76 billion and yogurt and cultured dairy $3.07 billion.",
+   "why": "Yogurt and cultured capacity at $3.07 billion now rivals cheese, so the plants bidding for your milk in three years may want different components than the one you ship to today.",
+   "url": "https://www.idfa.org/news/u-s-dairy-processing-invests-15-billion-in-manufacturing-across-23-states",
+   "source_name": "IDFA (Oct. 20)"
+  },
+  {
+   "section": "Policy",
+   "headline": "Dairy's largest co-op group backs letting nonfat dry milk be protein-standardized",
+   "body": "At its October board meeting, the National Milk Producers Federation voted to support updating the federal standard of identity for nonfat dry milk to allow protein standardization, aligning the U.S. rule with the international Codex Alimentarius standard. The same vote endorsed a package of proposed improvements to Dairy Margin Coverage and Dairy Revenue Protection.",
+   "why": "Protein standardization would let U.S. powder plants hit export specs instead of overshooting them, which over time raises what the skim side of your milk is worth.",
+   "url": "https://cowsmo.com/news/nmpf-board-votes-to-support-risk-management-enhancements/",
+   "source_name": "NMPF board release, via Cowsmo (Oct. 20)"
+  }
+ ]
+}

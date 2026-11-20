@@ -1,0 +1,78 @@
+{
+ "date": "2026-10-27",
+ "intro": "Two policy clocks started quietly this month: a forward-pricing authority that lapsed on October 1 and takes a contract exemption with it, and a comment window on a milk-order exemption untouched since 1999. On the boards the fat and protein sides split hard, cheese ripped nearly 20 cents in a week while butter sat on a 16 percent stock build, and USDA's latest data shows more cows, more milk and more culling all at once.",
+ "items": [
+  {
+   "section": "Policy",
+   "headline": "Forward-contract authority lapsed October 1, and the exemption went with it",
+   "body": "The Dairy Forward Pricing Program's authorization ran out September 30 and Congress has not extended it, so USDA cannot make new commitments under the program. A Federal Order market administrator notice dated October 2 states the consequence plainly: proprietary handlers establishing new forward contracts on or after October 1, 2026 \"will not be exempt from paying minimum Federal order prices,\" while contracts established on or before September 30, 2026 that extend through September 30, 2029 \"are not impacted.\"",
+   "why": "A new forward-price offer from a proprietary handler now sits on top of a full Federal order minimum-price obligation, get in writing which prices govern before signing anything this fall.",
+   "url": "https://www.fmmatlanta.com/Misc_Docs/Expiration%20of%20Dairy%20Forward%20Pricing%20Program%202026.pdf",
+   "source_name": "USDA FMMO Market Administrator"
+  },
+  {
+   "section": "Milk price",
+   "headline": "November Class I base price jumps $1.39 to $20.27",
+   "body": "USDA's advanced prices put the November 2026 Class I base at $20.27 per cwt, up $1.39 from October. The advanced Class IV skim milk pricing factor is $16.03 per cwt and the Class II skim price $16.73, while the Class I extended-shelf-life adjustment is -$1.80, down $1.34 on the month. October's two-week product price averages: butter $1.3610, nonfat dry milk $1.9807, cheese $1.4098, dry whey $0.7228.",
+   "why": "The fluid side of next month's check firms up while the Class IV side stays soft, so a Class I-heavy blend improves in November and a butter-powder blend largely does not.",
+   "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+   "source_name": "USDA AMS Dairy Market News"
+  },
+  {
+   "section": "Markets",
+   "headline": "Cheese adds nearly 20 cents in a week, and Central spot milk reaches $4-over",
+   "body": "CME barrels closed October 23 at $1.7200 and 40-pound blocks at $1.7350, pulling the weekly averages to $1.7040 for barrels (+$0.1945) and $1.7385 for blocks (+$0.1990). AMS reports Central-region spot Class III milk at flat to $4.00-over Class as competing Class I and Class IV demand draws supplies away, with cheddar production easing on downtime and quality issues even as mozzarella demand stays strong.",
+   "why": "Class III has real upside in the fourth quarter and spot loads are commanding the widest premiums in weeks, worth a call to your field rep before committing uncommitted milk.",
+   "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+   "source_name": "USDA AMS Dairy Market News"
+  },
+  {
+   "section": "Markets",
+   "headline": "Butter stocks are 16% above a year ago heading into the holiday draw",
+   "body": "Butter in refrigerated warehouses on September 30 totaled 295.7 million pounds, up 16 percent from a year earlier and down 5 percent from August. Total natural cheese stocks were 1.429 billion pounds, up 2 percent year over year and down 1 percent on the month. Grade AA butter closed October 23 at $1.3400 with a weekly average of $1.3490.",
+   "why": "Fat inventory that heavy going into the seasonal build caps butterfat upside, which argues for locking Class IV and butterfat coverage rather than waiting on a holiday rally.",
+   "url": "https://esmis.nal.usda.gov/publication/cold-storage/2026-10-23",
+   "source_name": "USDA NASS Cold Storage"
+  },
+  {
+   "section": "Supply",
+   "headline": "September milk production up 2.7%, and it is mostly more cows",
+   "body": "The 24 major States produced 18.7 billion pounds of milk in September, up 2.7 percent from September 2025. Cow numbers hit 9.30 million head, 162,000 more than a year earlier and 24,000 more than August. Output per cow averaged 2,012 pounds, 18 pounds above last year. August was revised up 132 million pounds, or 0.7 percent.",
+   "why": "Head count, not productivity, is carrying this growth, so expect processors to keep managing intake with base-excess terms and tighter schedules instead of bidding for additional milk.",
+   "url": "https://esmis.nal.usda.gov/publication/milk-production/2026-10-22",
+   "source_name": "USDA NASS Milk Production"
+  },
+  {
+   "section": "Herd",
+   "headline": "Dairy culling is climbing at the same time as the herd",
+   "body": "Federally inspected dairy cow slaughter totaled 234,800 head in September, against 227,200 head in September 2025 and 221,100 in August. Through September, 2.02 million dairy cows have gone to slaughter versus 1.95 million a year ago. Meanwhile total cattle slaughter ran 7 percent below last September and beef production 6 percent below.",
+   "why": "A shrinking beef kill keeps unusual salvage value in a marginal cow, and the rising dairy kill says plenty of operations are already acting on that math.",
+   "url": "https://esmis.nal.usda.gov/publication/livestock-slaughter/2026-10-22",
+   "source_name": "USDA NASS Livestock Slaughter"
+  },
+  {
+   "section": "Policy",
+   "headline": "USDA reopens a milk-order exemption that has not changed since 1999",
+   "body": "AMS published a Request for Information on the de minimis exempt plant definition in 7 CFR 1000.8(e)(4). The 150,000-pound monthly route disposition limit was set in the 1999 Federal Milk Marketing Order Reform rule by taking the highest exemption then allowed in any order, and the nonpool plant definition has not been amended since. AMS is asking whether that limit still fits fluid milk marketing conditions and what a change would cost producers, handlers and consumers. Comments are due November 23, 2026.",
+   "why": "Raising the limit lets more fluid processors sell outside the pool and lowering it pulls them in, either way it moves pool dollars, and the record that decides it is being built over the next four weeks.",
+   "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21668.pdf",
+   "source_name": "Federal Register / USDA AMS"
+  },
+  {
+   "section": "Inputs",
+   "headline": "USDA names the cause of its September corn error and keeps October intact",
+   "body": "After concerns raised following the October 9 Crop Production report, NASS said its review \"identified a September processing error involving incorrect acreage weights used to combine irrigated and non-irrigated objective yield observations for Kansas and Nebraska.\" The agency says it reviewed and validated the October data and procedures, that the October yield and production forecasts remain unchanged, and that it will add pre-publication checks to verify acreage weights and validate objective yield calculations.",
+   "why": "The corn baseline you priced feed against in September moved after the fact, which is a reason to treat any single crop report as provisional when it sets a purchase trigger.",
+   "url": "https://www.nass.usda.gov/Newsroom/Notices/2026/10-24-2026.php",
+   "source_name": "USDA NASS Agricultural Statistics Board"
+  },
+  {
+   "section": "Trade",
+   "headline": "The 50% tariff on Canadian cheese is now in front of a trade court",
+   "body": "A New Jersey food importer filed suit October 20 in the U.S. Court of International Trade challenging the 50 percent tariffs imposed on Canadian goods under Section 338 of the Tariff Act of 1930. The complaint argues collection on newly listed cheese began seven days after listing rather than the 30 days the statute requires, and says the company paid more than $520,000 in duties between September 16 and October 11. It asks the court to declare the tariffs unlawful, stop collection and refund duties with interest.",
+   "why": "That duty is what currently keeps Canadian cheese out of US retail and foodservice accounts; if it falls, the import competition comes back quickly, and the USMCA dairy dispute stays live either way.",
+   "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods",
+   "source_name": "Al Jazeera"
+  }
+ ]
+}

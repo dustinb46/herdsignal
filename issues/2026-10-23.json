@@ -1,0 +1,62 @@
+{
+ "date": "2026-10-23",
+ "intro": "Two CME sessions did most of this week's work: butter slid to $1.3300 while block cheddar held above $1.72, widening the cheese-over-butter spread to 39.5 cents, and the powder and whey complex that has carried the milk check through the butterfat collapse broke in the same Wednesday session. The policy side is mostly money and rules that exist on paper but not yet in detail, an $8 billion fuel program with no payment rates, a risk-management package with no text, and a fresh 12.4-mile movement zone drawn around a single cow.",
+ "items": [
+  {
+   "section": "Markets",
+   "headline": "Block cheddar is now 39.5 cents clear of butter, and the gap widened every session this week",
+   "body": "CME 40-pound blocks closed Thursday, Oct. 22 at $1.7250 per pound, up 2.25 cents, while Grade AA butter closed unchanged at $1.3300 after giving up 2.5 cents Tuesday and another 3 cents Wednesday. Blocks have held above $1.70 since Tuesday; the block-over-butter spread has gone from 34.5 cents Monday to 39.5 cents Thursday. Barrels closed at $1.7200, half a cent under blocks.",
+   "why": "The cheese side is gaining on the fat side by roughly 5 cents a week, so what a hundredweight is worth now turns more on where your milk is utilized than on how much fat is in it, and a fat-first ration or breeding plan keeps getting repriced against you for as long as that spread widens.",
+   "url": "https://www.ams.usda.gov/mnreports/ams_1603.pdf",
+   "source_name": "USDA AMS Dairy Market News, CME Daily Cash Trading (Report 43)"
+  },
+  {
+   "section": "Markets",
+   "headline": "Powder and whey broke in the same Wednesday session, the first crack in the skim complex",
+   "body": "Grade A nonfat dry milk fell 7.5 cents to $2.1350 on Wednesday, Oct. 21, after reaching $2.2100 on Tuesday. Extra grade dry whey fell 5.25 cents to $0.8425 in the same session, after holding $0.8950 on Monday and Tuesday. Both closed unchanged on Thursday.",
+   "why": "The skim side has carried your milk check through the butterfat collapse, and two simultaneous breaks of that size are the first evidence that the support is not open-ended, which matters most if you have been leaning on Class IV strength instead of hedging it.",
+   "url": "https://www.ams.usda.gov/mnreports/ams_1603.pdf",
+   "source_name": "USDA AMS Dairy Market News, CME Daily Cash Trading (Report 43)"
+  },
+  {
+   "section": "Milk check",
+   "headline": "September uniform prices fell for a third straight month, to an $18.98 average",
+   "body": "Across the 11 federal orders the September uniform price averaged $18.98 per hundredweight, down 78 cents from August, with every order lower than the month before. Florida was highest at $22.68, down $1.29; the Upper Midwest was lowest at $16.62, down 62 cents. The Class I base fell $1.72 to $17.04 and Class III fell 60 cents to $16.04, while Class IV rose $1.58 to $18.94. Producer price differentials were down as much as a quarter.",
+   "why": "The slide that started in July is now three months deep, and the gap between the highest and lowest order is $6.06 per hundredweight, which is the number your hauling, base program and plant-switching decisions should be priced against, not the national average.",
+   "url": "https://www.agproud.com/articles/64282-september-uniform-milk-price-stumbles",
+   "source_name": "Progressive Dairy"
+  },
+  {
+   "section": "Animal health",
+   "headline": "New Mexico draws a new 12.4-mile screwworm zone around a single cow",
+   "body": "New Mexico animal health officials confirmed New World screwworm in a beef cow in Otero County and established a minimum 12.4-mile radius infested zone around the animal's location, announced Oct. 21. Animals inside the zone must be inspected and, if necessary, treated before moving within or out of the area. State and federal officials are expanding surveillance and fly-trapping around affected locations. State Veterinarian Dr. Samantha Holeck said officials are working with state and federal partners to investigate the cases; Agriculture Secretary Jeff Witte warned that cold daytime temperatures can slow screwworm activity but that the risk is not completely eliminated.",
+   "why": "A 12.4-mile radius is drawn around the animal, not the operation, so a single confirmed case several miles away can put your cattle under inspect-before-you-move rules you had no part in triggering, and the official line is that cooling weather reduces but does not end the risk.",
+   "url": "https://nmdeptag.nmsu.edu/new-release/2026/nm-confirms-new-world-screwworm-case-in-otero-county.html",
+   "source_name": "New Mexico Department of Agriculture"
+  },
+  {
+   "section": "Policy",
+   "headline": "The $8 billion fuel relief program has a formula but no rates, and nothing for dairy yet",
+   "body": "USDA's Harvest Fuel Relief Program, announced Oct. 19 and administered by the Farm Service Agency out of Commodity Credit Corporation funds, will use a uniform formula covering a portion of modeled 2026 crop-year losses, built from FSA-reported planted acres, ERS cost-of-production estimates and WASDE yields and prices. Commodity-specific rates for Title I commodities are due in November; the payment methodology for other eligible commodities comes later. Crop insurance is not required. Producers of non-Title I commodities are being asked to send fuel-cost data to USDA for consideration when rates are set, and USDA says payments will not be issued before the election.",
+   "why": "The payment is built off planted acres, so the forage and grain ground you farm may qualify while the milking enterprise is not addressed at all, and the window to get your own fuel costs in front of USDA is open now, before the rates are written.",
+   "url": "https://www.dtnpf.com/agriculture/web/ag/news/business-inputs/article/2026/10/20/rollins-announces-8-billion-harvest",
+   "source_name": "DTN/Progressive Farmer"
+  },
+  {
+   "section": "Policy",
+   "headline": "The co-op federation's board put its weight behind changes to both federal risk-management programs",
+   "body": "The National Milk Producers Federation board of directors voted Oct. 20 to approve support for proposed improvements to Dairy Margin Coverage and Dairy Revenue Protection. The board also voted to support changing the federal standard for nonfat dry milk.",
+   "why": "These two programs are the only federal downside protection most operations carry, and a board endorsement is the step that turns a proposal into the industry's farm-bill ask, so the terms being settled now are the ones you will be electing under in a future signup.",
+   "url": "https://www.rrfn.com/2026/10/20/nmpf-board-endorses-risk-management-enhancements/",
+   "source_name": "Red River Farm Network"
+  },
+  {
+   "section": "Industry",
+   "headline": "The processors' trade association changes leadership for the first time in a decade",
+   "body": "The International Dairy Foods Association's Executive Council selected Matt Herrick as its next president and CEO, announced Oct. 21. He takes the role Jan. 1, 2027, succeeding Michael Dykes, who led IDFA for a decade and stays through Jan. 31, 2027, before retiring. Herrick is currently president and CEO of the International Bottled Water Association and previously spent more than seven years on IDFA's executive team, most recently as executive vice president and chief impact officer, with earlier senior roles at USDA and USAID across three presidential appointments.",
+   "why": "IDFA is the counterparty voice on nearly every rule that sets what your buyer can do, federal order formulas, standards of identity, labeling and trade, so a change at the top is a change in who is arguing the processor side of the issues that reach your milk check.",
+   "url": "https://perishablenews.com/?p=436929",
+   "source_name": "Perishable News"
+  }
+ ]
+}

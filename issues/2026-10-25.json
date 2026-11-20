@@ -1,0 +1,54 @@
+{
+ "date": "2026-10-25",
+ "intro": "Milk is abundant nationally and scarce regionally at the same time: Central cheese plants are bidding as much as four dollars over class for spot loads while the national herd keeps growing. The rest of the day's reports trace where that milk and those cows end up, a cattle kill increasingly supplied by dairy, feedlots at a record-low September placement, European powder undercutting U.S. spot, and screwworm moving west along New Mexico's southern border.",
+ "items": [
+  {
+   "section": "Milk price",
+   "headline": "Central cheese plants are paying up to $4 over class for spot milk",
+   "body": "Dairy Market News reported Central-region spot Class III milk trading from flat to $4.00 over class in the week of Oct. 19-23, with spot load availability for Class III buyers staying limited as Class I and Class IV production increases. Regional cheddar production is slowing on plant downtime and quality concerns while mozzarella demand holds good. Cream is steady to slightly tighter, manufacturers are taking near-maximum contracted volumes, and stakeholders report a notable volume of cream still moving to Mexican buyers. In the East, condensed skim is trading $0.25 to $0.50 over Class II and Class III.",
+   "why": "A cheese plant is bidding up to four dollars a hundredweight over class for the same milk a bottler buys at class. If you have volume flexibility on a Class III-weighted contract, that premium is live now and it closes as soon as seasonal output catches up with the vats.",
+   "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+   "source_name": "USDA Dairy Market News"
+  },
+  {
+   "section": "Supply",
+   "headline": "Dairy cows are now 10.4% of the U.S. cattle kill",
+   "body": "NASS released Livestock Slaughter on Oct. 22: September dairy cow slaughter under federal inspection reached 234,800 head, or 10.4% of all cattle killed, against 227,200 head and 9.4% a year earlier. Beef cows moved the other way, falling to 166,000 head from 186,900. Through September, dairy cow slaughter stands at 2,021,700 head versus 1,946,000 last year, while total federally inspected cattle slaughter has dropped 7% to 20.3 million head.",
+   "why": "Dairy is supplying a steadily larger share of a shrinking kill, which is what keeps cull-cow money firm, and it means your cull check now depends on beef-herd retention decisions made entirely outside dairy.",
+   "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/lstk1026.pdf",
+   "source_name": "USDA NASS"
+  },
+  {
+   "section": "Markets",
+   "headline": "September feedlot placements were the lowest in the 30-year series",
+   "body": "The Oct. 23 Cattle on Feed report put 11.4 million head on feed Oct. 1, slightly below a year ago. September placements totaled 1.78 million head, down 12% and the lowest September since the series began in 1996; marketings, at 1.52 million head, were also a September series low. Heifers and heifer calves on feed fell 1% to 4.30 million. Placements of cattle under 600 pounds came to 360,000 head.",
+   "why": "Feedlots cannot source cattle and beef cows are being held back rather than culled, which leaves the beef-on-dairy calf as the marginal animal in the pipeline and keeps a firm bid under day-old calves well into next year.",
+   "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/cofd1026.pdf",
+   "source_name": "USDA NASS"
+  },
+  {
+   "section": "Trade",
+   "headline": "European powder now undercuts U.S. spot while Europe's herd hits a record low",
+   "body": "Dairy Market News put European skim milk powder at $3,825 to $4,325 per metric ton for Oct. 12-23, rising across the range on tight spot inventories and increasing interest from buyers in other regions. CME nonfat dry milk closed Oct. 23 at $2.0950 a pound, roughly $4,620 a tonne at the report's own 2,204.6-pound conversion, above the top of the European range. The supply side behind those European prices is structural rather than seasonal: the Great Britain herd fell 2.2% to 1.57 million head in July, the lowest on record, with year-to-date deliveries 0.5% below 2025; Dutch September output was down 1.7%; and EU farmgate prices, at 42.22 euro cents per kilogram in August, sit 20.64% below a year ago.",
+   "why": "European product is cheaper than U.S. powder at a moment when European milk is shrinking on herd size, not weather, so the export window that has been clearing U.S. nonfat closes on price, and the backup lands in the same Class IV complex that is setting the Class I mover.",
+   "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+   "source_name": "USDA Dairy Market News"
+  },
+  {
+   "section": "Inventories",
+   "headline": "Cheddar stocks are shrinking while mozzarella-type cheese sets a September record",
+   "body": "The cheese total in the Oct. 23 Cold Storage report hides a split. American-type stocks fell to 792.2 million pounds on Sept. 30, down 2% from both August and a year earlier. The \"other\" category, mozzarella, hispanic styles and everything that is not American or Swiss, rose to 613.5 million pounds, up 8% year over year and the largest September figure in the series. Total natural cheese, at 1.429 billion pounds, was up 2%.",
+   "why": "Cheddar inventory is thinning while Italian-style builds, which is the inventory case for blocks holding their premium into winter, and the warning sign for anyone whose milk is committed to a mozzarella plant.",
+   "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/cost1026.pdf",
+   "source_name": "USDA NASS"
+  },
+  {
+   "section": "Animal health",
+   "headline": "Four screwworm cases in seven days, across three New Mexico counties",
+   "body": "New Mexico's state screwworm tracker now lists a calf in Hidalgo County confirmed Oct. 22, a cow in Otero County on Oct. 21, and a calf and a horse in Grant County on Oct. 16. A September Grant County case is listed as inactive. Hidalgo sits on the Arizona line and Otero on the Texas line, so the three counties span the state's entire southern border.",
+   "why": "Three separated counties inside one week reads as dispersal rather than a single introduction, so anyone moving cull cows, calves or replacements through southern New Mexico has to re-check the zone map per load rather than per month.",
+   "url": "https://screwwormnm.org/",
+   "source_name": "New Mexico Dept. of Agriculture"
+  }
+ ]
+}
