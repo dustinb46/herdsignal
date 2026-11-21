@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-22",
+  "intro": "November's price build is coming almost entirely from powder and fluid: USDA set the Class I base at $20.27 off a Class IV mover running $5.65 above the cheese side, while the advanced butterfat factor fell to the lowest level of the year. The rest of the day's news is about status and access that can be lost faster than it can be rebuilt: a wildlife screwworm detection, a state's HPAI-free certification gone in a week, a new 25% match on value-added grants, and a lawsuit aimed at the program that clears surplus fat offshore.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "November Class I lands at $20.27, and the mover is powder, not cheese",
+      "body": "USDA's advanced price announcement, released Oct. 21, set the November base Class I price at $20.27/cwt, up $1.39 from October. The advanced Class IV skim pricing factor came in at $16.03 against a Class III skim factor of $10.38, a $5.65 gap, the widest of 2026, so Class IV is doing all the work in the Class I mover.",
+      "why": "Your November mailbox price now depends mostly on how much of your order's milk goes to bottling and powder rather than cheese, because the cheese side of the formula is priced $5.65 lower on a skim basis.",
+      "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Components",
+      "headline": "The advanced butterfat factor drops to $1.3730, the lowest of 2026",
+      "body": "The same Oct. 21 announcement put the November advanced butterfat pricing factor at $1.3730/lb, below every other month this year and down from a 2025 average of $2.5706. The two-week butter average behind it was $1.3610/lb, against $1.7617 in November 2025.",
+      "why": "Butterfat is worth roughly half what it was a year ago, so fat-chasing rations, fat-weighted breeding decisions and high-component premiums penciled at $2.50 butterfat do not pencil at $1.37.",
+      "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Screwworm turns up in U.S. wildlife for the first time, four days before another border port reopens",
+      "body": "USDA confirmed its first New World screwworm detection in U.S. wildlife on Oct. 21, in an elk on a game ranch in Pecos County, Texas, found after a hunter harvested it. Texas had released its infested zones on Oct. 13, and the Columbus, N.M., port is still scheduled to reopen to Mexican cattle imports on Oct. 26, with Nogales, Ariz., to follow Nov. 30.",
+      "why": "A wildlife reservoir cannot be inspected, treated or moved on a 72-hour clock the way cattle can, so zone-based movement restrictions near a detection can outlast the cattle case that triggered them.",
+      "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-first-detection-new-world-screwworm-us-wildlife",
+      "source_name": "USDA APHIS"
+    },
+    {
+      "section": "Policy",
+      "headline": "USDA quietly attached a 25% match to dairy value-added grants, and 16 members of Congress want it gone",
+      "body": "A letter led by Rep. Mark Pocan and Sen. Peter Welch, released Oct. 20 and signed by 16 members of Congress, asks USDA to drop a newly added 25% non-federal cost-share from the Dairy Business Innovation funding notice and reissue it. The four DBI initiatives have awarded more than $106 million to 911 dairy businesses across 41 states and territories, covering 87% of the nation's milkshed, and currently meet only about 35% of the demand they see. A separate Oct. 12 letter from 28 industry organizations asked for the same reversal plus a 60-day deadline extension.",
+      "why": "If the match stands, every dollar of value-added or on-farm processing grant now requires 25 cents of your own cash or in-kind contribution up front, which prices small and mid-size applicants out of the program that was built for them.",
+      "url": "https://pocan.house.gov/media-center/press-releases/pocan-welch-lead-16-members-urging-ag-sec-rollins-reissue-dairy",
+      "source_name": "the U.S. House"
+    },
+    {
+      "section": "Markets",
+      "headline": "USDA cut its milk forecast for both 2026 and 2027, and cut fat-basis exports at the same time",
+      "body": "USDA's October outlook, posted Oct. 19, lowered 2026 milk production to 236.9 billion pounds and 2027 to 238.4 billion, trimming cow inventories for 2026 and output per cow for both years. Commercial exports were lowered on a fat basis for both years on weaker-than-expected butter and cheese shipments, while skim-solids exports held roughly flat. The 2026 all-milk price forecast stayed at $19.90/cwt; 2027 was raised $0.65 to $20.45.",
+      "why": "Less milk and fewer fat exports forecast together means the surplus is specifically in butterfat, which is the mechanism behind weak butter and firm powder, not a general oversupply you can wait out.",
+      "url": "https://www.ers.usda.gov/topics/animal-products/dairy/market-outlook",
+      "source_name": "USDA ERS"
+    },
+    {
+      "section": "Processing",
+      "headline": "The processing build is now $15 billion, and it is tilting to fluid and cream, not cheese",
+      "body": "IDFA reported Oct. 20 that processors have more than $15 billion committed across more than 85 projects in 23 states through 2030, up from the roughly $13 billion counted in late summer. New York leads at $2.8 billion, followed by Texas at $1.7 billion, Michigan at $1.43 billion, and Wisconsin and Pennsylvania at $1.4 billion each. By category, milk and cream takes $5.63 billion, ahead of cheese at $3.76 billion, yogurt and cultured at $3.07 billion, and butter and powders at $1.86 billion.",
+      "why": "More new capacity is going into fluid and cream than into cheese, which signals where new milk will be wanted and where base programs and hauling terms are likeliest to loosen first.",
+      "url": "https://idfa.org/news/u-s-dairy-processing-invests-15-billion-in-manufacturing-across-23-states",
+      "source_name": "IDFA"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Washington loses its HPAI-free herd status 18 months after earning it",
+      "body": "WSDA confirmed Washington's first-ever detection of avian influenza in dairy cattle on Oct. 8, in two quarantined Yakima County herds. The state had been certified at Stage 4 of the National Milk Testing Strategy, dairy herds free of HPAI, in April 2025.",
+      "why": "Stage 4 status is not durable: a state that has tested clean for a year and a half can lose it in a single week, along with the eased testing and movement terms your buyers and state veterinarian plan around.",
+      "url": "https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases",
+      "source_name": "the Washington State Department of Agriculture"
+    },
+    {
+      "section": "Legal",
+      "headline": "A class action now targets the export program that clears your surplus fat and cheese",
+      "body": "A consumer class action filed Oct. 5 in the U.S. District Court for the Eastern District of Virginia names the National Milk Producers Federation and 13 dairy cooperatives, including Dairy Farmers of America, Darigold, Tillamook County Creamery Association and Prairie Farms Dairy. It alleges that Cooperatives Working Together, since rebranded as NEXT, used producer-funded export assistance to pull cheese and butter out of the domestic market and inflate prices from January 2018 onward, and seeks an injunction plus treble damages. The allegations are unproven.",
+      "why": "The main industry tool for moving surplus butterfat and cheese offshore is now litigation exposure for your cooperative, and an injunction would remove it exactly while USDA is forecasting weaker fat exports.",
+      "url": "https://www.foodbev.com/news/us-consumers-launch-antitrust-lawsuit-against-dairy-cooperatives-over-alleged-milk-price-inflation",
+      "source_name": "FoodBev Media"
+    },
+    {
+      "section": "Demand",
+      "headline": "Retail is passing through the butter collapse but not the milk decline",
+      "body": "USDA's Oct. 16 market report put the September dairy products CPI at 269.6, down 0.7% from a year ago, with retail butter down 10.3% and cheese down 3.0% year over year while fresh whole milk ran up 2.8%. The wholesale picture is sharper still: the August year-over-year change in the butter producer price index was -32.5%. Packaged fluid milk sales in August totaled 3.5 billion pounds, virtually unchanged from a year earlier, with organic up 2.4% and conventional down 0.1%.",
+      "why": "Shoppers are seeing the fat weakness at the butter case but paying more for fluid milk, so butter demand stays responsive to price while the fluid category gives you no volume growth to offset a thinner butterfat check.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    }
+  ]
+}

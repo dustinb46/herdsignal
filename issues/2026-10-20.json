@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-20",
+  "intro": "Today's edition follows the money to where it is actually paid: protein is now worth nearly twice butterfat in the component formula, and the whey strength everyone has been reporting still sits 17 cents away from the survey price that fills a milk check. On the cost side the feed calendar is slipping rather than catching up, with the corn harvest deficit widening again this week and western hay trading hand to mouth into a drought-shortened crop.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Protein is now worth 1.8 times butterfat in the component milk check",
+      "body": "USDA's September announcement puts the protein price at $2.6619 per pound against a butterfat price of $1.4762. A year ago the two were close to level, butterfat $2.1925 and protein $2.7062, so butterfat has shed a third of its value in twelve months while protein held. Nonfat solids, at $1.5343 against $0.9773 last September, have also moved above butterfat.",
+      "why": "On component-priced milk the fat-first ration and sire decisions of the last five years now sit on the lower-paid half of the check, and the breeding and feeding calls made this fall get paid out on the new ratio, not the old one.",
+      "url": "https://www.ams.usda.gov/mnreports/dymclassprices.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The whey price that actually pays you is still at 72 cents",
+      "body": "The number that sets the other-solids value in Class III is not the CME spot print but USDA's survey price, and that was 72.0 cents per pound for the week ending October 10, roughly 17 cents under the 89.50-cent spot close of October 16. AMS's published formula runs other solids = (dry whey - 0.2668) x 1.03, carried at six pounds per hundredweight of skim, which works out to about six cents of Class III for every penny of whey.",
+      "why": "If the survey simply converges on where spot has been trading, that gap is worth on the order of $1.00 per hundredweight of Class III that has not reached a milk check yet, and it arrives on a lag, not with the headline.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Inputs",
+      "headline": "The corn harvest gap widened again, Iowa is now 24 points behind",
+      "body": "NASS put the 18-state corn harvest at 44% complete as of October 18, against a 52% five-year average, widening the deficit from six points a week earlier to eight. Iowa went from 20 points behind to 24, at 26% harvested against a 50% average. Minnesota is at 38% against 53%, South Dakota 29% against 47%, Michigan 13% against 31%, Ohio 21% against 33%. Condition held at 56% good-to-excellent in the season's final quality rating.",
+      "why": "The delay is getting worse, not catching up, in exactly the states that milk the most cows, which means wetter grain, higher drying cost, less high-moisture corn for anyone who planned on buying it, and a local basis that stays firm after the board has moved on.",
+      "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/prog4226.txt",
+      "source_name": "USDA NASS"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Western hay trade is thinning: confirmed Idaho volume down 44% as dairies buy load by load",
+      "body": "Just 3,825 tons of Idaho hay trade were confirmed in the week ending October 16, against 6,800 tons a year earlier. Premium large-square alfalfa averaged $226.25 per ton FOB, supreme in the windrow $250. Market News reports dairies and feedlots buying small loads while waiting for prices to come down, with diesel at $6 a gallon limiting how cheaply growers can deliver. Meanwhile 25.4% of Idaho sits in extreme drought or worse and 6.7% in exceptional drought.",
+      "why": "Hand-to-mouth buying into a drought-shortened crop is how a forage market gaps higher in January, so the cheap-looking hedge right now is booking winter tonnage rather than waiting for a break that thin trade is unlikely to deliver.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_3056.pdf",
+      "source_name": "USDA AMS"
+    },
+    {
+      "section": "Trade",
+      "headline": "CME will list European dairy futures before year-end",
+      "body": "CME Group said on October 19 that it plans to launch futures and options on European skimmed milk powder, butter, whey powder and liquid milk before the end of 2026, subject to regulatory review. The contracts are financially settled and will reference EEX indices first before moving to CME indices, following CME's agreement to take over EEX's dairy business. CME reported record average daily open interest of 420,922 contracts across its dairy complex in September, up 42% year over year.",
+      "why": "Once EU and US dairy risk clears on one exchange, the EU-US spread becomes a directly tradable number, which tightens the arbitrage that has quietly been setting the ceiling on US export prices.",
+      "url": "https://prnewswire.com/news-releases/cme-group-expands-dairy-business-with-new-european-futures-and-options-302912019.html",
+      "source_name": "CME Group"
+    },
+    {
+      "section": "Processing",
+      "headline": "A fermentation-made milk protein clears its US safety hurdle for supplements",
+      "body": "Better Dairy announced a self-affirmed GRAS determination for lactopontin, its precision-fermented version of milk osteopontin, cleared by an independent expert panel rather than by the FDA. The ingredient launches at SupplySide Global at the end of October for adult nutrition and supplements, aimed at healthy aging, gut health and recovery. Infant formula, where osteopontin carries its highest value, runs on a separate regulatory track and is not covered by this determination.",
+      "why": "The minor milk proteins that justify the premium on high-protein dairy are the first fractions a fermentation tank can make without a cow, and they sit in exactly the part of the milk check that is currently carrying the price.",
+      "url": "https://www.foodnavigator.com/Article/2026/10/20/better-dairy-self-affirms-gras-status-for-lactopontin/",
+      "source_name": "FoodNavigator"
+    }
+  ]
+}

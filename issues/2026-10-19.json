@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-19",
+  "intro": "The spot board rallied hard on cheese and whey this week while the forward curve refused to follow, and USDA's October estimates cut milk output yet still pushed the 2027 all-milk price higher, a recovery built on contraction rather than demand. Alongside the price story: H5N1 reached Washington dairy cattle after 7,000 clean surveillance tests, a corrected raw-cheese recall widened to seven states, and the court freeze on USDA's reorganization now covers the mission area that runs the county FSA office.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Cheese blocks add 29.75 cents in five sessions, and the futures board only partly followed",
+      "body": "CME 40-pound cheddar blocks went from a $1.3900 close on Monday to $1.6825 on Friday, a $0.2975 gain across the week; barrels closed at $1.6200, up $0.1675. The weekly average for blocks was $1.5395, up 19.15 cents. Over the same stretch November Class III futures moved from $16.10 on Oct. 9 to $17.25 on Oct. 15, with December at $17.36 and October at $15.20. USDA notes Western cheese supplies \"remain abundant\" and that buyers are beginning to secure first-quarter 2027 needs.",
+      "why": "A nearly 30-cent block move did not carry fully into the deferred contracts, so the gap between this week's spot strength and what the board will actually pay for November and December milk is the hedging decision sitting in front of you right now.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Processing",
+      "headline": "Dry whey closes at 89.5 cents, trading far above its own futures board",
+      "body": "Extra grade dry whey closed at $0.8950 Friday with a weekly average of $0.8830, up 3.70 cents. USDA describes Central-region inventories as \"extremely tight,\" with \"robust interest in dry whey exports to the EU and other regions where premium prices help offset freight costs\" drawing down what is left for domestic buyers. WPC 80% held mostly in the $9s and WPI mostly in the $14s. October dry whey futures settled at 72.65 cents on Oct. 15, December at 78.25.",
+      "why": "Whey, not cheese, is what is holding the Class III check together this month, and spot printing roughly 17 cents above the nearby contract means plants with whey streams are capturing value the forward curve still refuses to pay for.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Markets",
+      "headline": "Powder splits: spot nonfat holds above $2.16 while December futures crack to $1.8825",
+      "body": "Grade A nonfat dry milk slid from $2.2700 Monday to $2.1625 Friday, a 10.5-cent weekly loss, with the weekly average at $2.2105. December NDM futures fell from 203.650 cents on Oct. 9 to 188.250 on Oct. 15, and December Class IV futures dropped from $20.55 to $19.70 across the same sessions. USDA reports condensed skim demand strong in the West with availability tight.",
+      "why": "Powder, not butter, has been carrying Class IV all autumn. A 15-cent slide in the December contract while spot still prints above $2.16 is the market pricing in the end of that support, which matters most to anyone shipping to a balancing plant.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Milk price",
+      "headline": "Butterfat deflation has moved from the spot market into the wholesale price indexes",
+      "body": "Spot Grade AA butter recovered to $1.3650 Friday, up 9 cents on the week, but USDA's September Producer Price Index shows butter down 32.5 percent year over year on the August comparison, and the October supply and demand estimates cut the butter price forecast to $1.5600 for 2026 and $1.5500 for 2027, against $2.2200 in 2025. In the Northeast the weighted average advertised price for one-pound butter was $3.45, down from a year earlier, on 2,867 store ads, up from a year earlier. 82 percent butterfat loads are reported somewhat tight.",
+      "why": "Butterfat has gone from the best-paid component to a drag on the milk check, and a wholesale index down a third in a year means the promotional volume now on shelves is being funded by cheap butterfat, so fat premiums are unlikely to rebuild inside this quarter.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Policy",
+      "headline": "October USDA estimates trim milk output, cut Class III, and lift the 2027 all-milk price to $20.45",
+      "body": "USDA lowered 2026 milk production to 236.9 billion pounds from 237.2 and 2027 to 238.4 from 238.6, on lower cow inventories for 2026 and lower output per cow in both years. Fat-basis commercial exports were cut to 20.3 billion pounds for 2026 on weaker-than-expected butter and cheese shipments, while fat-basis imports were raised to 9.0 billion on increased butter. The Class III forecast was lowered \"as higher whey prices only partially offset lower cheese prices\"; Class IV was raised as higher NDM more than offsets lower butter. The 2026 all-milk forecast is unchanged at $19.90 per cwt; 2027 rises to $20.45.",
+      "why": "A smaller herd forecast paired with a higher 2027 all-milk price is the department saying the recovery it expects comes from contraction rather than demand, and a Class III cut alongside a Class IV raise changes which plant you want your milk going to next year.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Animal health",
+      "headline": "H5N1 reaches Washington dairy cattle for the first time, after 7,000 clean surveillance tests",
+      "body": "Washington confirmed its first detection of highly pathogenic avian influenza H5N1 in dairy cattle on Oct. 8, in two Yakima County herds. Both are \"under quarantine and have employed strict biosecurity measures.\" The state notes the detections follow \"over 7,000 surveillance tests for HPAI that have all been free of the disease,\" and says \"pasteurized milk products remain safe for consumers, and milk supply shortages are not expected.\" The state has committed to a news release for each new county with a confirmed cattle detection.",
+      "why": "A state that tested clean more than 7,000 times still got in, which is the case for treating bulk-tank surveillance as a detection tool rather than an all-clear, and for tightening visitor, trucking and cull-cow movement protocols before a neighboring county shows up on the list.",
+      "url": "https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=47359",
+      "source_name": "the Washington State Department of Agriculture"
+    },
+    {
+      "section": "Food safety",
+      "headline": "Raw cheddar recall corrected to seven states and two non-O157 E. coli serogroups",
+      "body": "An updated FDA notice corrects both the distribution and the serotype on a raw mild cheddar recall: 8-ounce packages, lot code and best-by date both 7/22/27, sent to grocers in New York, Pennsylvania, New Jersey, Connecticut, Maryland, Virginia and Massachusetts, with possible further reach through downstream distributors. The organisms are Shiga toxin-producing E. coli O26:H11 and O45:H2, found after a Maryland sample \"isolated two strains\" in two samples of the product. \"No illnesses or allergic reactions have been reported to date.\"",
+      "why": "Non-O157 serogroups are the ones routine programs historically under-detected, and a corrected, widened recall on a raw-milk cheese is exactly the event that accelerates state sampling and raw-milk cheese scrutiny, including for plants nowhere near this one.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-raw-mild-cheddar-cheese-due-potential-e-coli-o26h11-and",
+      "source_name": "the FDA"
+    },
+    {
+      "section": "Policy",
+      "headline": "Court keeps USDA's reorganization frozen through at least December 11",
+      "body": "A federal judge is holding USDA's reorganization in place, barring the department from \"closing or eliminating offices\" at the covered agencies and from \"relocating or reassigning employees or their positions or functions\" outside their local commuting area. The covered list includes the Farm Production and Conservation and Research, Education and Economics mission areas, the Foreign Agricultural Service, the Agricultural Research Service, Rural Development and the Forest Service. The judge found Congress likely did not intend fiscal 2026 funds to be reprogrammed for closures or relocations; the restrictions run to December 11, when the current funding measure expires.",
+      "why": "Farm Production and Conservation is the mission area behind your county FSA office and the margin and insurance programs being signed this quarter, and the Foreign Agricultural Service is the one doing export market work. The freeze keeps both staffed where they are, but only until the next funding bill.",
+      "url": "https://farmpolicynews.illinois.edu/2026/10/judge-says-usda-reorg-likely-violates-congressional-directive/",
+      "source_name": "Farm Policy News"
+    },
+    {
+      "section": "Risk management",
+      "headline": "2027 Dairy Margin Coverage signup is open, and the multi-year election does not enroll you",
+      "body": "Enrollment for 2027 Dairy Margin Coverage opened Oct. 5 and runs through Dec. 18, 2026, with coverage levels from $4.00 to $9.50 per hundredweight and a $100 annual administrative fee that generally applies. Tier 1 production eligible for protection stands at six million pounds, raised from five million, with updated production histories. Producers who took the multi-year option for 2026 through 2031 are reminded they \"must still certify to commercially market milk, sign a DMC contract, and pay the $100 administrative fee for each program year to maintain coverage\" and keep the 25 percent premium discount.",
+      "why": "A signature and a $100 fee missed before Dec. 18 costs a full year of coverage, at the exact point in the cycle where USDA's own October estimates have the Class III forecast moving lower.",
+      "url": "https://www.fsa.usda.gov/news-events/news/09-30-2026/usda-announces-2027-dairy-margin-coverage-enrollment",
+      "source_name": "USDA FSA"
+    },
+    {
+      "section": "Technology",
+      "headline": "A fermentation group with 16 million litres of capacity just bought the lactoferrin startup",
+      "body": "A UK industrial biotech group acquired an Auckland-based precision fermentation company whose most advanced program is bovine lactoferrin, on undisclosed terms. The startup runs in-house fermentation at 500-litre pilot scale and holds a 2024 regulatory approval to expand to 5,000 litres; the buyer says it operates a 16-million-litre fermentation plant in Europe. Reported yields were multiple grams per litre of lactoferrin in a yeast host, against roughly 0.02 to 0.2 grams per litre in cow's milk. Next steps named are scale-up, regulatory filings and customer trials.",
+      "why": "Lactoferrin is the highest-value protein a plant can pull out of milk, and a buyer with that much installed fermentation capacity moving on it is the first credible competitive threat to that revenue line rather than another pilot-scale announcement.",
+      "url": "https://cultivated-x.com/investments-finance/mycofeast-buys-daisy-lab-bringing-new-zealand-lactoferrin-developer-fermentation-group/",
+      "source_name": "Cultivated X"
+    }
+  ]
+}

@@ -1,1316 +1,1526 @@
 [
- {
-  "date": "2026-06-30",
-  "headline": "House moves to crack open H-2A for dairy — but stops short of year-round labor",
-  "url": "https://www.agri-pulse.com/articles/24899-farm-groups-hope-fresh-attempt-to-revamp-ag-labor-law-sticks",
-  "topic": "policy"
- },
- {
-  "date": "2026-06-30",
-  "headline": "May DMC margin lands at $10.62 — no payout, but feed costs are creeping",
-  "url": "https://www.fsa.usda.gov/resources/programs/dairy-margin-coverage-program-dmc/prices-updates",
-  "topic": "markets"
- },
- {
-  "date": "2026-06-30",
-  "headline": "Nonfat powder posts its biggest one-day jump in a decade; Class IV rips higher",
-  "url": "https://insights.ever.ag/category/milk-market-minute/",
-  "topic": "markets"
- },
- {
-  "date": "2026-06-30",
-  "headline": "USDA finalizes a carbon-scoring rule that ties your corn and soybeans to biofuel credits",
-  "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13092/technical-guidelines-for-the-production-of-regenerative-agricultural-biofuel-feedstocks",
-  "topic": "policy"
- },
- {
-  "date": "2026-06-30",
-  "headline": "The protein craze is now a milk-routing problem, not just a supplement shortage",
-  "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
-  "topic": "general"
- },
- {
-  "date": "2026-06-30",
-  "headline": "A data point for the nutrient debate: water-quality-certified farms out-earn peers for a 7th year",
-  "url": "https://www.mda.state.mn.us/minnesota-farmers-see-seven-straight-years-higher-profits",
-  "topic": "general"
- },
- {
-  "date": "2026-06-30",
-  "headline": "A net wrap that survives the baler but not the rumen",
-  "url": "https://www.farmprogress.com/livestock/a-new-hay-net-wrap-that-disappears",
-  "topic": "general"
- },
- {
-  "date": "2026-06-30",
-  "headline": "Vermont becomes the first state to ban paraquat — and three neighbors are watching",
-  "url": "https://vtdigger.org/2026/05/28/vermont-enacts-the-countrys-first-ban-on-herbicide-linked-with-parkinsons-disease/",
-  "topic": "general"
- },
- {
-  "date": "2026-08-03",
-  "headline": "August Class I base price falls $2.57 to $18.76",
-  "url": "https://www.agproud.com/articles/63861-economic-update-august-class-i-base-milk-price-falls-more-than-2",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-03",
-  "headline": "DMC margins now forecast below the $9.50 trigger for the rest of 2026",
-  "url": "https://www.agproud.com/articles/63879-dairy-risk-management-calendar-august-2026",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-03",
-  "headline": "Butter breaks to $1.48 just as the holiday demand build should be starting",
-  "url": "https://www.brownfieldagnews.com/market-news/cash-dairy-prices-were-mixed-thursday-at-cme/",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-03",
-  "headline": "This week's genetic evaluations add a first-service fertility trait and the first genomic calf-health tools",
-  "url": "https://uscdcb.com/august-2026-evaluation-changes-whats-new/",
-  "topic": "genetics"
- },
- {
-  "date": "2026-08-03",
-  "headline": "Prairie Farms shuts two Wisconsin cheese plants on August 14",
-  "url": "https://cheesereporter.com/news/industry-news-developments/2026/07/24/prairie-farms-dairy-to-close-two-shullsburg-wi-cheese-plants/",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-03",
-  "headline": "DFA's St. Albans plant goes dark August 17 — with the union crying foul",
-  "url": "https://www.feedstuffs.com/agribusiness-news/union-closely-reviewing-dfa-milk-plant-closure",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-03",
-  "headline": "A methane additive that also lifts milk yield is headed to market — but not the US market",
-  "url": "https://www.feedstrategy.com/animal-nutrition/beef-cattle/article/15831284/rumin8s-methanereducing-feed-additive-set-for-2027-launch",
-  "topic": "inputs"
- },
- {
-  "date": "2026-08-07",
-  "headline": "Butter jumps 6.75¢ on 79 trades in a heavy CME session",
-  "url": "https://www.brownfieldagnews.com/news/cme-cash-dairy-prices-higher-as-butter-and-cheese-blocks-gain/",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-07",
-  "headline": "June dairy exports set an all-time monthly record at $973.5 million",
-  "url": "https://cheesereporter.com/news/global-trade-tariffs/2026/08/05/us-dairy-exports-set-new-monthly-record-in-june-cheese-exports-also-set-new-monthly-record/",
-  "topic": "trade"
- },
- {
-  "date": "2026-08-07",
-  "headline": "Fairlife breaks ground on a $650M expansion that will pull 4 million more pounds a day",
-  "url": "https://www.michigan.gov/whitmer/news/press-releases/2026/08/05/whitmer-celebrates-groundbreaking-of-fairlife-expansion-highlights-economic-growth",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-07",
-  "headline": "August evaluations land: first calf-health PTAs and a new fertility trait",
-  "url": "https://uscdcb.com/august-2026-evaluation-changes-whats-new/",
-  "topic": "genetics"
- },
- {
-  "date": "2026-08-07",
-  "headline": "June DMC margin climbs to $10.88 — cheaper feed, not stronger milk",
-  "url": "https://www.agproud.com/articles/63910-lower-feed-costs-raise-june-dmc-margin-to-1088-per-cwt",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-07",
-  "headline": "FARM Version 2028 is open for comment — the window closes Oct. 2",
-  "url": "https://www.nmpf.org/farm-program-solicits-feedback-for-version-2028/",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-07",
-  "headline": "With H-2A reform stalled, lawmakers push the agencies instead",
-  "url": "https://newhouse.house.gov/media-center/press-releases/newhouse-leads-bicameral-letter-dol-state-dhs-regarding-h-2a-program",
-  "topic": "policy"
- },
- {
-  "date": "2026-08-08",
-  "headline": "Farm bill fails in Senate Ag on a 10–11 party-line vote — dairy provisions parked until September",
-  "url": "https://farmpolicynews.illinois.edu/2026/08/senate-farm-bill-fails-ag-committee-to-vote-again-in-september/",
-  "topic": "policy"
- },
- {
-  "date": "2026-08-08",
-  "headline": "Screwworm is now a U.S. herd-management problem: 44 confirmed animal cases and counting",
-  "url": "https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/current-status",
-  "topic": "animal-health"
- },
- {
-  "date": "2026-08-08",
-  "headline": "Fairlife breaks ground on a $650M expansion that will pull 4 million more pounds of milk a day",
-  "url": "https://fairlife.com/news/fairlife-coopersville-michigan-facility-expansion/",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-08",
-  "headline": "Cheese, butter and powder are all trading in the $1.50s — a rare three-way convergence",
-  "url": "https://www.brownfieldagnews.com/market-news/nonfat-dry-milk-surges-while-cheese-butter-hold-steady-at-cme/",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-08",
-  "headline": "Year one of NEXT: export assistance on 315 million pounds, 73% more volume at half the cost",
-  "url": "https://www.nmpf.org/the-past-year-has-been-a-great-next-year/",
-  "topic": "trade"
- },
- {
-  "date": "2026-08-08",
-  "headline": "FARM Version 2028 is open for comment until Oct. 2 — the audit rules get written now",
-  "url": "https://www.nmpf.org/farm-program-solicits-feedback-for-version-2028/",
-  "topic": "general"
- },
- {
-  "date": "2026-08-08",
-  "headline": "Milk is starting to feel tight — even as the heifer pipeline finally grows",
-  "url": "https://dairybusiness.com/milk-is-starting-to-feel-tight/",
-  "topic": "general"
- },
- {
-  "date": "2026-08-09",
-  "headline": "Senate Ag deadlocks on the farm bill — dairy’s safety-net updates stall with it",
-  "url": "https://cheesereporter.com/news/policy-legislation/2026/08/07/senate-ag-committee-fails-to-advance-2026-farm-bill/",
-  "topic": "policy"
- },
- {
-  "date": "2026-08-09",
-  "headline": "June cheese exports set another all-time monthly record",
-  "url": "https://cheesereporter.com/news/global-trade-tariffs/2026/08/05/us-dairy-exports-set-new-monthly-record-in-june-cheese-exports-also-set-new-monthly-record/",
-  "topic": "trade"
- },
- {
-  "date": "2026-08-09",
-  "headline": "June production report: cheese growth cools to 1.1% while butter output jumps 8.5%",
-  "url": "https://cheesereporter.com/news/production-supply-chain/2026/08/07/us-cheese-production-rose-1-1-in-june-butter-output-jumped-8-5/",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-09",
-  "headline": "June DMC margin climbs to $10.88 — the year’s high, still no payout",
-  "url": "https://www.agproud.com/articles/63910-lower-feed-costs-raise-june-dmc-margin-to-1088-per-cwt",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-09",
-  "headline": "USDA hands growers 60 extra days on crop insurance premiums, revives prevent-plant buy-up",
-  "url": "https://www.usda.gov/about-usda/news/press-releases/2026/08/04/secretary-rollins-announces-new-steps-put-farmers-first-while-minnesota-farmfest",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-09",
-  "headline": "August evaluations bring the first genomic tools for calf health",
-  "url": "https://uscdcb.com/august-2026-evaluation-changes-whats-new/",
-  "topic": "animal-health"
- },
- {
-  "date": "2026-08-09",
-  "headline": "Southeast dairy planning and processing-equipment grants open through September 23",
-  "url": "https://sdbii.tennessee.edu/",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-30",
-  "headline": "Foremost Farms to shutter its Marshfield cheese plant — 68 jobs gone by mid-December",
-  "url": "https://cheesereporter.com/news/industry-news-developments/2026/08/28/foremost-farms-to-close-cheese-plant-in-marshfield-wi/",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-30",
-  "headline": "DMC is now projected to pay every month through December — September lowest at $8.23",
-  "url": "https://www.agproud.com/articles/64041-dairy-risk-management-calendar-september-2026",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-30",
-  "headline": "Powder does the heavy lifting: nonfat closes the week at $1.8650 while cheese slips",
-  "url": "https://www.brownfieldagnews.com/market-news/butter-nonfat-dry-milk-rise-while-cheese-slips-at-cme-friday/",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-30",
-  "headline": "Cheese exports run 24% ahead — on pace for a third straight annual record",
-  "url": "https://www.thedairysite.com/news/us-cheese-exports-on-track-for-third-consecutive-record-year",
-  "topic": "trade"
- },
- {
-  "date": "2026-08-30",
-  "headline": "H5N1 is stirring again just as fall migration approaches",
-  "url": "https://www.thedairysite.com/news/h5n1-detections-resume-in-us-poultry-and-dairy-cattle",
-  "topic": "animal-health"
- },
- {
-  "date": "2026-08-30",
-  "headline": "Cull-cow price insurance now stretches to 52 weeks — while cull checks are at records",
-  "url": "https://www.dairyherd.com/news/cull-cow-and-calf-risk-protection-gets-major-upgrade-under-lrp",
-  "topic": "policy"
- },
- {
-  "date": "2026-08-30",
-  "headline": "Butter stocks fall below year-ago — even with spot butter at $1.46",
-  "url": "https://esmis.nal.usda.gov/sites/default/release-files/796029/cost0826.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-31",
-  "headline": "Washington moves ahead on 300,000 MT of duty-free beef — and dairy's cull-cow check is exposed",
-  "url": "https://www.nmpf.org/nmpf-statement-on-plan-to-increase-beef-imports/",
-  "topic": "general"
- },
- {
-  "date": "2026-08-31",
-  "headline": "Powder keeps climbing while cheese sags — Friday's spot board split the Class story again",
-  "url": "https://www.brownfieldagnews.com/market-news/butter-nonfat-dry-milk-rise-while-cheese-slips-at-cme-friday/",
-  "topic": "markets"
- },
- {
-  "date": "2026-08-31",
-  "headline": "Foremost Farms to close its Marshfield cheese plant and exit 40-lb block cheddar",
-  "url": "https://www.dairyherd.com/news/foremost-farms-close-marshfield-plant-eliminating-68-jobs-mid-december",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-31",
-  "headline": "H5N1 detections resume after a quiet month: three dairy herds in Texas and Utah",
-  "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/usda-confirms-new-h5n1-avian-flu-cases-poultry-dairy-cattle",
-  "topic": "animal-health"
- },
- {
-  "date": "2026-08-31",
-  "headline": "Diesel closes in on its all-time record right as harvest and silage season start",
-  "url": "https://www.agweb.com/news/diesel-prices-surge-near-record-highs-harvest-season-approaches",
-  "topic": "processing"
- },
- {
-  "date": "2026-08-31",
-  "headline": "Synlait warns of a NZ$70–75M annual loss as its turnaround grinds on",
-  "url": "https://www.farmersweekly.co.nz/markets/dairy-markets/synlait-warns-market-of-potential-75m-loss-for-the-year/",
-  "topic": "policy"
- },
- {
-  "date": "2026-08-31",
-  "headline": "Drought puts 77% of Tirlán's Irish suppliers short on winter fodder — and milk output is already falling",
-  "url": "https://www.agriland.ie/farming-news/77-of-tirlan-suppliers-face-fodder-crisis-amid-drought/",
-  "topic": "inputs"
- },
- {
-  "date": "2026-09-01",
-  "headline": "Wisconsin's licensed herd count breaks below 5,000 for the first time",
-  "url": "https://en.edairynews.com/wisconsin-licensed-dairy-herds-drop-below-5000-for-first-time-in-modern-history/",
-  "topic": "supply"
- },
- {
-  "date": "2026-09-01",
-  "headline": "USDA's \"Ranchers First\" package pays producers to keep heifers home",
-  "url": "https://www.drovers.com/news/ag-policy/ranchers-first-initiative-aimed-herd-rebuilding-processing-and-risk-management",
-  "topic": "policy"
- },
- {
-  "date": "2026-09-01",
-  "headline": "EPA waives 1.76 billion RINs — nearly double what its own rule assumed",
-  "url": "https://www.spokesman.com/stories/2026/aug/31/epa-grants-176-billion-biofuel-exemptions-weighs-s/",
-  "topic": "policy"
- },
- {
-  "date": "2026-09-01",
-  "headline": "Weekly bulk-tank H5N1 testing now covers 100 herds in 18 states",
-  "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/livestock/dairy-herd-status-program",
-  "topic": "animal-health"
- },
- {
-  "date": "2026-09-01",
-  "headline": "$13 billion in new processing is quietly redrawing the milk map",
-  "url": "https://www.brownfieldagnews.com/news/13-billion-in-dairy-processing-investment-reshapes-u-s-industry/",
-  "topic": "processing"
- },
- {
-  "date": "2026-09-01",
-  "headline": "Context: the national herd is the largest in over three decades",
-  "url": "https://www.agproud.com/articles/64010-larger-dairy-herd-boosts-july-milk-production",
-  "topic": "supply"
- },
- {
-  "date": "2026-09-01",
-  "headline": "Corn holds at 57% good/excellent into the home stretch; beans slip",
-  "url": "https://www.brownfieldagnews.com/news/57-of-u-s-corn-58-of-soybeans-good-to-excellent/",
-  "topic": "inputs"
- },
- {
-  "date": "2026-10-29",
-  "headline": "U.S. butterfat is clearing 40% under the world price, and U.S. cheese and powder are now above it",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1604.pdf",
-  "topic": "trade"
- },
- {
-  "date": "2026-10-29",
-  "headline": "Danone's North American volumes went backwards last quarter",
-  "url": "https://www.danone.com/content/dam/corp/global/danonecom/investors/en-all-publications/2026/pressreleases/prdanone281026.pdf",
-  "topic": "processing"
- },
- {
-  "date": "2026-10-29",
-  "headline": "An Australian state has written cell-cultured food into its dairy statute, with a milk analogue application pending",
-  "url": "https://www.stockandland.com.au/story/9381584/dairy-leaders-sound-alarm-over-approval-of-cell-cultured-food/",
-  "topic": "policy"
- },
- {
-  "date": "2026-10-30",
-  "headline": "The state's own table now lists 30 infected dairy herds, 29 of them in one county",
-  "url": "https://agr.wa.gov/departments/animals-livestock-and-pets/avian-health/avian-influenza/hpai-(h5n1)-in-cattle-producer-resources",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-30",
-  "headline": "Carton board, filling lines and refrigeration came off a 50% Canadian duty at 12:01 this morning",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22292.pdf",
-  "topic": "policy"
- },
- {
-  "date": "2026-10-30",
-  "headline": "The survey prices that write your check all turned up at once, and still sit 32 cents under spot cheese",
-  "url": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf",
-  "topic": "milk price"
- },
- {
-  "date": "2026-10-30",
-  "headline": "A dog across a state line just put part of a Texas county under a livestock movement quarantine",
-  "url": "https://www.tahc.texas.gov/regs/pdf/2026-10-29_NWS_EDO_ElPaso.pdf",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-30",
-  "headline": "The Fed held rates, and both dissenting votes wanted them higher",
-  "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf",
-  "topic": "inputs"
- },
- {
-  "date": "2026-10-31",
-  "headline": "Cheese blocks break 13.75 cents and leave barrels trading above them",
-  "url": "https://brownfieldagnews.com/news/cheese-blocks-drop-sharply-while-butter-dry-whey-gain-friday-at-cme/",
-  "topic": "markets"
- },
- {
-  "date": "2026-10-31",
-  "headline": "Washington goes from zero to 27 H5N1 herds in three weeks",
-  "url": "https://www.opb.org/article/2026/10/29/washington-state-dairy-farms-bird-flu-spread/",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-31",
-  "headline": "Screwworm reaches a third state as USDA reopens another cattle port",
-  "url": "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2026/10/30/new-world-screwworm-found-arizona",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-31",
-  "headline": "The September production data shows where the new milk actually is: Kansas, up 14.7%",
-  "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/mkpr1026.pdf",
-  "topic": "supply"
- },
- {
-  "date": "2026-10-31",
-  "headline": "November Class I base jumps $1.39 to $20.27, effective tomorrow",
-  "url": "https://www.agproud.com/articles/64305-november-class-i-base-price-up-to-2027-per-cwt",
-  "topic": "milk price"
- },
- {
-  "date": "2026-10-31",
-  "headline": "The H-2A wage rule dies December 30, and Labor has to rewrite it first",
-  "url": "https://fortune.com/2026/10/28/trump-h2a-farmworker-pay-cut-ruling-back-pay-deadline/",
-  "topic": "labor"
- },
- {
-  "date": "2026-11-01",
-  "headline": "Colorado turns up its first H5N1 dairy herd since 2024, found by bulk tank, not by sick cows",
-  "url": "https://kiowacountypress.net/content/bird-flu-confirmed-weld-county-dairy-milk-sample-changing-colorados-status",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-01",
-  "headline": "The processors' trade group tells USTR that 58% of U.S. dairy exports go to just five countries",
-  "url": "https://www.idfa.org/news/idfa-urges-u-s-government-to-address-global-trade-barriers-and-expand-market-opportunities-for-u-s-dairy",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-01",
-  "headline": "Plant approvals, not tariffs, are what moved U.S. dairy into Costa Rica: 43 plants in January, 259 now",
-  "url": "https://ticotimes.net/2026/10/31/us-dairy-imports-costa-rica-2026",
-  "topic": "exports"
- },
- {
-  "date": "2026-11-01",
-  "headline": "Ice cream volumes are growing 11.6% in Europe and 1.7% in the Americas",
-  "url": "https://www.dairyreporter.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update/",
-  "topic": "demand"
- },
- {
-  "date": "2026-11-02",
-  "headline": "A dairy-linked H5N1 infection has turned fatal, and a third human case came in the same release",
-  "url": "https://www.nbcrightnow.com/tricities/yakima-county-resident-dies-from-avian-influenza-complications/article_c7592c7d-7b25-46c6-8e0e-560428a3866f.html",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-02",
-  "headline": "Commerce's quarterly cheese-subsidy list has exactly one country on it, at 47 cents a pound",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/html/2026-22103.htm",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-02",
-  "headline": "The lowest-cost exporter just raised its farmgate forecast to NZ$9.75 while running record collections",
-  "url": "https://www.nzherald.co.nz/business/companies/agribusiness/fonterra-lifts-202627-farmgate-milk-price-forecast-to-975-per-kgms/KOBYFSOU4FCFJIN2LNNGQYSS3U/",
-  "topic": "milk price"
- },
- {
-  "date": "2026-11-02",
-  "headline": "Chapter 12 farm bankruptcy filings are running 19% ahead of last year",
-  "url": "https://www.uaex.uada.edu/media-resources/news/2026/october/10-22-2026-ark-nalc-q3-bankruptcies.aspx",
-  "topic": "finance"
- },
- {
-  "date": "2026-11-02",
-  "headline": "Only about a third of cows respond to protein the way the herd-average model says",
-  "url": "https://news.vt.edu/articles/2026/10/cals-mark-hanigan-sldairy.html",
-  "topic": "nutrition"
- },
- {
-  "date": "2026-11-03",
-  "headline": "Farm-tank diesel can legally move your milk right now, but only the federal half is automatic",
-  "url": "https://www.irs.gov/newsroom/dyed-diesel-frequently-asked-questions",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-03",
-  "headline": "The corn harvest gap closed to three points nationally, and almost all of what is left is in dairy states",
-  "url": "https://esmis.nal.usda.gov/sites/default/release-files/796135/prog4426.pdf",
-  "topic": "feed"
- },
- {
-  "date": "2026-11-03",
-  "headline": "Britain logs its first cases of a milk-dropping cattle virus, and it is not reportable, so the case count will never be the real one",
-  "url": "https://www.gov.uk/government/publications/shamonda-virus-infection-in-animals/shamonda-virus-shav-disease-information-note-shav-in-animals",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-03",
-  "headline": "The checkoff's own accounting: $264.3 million spent in 2025, and 44 cents of every dollar went to reputation",
-  "url": "https://www.dairycheckoff.com/about-us/annual-report",
-  "topic": "farm economy"
- },
- {
-  "date": "2026-11-03",
-  "headline": "The last job robots left on a grazing dairy was fetching the cows. A Tasmanian herd has handed that to collars.",
-  "url": "https://www.abc.net.au/news/2026-11-02/cows-moved-and-milked-by-ai-and-robots-in-australian-first/107327042",
-  "topic": "technology"
- },
- {
-  "date": "2026-11-04",
-  "headline": "Barrels are trading 14.75 cents over blocks, a rare, costly inversion",
-  "url": "https://brownfieldagnews.com/news/cme-dairy-prices-mixed-as-cheese-blocks-butter-fall/",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-04",
-  "headline": "November Class I is $20.27, and Class IV is the mover by $5.65",
-  "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-04",
-  "headline": "The same fat-versus-protein split just showed up at the global auction",
-  "url": "https://www.indexbox.io/blog/global-dairy-trade-prices-mixed-in-early-november-2026-auction/",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-04",
-  "headline": "H5N1 reaches Indiana, and routine milk testing, not pre-movement testing, is what caught it",
-  "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-indiana",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-04",
-  "headline": "A dairy worker has died in the Washington outbreak, now at 40 herds",
-  "url": "https://capitalpress.com/2026/11/02/washington-resident-exposed-to-infected-dairy-cattle-dies-of-bird-flu/",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-04",
-  "headline": "EPA is terminating the 2005 air agreement and walking away from its own emissions data",
-  "url": "https://www.epa.gov/newsreleases/trump-epa-brings-closure-20-year-old-agreement-ending-decades-long-uncertainty",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-04",
-  "headline": "USDA is buying $165.5 million of dairy right as butter hits four-year lows",
-  "url": "https://www.agproud.com/articles/64351-usda-announces-purchase-of-1655m-dairy-products",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-04",
-  "headline": "The 2027 DMC window closes Dec. 18, with Tier 1 now covering 6 million pounds",
-  "url": "https://www.fsa.usda.gov/news-events/news/09-30-2026/usda-announces-2027-dairy-margin-coverage-enrollment",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-04",
-  "headline": "A meta-analysis finds essential-oil additives move neither milk nor methane",
-  "url": "https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2026.1923564/full",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-05",
-  "headline": "Powder is now worth more than butter, and barrels are worth more than blocks",
-  "url": "https://brownfieldagnews.com/news/nonfat-dry-milk-leads-cash-dairy-gains-wednesday-at-cme/",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-05",
-  "headline": "Fuel and hauling relief for dairy now has a number attached: 53 cents a hundredweight",
-  "url": "https://wispolitics.com/2026/american-dairy-coalition-sends-sec-rollins-requested-fuel-relief-data",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-05",
-  "headline": "USDA sequencing ties the Washington H5N1 outbreak to cattle moved in from Idaho",
-  "url": "https://www.aphis.usda.gov/news/agency-announcements/update-genetic-sequencing-results-washington-dairy-herd-detection-highly",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-05",
-  "headline": "EPA abandons the livestock air-emissions models farms funded two decades ago",
-  "url": "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2026/11/02/epa-drops-nationwide-livestock-air",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-05",
-  "headline": "September's Dairy Margin Coverage margin lands at $8.35, the fourth payment month of 2026",
-  "url": "https://www.agproud.com/articles/64365-september-prices-trigger-dairy-margin-coverage-payment",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-05",
-  "headline": "Pooled milk jumped 11.7% in September while Class I volume fell, fluid is down to 26% of the pool",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-05",
-  "headline": "Cheddar jumps 8.6% at the Nov. 3 Global Dairy Trade auction while butter drops again",
-  "url": "https://ahdb.org.uk/dairy/global-dairy-trade-events",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-05",
-  "headline": "USDA reopens the 150,000-pound exempt plant threshold, comments close Nov. 23",
-  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21668/exempt-plant-definition-request-for-information",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-06",
-  "headline": "October Class III fell to $15.16 as Class IV hit $20.54, the widest spread since May",
-  "url": "https://www.ams.usda.gov/mnreports/dymclassprices.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-06",
-  "headline": "FDA starts rewriting infant formula nutrient specs, the first tranche of 30",
-  "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22273/infant-formula-nutrient-requirements",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-06",
-  "headline": "Canada is the only country Commerce lists as subsidizing in-quota cheese, and nobody filed comments",
-  "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22103/quarterly-update-to-annual-listing-of-foreign-government-subsidies-on-articles-of-cheese-subject-to",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-06",
-  "headline": "Saputo's quarter shows where processor money is now made: protein, not cheese",
-  "url": "https://www.globenewswire.com/news-release/2026/11/05/3397203/0/en/saputo-reports-financial-results-for-the-second-quarter-of-fiscal-2027-ended-september-30-2026.html",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-07",
-  "headline": "Screwworm cases are accelerating: 61 in 30 days, after three in all of September",
-  "url": "https://hpj.com/2026/11/05/usda-reports-61-new-world-screwworm-cases-in-30-day-period/",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-07",
-  "headline": "Exports grew 10% in September, but the butterfat leg broke",
-  "url": "https://blog.usdec.org/usdairyexporter/u.s.-dairy-exports-strong-in-september",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-07",
-  "headline": "New Zealand just cleared two billion kilograms of milksolids for the first time",
-  "url": "https://www.dairynz.co.nz/news/new-zealand-dairy-production-reaches-record-high/",
-  "topic": "global supply"
- },
- {
-  "date": "2026-11-08",
-  "headline": "A major whey buyer just raised prices 26% and lost almost no volume",
-  "url": "https://www.glanbia.com/sites/glanbia-plc/files/glanbia/investors/results-presentations/2026/Glanbia-Q3-IMS-2026.pdf",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-08",
-  "headline": "Europe's farmgate price has climbed 19% since January, and just rose again",
-  "url": "https://www.frieslandcampina.com/owned-by-farmers/guaranteed-milk-price/",
-  "topic": "global supply"
- },
- {
-  "date": "2026-11-09",
-  "headline": "A vaccine has protected lactating cows against H5N1, with 1,000-fold less virus in the milk",
-  "url": "https://europepmc.org/article/MED/42951950",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-09",
-  "headline": "Ag lenders have put dairy back on their worry list: 25% now flag it",
-  "url": "https://www.aba.com/-/media/documents/reference-and-guides/2026-ag-lender-survey-report-fin.pdf",
-  "topic": "credit"
- },
- {
-  "date": "2026-11-09",
-  "headline": "Herd health is the fastest-growing line in a major supplier's book, and 3% of the growth is price",
-  "url": "https://www.sec.gov/Archives/edgar/data/1739104/000173910426000054/elanco-20260930exhibit991.htm",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-09",
-  "headline": "The 2026 corn crop is carrying more vomitoxin than normal, and milking cows get a fifth of the tolerance dry cows do",
-  "url": "https://fieldcropnews.com/2026/10/2026-ontario-grain-corn-ear-mould-and-deoxynivalenol-don-mycotoxin-survey/",
-  "topic": "feed"
- },
- {
-  "date": "2026-11-09",
-  "headline": "Europe's heat bill, priced: 12.2 million tonnes of milk a year by 2050",
-  "url": "https://www.rabobank.com/knowledge/q011557070-europe-s-dairy-comfort-zone-is-moving",
-  "topic": "global supply"
- },
- {
-  "date": "2026-11-09",
-  "headline": "Canada has raised its butter support price again, and its storage charge by 23%",
-  "url": "https://cdc-ccl.ca/en/adjustment-support-price-butter-and-carrying-charges-february-1-2027",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-09",
-  "headline": "A new insect-protected corn trait entered the deregulation queue today; comments close Jan. 8",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/html/2026-22810.htm",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-10",
-  "headline": "U.S. butterfat is now the deepest-discounted fat in the developed world",
-  "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-10",
-  "headline": "A fifth of the corn crop is still standing, and the two states furthest behind are dairy states",
-  "url": "https://release.nass.usda.gov/reports/prog4526.pdf",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-10",
-  "headline": "Cottage cheese is taking the protein dollar off cream cheese",
-  "url": "https://www.dairyreporter.com/Article/2026/11/09/cream-cheese-losing-to-cottage-cheese-as-protein-trend-reshapes-us-dairy-market/",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-11",
-  "headline": "WASDE lifts 2026 milk prices but cuts the 2027 butter forecast to $1.465",
-  "url": "https://www.usda.gov/oce/commodity/wasde/wasde1126.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-11",
-  "headline": "The cost scissors widened again in September: inputs up 5.2%, milk down 4.4%",
-  "url": "https://release.nass.usda.gov/reports/agpr1026.pdf",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-11",
-  "headline": "H5N1 picks up two new dairy states in eight days, Indiana, then Oregon",
-  "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-oregon",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-11",
-  "headline": "Objections to the FDA's salt-substitute rewrite of dairy standards close tomorrow",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20848.pdf",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-11",
-  "headline": "Butter output jumped 10.9% in September, and the spot price is under $1.29",
-  "url": "https://release.nass.usda.gov/reports/dary1126.pdf",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-11",
-  "headline": "USDA reopens the 150,000-pound exempt-plant line for the first time since 1999",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21668.pdf",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-12",
-  "headline": "A soybean engineered to grow cow casein just entered USDA's deregulation queue",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-12/pdf/2026-23015.pdf",
-  "topic": "technology"
- },
- {
-  "date": "2026-11-12",
-  "headline": "USDA proposes a SNAP change it scores at $44.6 billion less in benefits over five years",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22936.pdf",
-  "topic": "demand"
- },
- {
-  "date": "2026-11-12",
-  "headline": "Diesel has come off 22.5 cents in two weeks, and is still $2.29 above last year",
-  "url": "https://www.eia.gov/petroleum/gasdiesel/",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-12",
-  "headline": "Moving fresh cows out at 7 days instead of 21 was worth 9.6% more energy-corrected milk",
-  "url": "https://academic.oup.com/jas/advance-article/doi/10.1093/jas/skag359/9029914",
-  "topic": "herd management"
- },
- {
-  "date": "2026-11-12",
-  "headline": "FDA is pulling three solvents off the approved list for making annatto, the colorant in yellow cheddar",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22866.pdf",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-12",
-  "headline": "The federal food-bank shopping list for 2027 is out, and whole milk and high-protein yogurt are on it",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22876.pdf",
-  "topic": "demand"
- },
- {
-  "date": "2026-11-12",
-  "headline": "USDA is hiring 228 people to run the sterile-fly plant that is supposed to stop screwworm",
-  "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-begins-hiring-nations-largest-facility-combat-new-world-screwworm",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-13",
-  "headline": "USDA drops the 25% match for dairy processing grants, and moves the deadline to January 4",
-  "url": "https://www.ams.usda.gov/services/grants/dbi",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-13",
-  "headline": "A grazing-rule rewrite for 16 Western states would add a surcharge on leased livestock",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-12/pdf/2026-23033.pdf",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-13",
-  "headline": "Midwest plants are paying over Class for spot milk. In January they were getting it $2.51 under",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1623.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-13",
-  "headline": "A 60-year-old Gulf Coast fluid plant closes January 9, taking about 150 jobs",
-  "url": "https://www.acadiananewsfirst.com/2026/11/10/borden-plant-close-january/",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-13",
-  "headline": "A California suit asks whether a calf hutch is an \"adequate exercise area\"",
-  "url": "https://www.yahoo.com/news/us/articles/little-known-law-could-upend-133000029.html",
-  "topic": "animal welfare"
- },
- {
-  "date": "2026-11-13",
-  "headline": "GAO says USDA never showed its work on the reorganization that cut its workforce a fifth",
-  "url": "https://www.gao.gov/products/gao-27-108734",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-13",
-  "headline": "The Supreme Court heard argument on whether Labor can fine farm employers in its own forum",
-  "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-966.html",
-  "topic": "labor"
- },
- {
-  "date": "2026-11-14",
-  "headline": "Spot milk reached $5.00 over Class this week, the top of the range gained $2.00 in seven days",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1100.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-14",
-  "headline": "A farm-labor union says symptomatic dairy workers are going untested in Washington's H5N1 outbreak",
-  "url": "https://www.yahoo.com/news/us/articles/union-warns-bird-flu-cases-165158113.html",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-14",
-  "headline": "The whey complex has inverted: commodity dry whey is tightening while WPC 80% loads are offered under $7",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1053.pdf",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-14",
-  "headline": "Butter is advertised a dollar below last year while cheese ad prices run 24% higher",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1090.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-14",
-  "headline": "Asia is pulling US cheese hard, and Europe has no spot cheese to answer with",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1085.pdf",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-14",
-  "headline": "Condensed skim loosened in the West and stayed short in the East, USDA says Asian buyers backed off",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1102.pdf",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-14",
-  "headline": "A kefir maker posted record sales and lost 10.7 points of gross margin, to milk and packaging",
-  "url": "https://www.sec.gov/Archives/edgar/data/814586/000168316826008612/lifeway_ex9901.htm",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-14",
-  "headline": "The plant built for a mastitis treatment is being converted to calf-scours production",
-  "url": "https://www.sec.gov/Archives/edgar/data/811641/000143774926036588/iccc20260930_10q.htm",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-14",
-  "headline": "Thawing the straw in the cow matched conception rates in a two-year field trial",
-  "url": "https://academic.oup.com/tas/article/doi/10.1093/tas/txag179/8384061",
-  "topic": "herd management"
- },
- {
-  "date": "2026-11-15",
-  "headline": "Powder lost 16.25 cents in a week while whey added 7, the two halves of your check moved opposite ways",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1602.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-15",
-  "headline": "Idaho dairies are buying hay one small load at a time, and USDA says fuel is what keeps the delivered price from falling",
-  "url": "https://www.ams.usda.gov/mnreports/ams_3056.pdf",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-15",
-  "headline": "Columbia Basin hay is sold out, and Chinese buyers have started asking for residue tests before loading",
-  "url": "https://www.ams.usda.gov/mnreports/ams_3058.pdf",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-15",
-  "headline": "USDA issued five drought disaster designations on Friday, and the contiguous-county rule makes the eligible area much larger than the headlines",
-  "url": "https://www.fsa.usda.gov/news-events/news/11-13-2026/usda-designates-scott-county-minnesota-natural-disaster-area-due",
-  "topic": "credit"
- },
- {
-  "date": "2026-11-15",
-  "headline": "In 1,779 calves, the lung score predicted whether pneumonia resolved. The serum total protein did not.",
-  "url": "https://bovine-ojs-tamu.tdl.org/bovine/article/view/9522",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-15",
-  "headline": "A yeast postbiotic fed in whole milk moved frame and IgG but not a single kilogram of gain",
-  "url": "https://www.frontiersin.org/articles/10.3389/fvets.2026.2009350/full",
-  "topic": "calf nutrition"
- },
- {
-  "date": "2026-11-15",
-  "headline": "At the one US auction dedicated to dairy feeders, steers traded $15 to $31 per hundredweight lower",
-  "url": "https://www.ams.usda.gov/mnreports/AMS_1898.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-16",
-  "headline": "USDA has written the paperwork for vaccinating mammals against H5N1, for zoos and not dairies",
-  "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-16/html/2026-23302.htm",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-16",
-  "headline": "Purchased hay cubes recalled over botulism risk after horse deaths in the Southwest",
-  "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/laubs-feeding-cubing-inc-voluntary-recalls-grade-mini-hay-cubes-because-potential-clostridium",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-16",
-  "headline": "Whey's main protein has been filed for approval in Europe as a fermentation product",
-  "url": "https://news.cision.com/21st-bio/r/21st-bio-files-eu-novel-food-application-for-blg-essential--and-calls-for-a-european-home-market-for,c4423272",
-  "topic": "technology"
- },
- {
-  "date": "2026-11-16",
-  "headline": "New Zealand adds two weeks to the review of the law that governs its dominant co-op",
-  "url": "https://www.mpi.govt.nz/consultations/issues-paper-for-the-202627-review-of-the-dairy-industry-restructuring-act-2001",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-16",
-  "headline": "Britain's October milk deliveries fell 4.1%, and the milk-year forecast is down 284 million litres",
-  "url": "https://ahdb.org.uk/news/gb-milk-deliveries-milk-deliveries-in-october-drop-4-year-on-year-as-producer-margins-are-eroded",
-  "topic": "global supply"
- },
- {
-  "date": "2026-11-16",
-  "headline": "Three post-fresh calcium boluses, three different blood curves, and the same cows a year later",
-  "url": "https://www.frontiersin.org/articles/10.3389/fvets.2026.2024635/full",
-  "topic": "herd management"
- },
- {
-  "date": "2026-11-17",
-  "headline": "USDA confirms H5N1 in an Oklahoma dairy herd",
-  "url": "https://www.oklahomafarmreport.com/2026/11/16/usda-confirms-case-of-highly-pathogenic-avian-influenza-in-an-oklahoma-dairy-herd/",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-17",
-  "headline": "Blocks dropped 2.75 cents Monday and reopened the barrel premium to 7 cents",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1603.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-11-17",
-  "headline": "September fluid sales: whole milk up 5.4%, skim down 25.5%",
-  "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
-  "topic": "demand"
- },
- {
-  "date": "2026-11-17",
-  "headline": "In 44,894 dry periods, the yield peak sat at about 55 days and every extra 10 days raised displaced abomasum risk",
-  "url": "https://www.animbiosci.org/journal/view.php?doi=10.5713/ab.260748",
-  "topic": "herd management"
- },
- {
-  "date": "2026-11-17",
-  "headline": "A field trial of platelet lysate at dry-off, and the quieter result is that sealant alone held its own",
-  "url": "https://www.frontiersin.org/articles/10.3389/fvets.2026.2007365/full",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-17",
-  "headline": "Organic pay prices fell for a third straight month, and the butterfat behind them fell too",
-  "url": "https://www.ams.usda.gov/mnreports/pn_da001.pdf",
-  "topic": "organic"
- },
- {
-  "date": "2026-11-17",
-  "headline": "The late corn came off fast: harvest jumped 7 points in a week to 88%",
-  "url": "https://release.nass.usda.gov/reports/prog4626.pdf",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-18",
-  "headline": "Fat fell 6.5% to 8.2% at this week's auction while both powders gained, and the index did not move",
-  "url": "https://farmersweekly.co.nz/markets/dairy-markets/global-dairy-protein-demand-turns-commodity-prices-upside-down",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-18",
-  "headline": "California issued a production permit for mozzarella made from fermented casein, not milk",
-  "url": "https://www.newculture.com/blog/new-culture-secures-approvals-for-cheese-production",
-  "topic": "technology"
- },
- {
-  "date": "2026-11-18",
-  "headline": "The largest mozzarella maker is quadrupling a specialty whey line, and says cheese demand is what limits it",
-  "url": "https://www.dairyreporter.com/Article/2026/11/16/leprino-quadruples-microparticulated-whey-protein-capacity/",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-18",
-  "headline": "In 283 calf records, the calves on antibiotic waste milk gained faster than the calves on replacer",
-  "url": "https://link.springer.com/article/10.1007/s11250-026-05449-0",
-  "topic": "calf nutrition"
- },
- {
-  "date": "2026-11-18",
-  "headline": "A thermal camera model hit 0.96 for subclinical mastitis, then fell to 0.33 sensitivity when it was validated",
-  "url": "https://link.springer.com/article/10.1007/s11250-026-05475-y",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-18",
-  "headline": "Organic fluid sales fell 5.2% in September and organic milk exports are down by half",
-  "url": "https://www.ams.usda.gov/mnreports/dybdairyorganic.pdf",
-  "topic": "demand"
- },
- {
-  "date": "2026-11-19",
-  "headline": "GAO says sterile flies may not be enough, and USDA has gone to EPA for an emergency exemption",
-  "url": "https://www.gao.gov/products/gao-27-109347",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-19",
-  "headline": "The farm bill has weeks left on the clock, and the fight is over SNAP, not the commodity titles",
-  "url": "https://www.agri-pulse.com/articles/25524-farm-bill-negotiators-try-to-outrun-the-clock-as-hurdles-remain",
-  "topic": "policy"
- },
- {
-  "date": "2026-11-19",
-  "headline": "Thanksgiving costs more for the first time since 2022, and the milk line rose while the cream line fell",
-  "url": "https://www.fb.org/intel/markets/thanksgiving-dinner-cost-ticks-upward-in-2026",
-  "topic": "demand"
- },
- {
-  "date": "2026-11-19",
-  "headline": "A collar company put an assistant on top of 1.2 trillion rows of cow data",
-  "url": "https://farmersweekly.co.nz/technology/halter-launches-mav-ai-tool-for-farmers",
-  "topic": "technology"
- },
- {
-  "date": "2026-11-19",
-  "headline": "A processor funded net zero farm is down 26% on absolute emissions, and its intensity went backwards this year",
-  "url": "https://www.dairyreporter.com/Article/2026/11/18/fonterra-and-nestle-extend-net-zero-dairy-farm-project-as-emissions-fall-26/",
-  "topic": "sustainability"
- },
- {
-  "date": "2026-11-19",
-  "headline": "December Class I is $21.11, and powder has now set the mover ten months running",
-  "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
-  "topic": "milk price"
- },
- {
-  "date": "2026-11-19",
-  "headline": "The survey price for cheddar is running about 15 cents above the spot board",
-  "url": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf",
-  "topic": "milk price"
- },
- {
-  "date": "2026-10-23",
-  "headline": "September uniform prices fell for a third straight month, to an $18.98 average",
-  "url": "https://www.agproud.com/articles/64282-september-uniform-milk-price-stumbles",
-  "topic": "milk check"
- },
- {
-  "date": "2026-10-23",
-  "headline": "New Mexico draws a new 12.4-mile screwworm zone around a single cow",
-  "url": "https://nmdeptag.nmsu.edu/new-release/2026/nm-confirms-new-world-screwworm-case-in-otero-county.html",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-23",
-  "headline": "The $8 billion fuel relief program has a formula but no rates, and nothing for dairy yet",
-  "url": "https://www.dtnpf.com/agriculture/web/ag/news/business-inputs/article/2026/10/20/rollins-announces-8-billion-harvest",
-  "topic": "policy"
- },
- {
-  "date": "2026-10-23",
-  "headline": "The co-op federation's board put its weight behind changes to both federal risk-management programs",
-  "url": "https://www.rrfn.com/2026/10/20/nmpf-board-endorses-risk-management-enhancements/",
-  "topic": "policy"
- },
- {
-  "date": "2026-10-23",
-  "headline": "The processors' trade association changes leadership for the first time in a decade",
-  "url": "https://perishablenews.com/?p=436929",
-  "topic": "industry"
- },
- {
-  "date": "2026-10-24",
-  "headline": "Butter stocks are running 16% above last year",
-  "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/cost1026.pdf",
-  "topic": "inventories"
- },
- {
-  "date": "2026-10-24",
-  "headline": "Retail cheddar set a record in the same month wholesale blocks slid",
-  "url": "https://data.bls.gov/timeseries/APU0000710212",
-  "topic": "consumer"
- },
- {
-  "date": "2026-10-24",
-  "headline": "H5N1 found in two herds that had kept testing clean",
-  "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-two-dairy-herds",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-24",
-  "headline": "Four screwworm zone orders in four days across West Texas",
-  "url": "https://www.tahc.texas.gov/emergency/nws.html",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-24",
-  "headline": "Methane-mitigating concentrates held milk yield but moved milk chemistry",
-  "url": "https://bioengineer.org/methane-cutting-cattle-feed-keeps-milk-flowing-but-shifts-milk-chemistry-on-real-farms/",
-  "topic": "research"
- },
- {
-  "date": "2026-10-25",
-  "headline": "Dairy cows are now 10.4% of the U.S. cattle kill",
-  "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/lstk1026.pdf",
-  "topic": "supply"
- },
- {
-  "date": "2026-10-25",
-  "headline": "September feedlot placements were the lowest in the 30-year series",
-  "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/cofd1026.pdf",
-  "topic": "markets"
- },
- {
-  "date": "2026-10-25",
-  "headline": "Four screwworm cases in seven days, across three New Mexico counties",
-  "url": "https://screwwormnm.org/",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-26",
-  "headline": "USDA cut its Class III forecast and quietly raised the butter and cheese import outlook",
-  "url": "https://www.ers.usda.gov/media/29753/ldp-m-388.pdf",
-  "topic": "policy"
- },
- {
-  "date": "2026-10-26",
-  "headline": "Screwworm reaches U.S. wildlife days before another cattle port reopens",
-  "url": "https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/stop-screwworm/current-status",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-26",
-  "headline": "The processing build-out tally is now above $15 billion across 23 states",
-  "url": "https://www.idfa.org/news/u-s-dairy-processing-invests-15-billion-in-manufacturing-across-23-states",
-  "topic": "processing"
- },
- {
-  "date": "2026-10-26",
-  "headline": "Dairy's largest co-op group backs letting nonfat dry milk be protein-standardized",
-  "url": "https://cowsmo.com/news/nmpf-board-votes-to-support-risk-management-enhancements/",
-  "topic": "policy"
- },
- {
-  "date": "2026-10-27",
-  "headline": "Forward-contract authority lapsed October 1, and the exemption went with it",
-  "url": "https://www.fmmatlanta.com/Misc_Docs/Expiration%20of%20Dairy%20Forward%20Pricing%20Program%202026.pdf",
-  "topic": "policy"
- },
- {
-  "date": "2026-10-27",
-  "headline": "Butter stocks are 16% above a year ago heading into the holiday draw",
-  "url": "https://esmis.nal.usda.gov/publication/cold-storage/2026-10-23",
-  "topic": "markets"
- },
- {
-  "date": "2026-10-27",
-  "headline": "September milk production up 2.7%, and it is mostly more cows",
-  "url": "https://esmis.nal.usda.gov/publication/milk-production/2026-10-22",
-  "topic": "supply"
- },
- {
-  "date": "2026-10-27",
-  "headline": "Dairy culling is climbing at the same time as the herd",
-  "url": "https://esmis.nal.usda.gov/publication/livestock-slaughter/2026-10-22",
-  "topic": "herd"
- },
- {
-  "date": "2026-10-27",
-  "headline": "USDA names the cause of its September corn error and keeps October intact",
-  "url": "https://www.nass.usda.gov/Newsroom/Notices/2026/10-24-2026.php",
-  "topic": "inputs"
- },
- {
-  "date": "2026-10-27",
-  "headline": "The 50% tariff on Canadian cheese is now in front of a trade court",
-  "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods",
-  "topic": "trade"
- },
- {
-  "date": "2026-10-28",
-  "headline": "A six-year DMC lock-in still needs a signature and $100 before December 18",
-  "url": "https://www.fsa.usda.gov/resources/programs/dairy-margin-coverage-program-dmc",
-  "topic": "policy"
- },
- {
-  "date": "2026-10-28",
-  "headline": "Bird flu reaches a second Washington county, and this time testing found it first",
-  "url": "https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=47441",
-  "topic": "animal health"
- },
- {
-  "date": "2026-10-28",
-  "headline": "Soybeans have passed their average pace; corn is still six points behind it",
-  "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/prog4326.pdf",
-  "topic": "inputs"
- },
- {
-  "date": "2026-10-28",
-  "headline": "The big exporters' milk growth is forecast to fall from 3.1% to 0.5%",
-  "url": "https://ahdb.org.uk/news/q3-2026-dairy-market-review",
-  "topic": "trade"
- },
- {
-  "date": "2026-10-28",
-  "headline": "Eleven fermented milk proteins have now cleared the FDA's safety review",
-  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13564971/",
-  "topic": "processing"
- },
- {
-  "date": "2026-10-28",
-  "headline": "The cull market cracked at a major auction yesterday",
-  "url": "https://www.ams.usda.gov/mnreports/ams_1823.pdf",
-  "topic": "herd"
- },
- {
-  "date": "2026-11-20",
-  "headline": "Oregon's H5N1 herd got the virus without a cow crossing the state line",
-  "url": "https://www.opb.org/article/2026/11/19/avian-flu-oregon-health-dairy-cows-influenza/",
-  "topic": "animal health"
- },
- {
-  "date": "2026-11-20",
-  "headline": "Powder production fell 13.4% in September while domestic use ran 27.9% ahead",
-  "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
-  "topic": "milk price"
- },
- {
-  "date": "2026-11-20",
-  "headline": "Dry whey exports are up 58% this year while domestic use of it is down 44.7%",
-  "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
-  "topic": "exports"
- },
- {
-  "date": "2026-11-20",
-  "headline": "Butterfat imports jumped 35.7% in September while skim-solids imports fell",
-  "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
-  "topic": "trade"
- },
- {
-  "date": "2026-11-20",
-  "headline": "A top-five processor is putting $600 million into cottage cheese, cream cheese and protein drinks",
-  "url": "https://www.foodbev.com/news/saputo-commits-600m-to-expand-capacity-in-high-growth-dairy-categories",
-  "topic": "processing"
- },
- {
-  "date": "2026-11-20",
-  "headline": "Exceptional drought just appeared in northeastern Wyoming, upstream of the region's hay",
-  "url": "https://www.ams.usda.gov/mnreports/ams_2905.pdf",
-  "topic": "inputs"
- },
- {
-  "date": "2026-11-20",
-  "headline": "Britain's farm unions want the milk contract rules enforced, not rewritten",
-  "url": "https://www.dairyreporter.com/Article/2026/11/19/uk-farming-unions-demand-stronger-enforcement-of-milk-contract-rules-as-dairy-price-gap-widens/",
-  "topic": "policy"
- }
+  {
+    "date": "2026-06-30",
+    "headline": "House moves to crack open H-2A for dairy — but stops short of year-round labor",
+    "url": "https://www.agri-pulse.com/articles/24899-farm-groups-hope-fresh-attempt-to-revamp-ag-labor-law-sticks",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-06-30",
+    "headline": "May DMC margin lands at $10.62 — no payout, but feed costs are creeping",
+    "url": "https://www.fsa.usda.gov/resources/programs/dairy-margin-coverage-program-dmc/prices-updates",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-06-30",
+    "headline": "Nonfat powder posts its biggest one-day jump in a decade; Class IV rips higher",
+    "url": "https://insights.ever.ag/category/milk-market-minute/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-06-30",
+    "headline": "USDA finalizes a carbon-scoring rule that ties your corn and soybeans to biofuel credits",
+    "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13092/technical-guidelines-for-the-production-of-regenerative-agricultural-biofuel-feedstocks",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-06-30",
+    "headline": "The protein craze is now a milk-routing problem, not just a supplement shortage",
+    "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
+    "topic": "general"
+  },
+  {
+    "date": "2026-06-30",
+    "headline": "A data point for the nutrient debate: water-quality-certified farms out-earn peers for a 7th year",
+    "url": "https://www.mda.state.mn.us/minnesota-farmers-see-seven-straight-years-higher-profits",
+    "topic": "general"
+  },
+  {
+    "date": "2026-06-30",
+    "headline": "A net wrap that survives the baler but not the rumen",
+    "url": "https://www.farmprogress.com/livestock/a-new-hay-net-wrap-that-disappears",
+    "topic": "general"
+  },
+  {
+    "date": "2026-06-30",
+    "headline": "Vermont becomes the first state to ban paraquat — and three neighbors are watching",
+    "url": "https://vtdigger.org/2026/05/28/vermont-enacts-the-countrys-first-ban-on-herbicide-linked-with-parkinsons-disease/",
+    "topic": "general"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "August Class I base price falls $2.57 to $18.76",
+    "url": "https://www.agproud.com/articles/63861-economic-update-august-class-i-base-milk-price-falls-more-than-2",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "DMC margins now forecast below the $9.50 trigger for the rest of 2026",
+    "url": "https://www.agproud.com/articles/63879-dairy-risk-management-calendar-august-2026",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "Butter breaks to $1.48 just as the holiday demand build should be starting",
+    "url": "https://www.brownfieldagnews.com/market-news/cash-dairy-prices-were-mixed-thursday-at-cme/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "This week's genetic evaluations add a first-service fertility trait and the first genomic calf-health tools",
+    "url": "https://uscdcb.com/august-2026-evaluation-changes-whats-new/",
+    "topic": "genetics"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "Prairie Farms shuts two Wisconsin cheese plants on August 14",
+    "url": "https://cheesereporter.com/news/industry-news-developments/2026/07/24/prairie-farms-dairy-to-close-two-shullsburg-wi-cheese-plants/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "DFA's St. Albans plant goes dark August 17 — with the union crying foul",
+    "url": "https://www.feedstuffs.com/agribusiness-news/union-closely-reviewing-dfa-milk-plant-closure",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-03",
+    "headline": "A methane additive that also lifts milk yield is headed to market — but not the US market",
+    "url": "https://www.feedstrategy.com/animal-nutrition/beef-cattle/article/15831284/rumin8s-methanereducing-feed-additive-set-for-2027-launch",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-08-07",
+    "headline": "Butter jumps 6.75¢ on 79 trades in a heavy CME session",
+    "url": "https://www.brownfieldagnews.com/news/cme-cash-dairy-prices-higher-as-butter-and-cheese-blocks-gain/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-07",
+    "headline": "June dairy exports set an all-time monthly record at $973.5 million",
+    "url": "https://cheesereporter.com/news/global-trade-tariffs/2026/08/05/us-dairy-exports-set-new-monthly-record-in-june-cheese-exports-also-set-new-monthly-record/",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-08-07",
+    "headline": "Fairlife breaks ground on a $650M expansion that will pull 4 million more pounds a day",
+    "url": "https://www.michigan.gov/whitmer/news/press-releases/2026/08/05/whitmer-celebrates-groundbreaking-of-fairlife-expansion-highlights-economic-growth",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-07",
+    "headline": "August evaluations land: first calf-health PTAs and a new fertility trait",
+    "url": "https://uscdcb.com/august-2026-evaluation-changes-whats-new/",
+    "topic": "genetics"
+  },
+  {
+    "date": "2026-08-07",
+    "headline": "June DMC margin climbs to $10.88 — cheaper feed, not stronger milk",
+    "url": "https://www.agproud.com/articles/63910-lower-feed-costs-raise-june-dmc-margin-to-1088-per-cwt",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-07",
+    "headline": "FARM Version 2028 is open for comment — the window closes Oct. 2",
+    "url": "https://www.nmpf.org/farm-program-solicits-feedback-for-version-2028/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-07",
+    "headline": "With H-2A reform stalled, lawmakers push the agencies instead",
+    "url": "https://newhouse.house.gov/media-center/press-releases/newhouse-leads-bicameral-letter-dol-state-dhs-regarding-h-2a-program",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-08-08",
+    "headline": "Farm bill fails in Senate Ag on a 10–11 party-line vote — dairy provisions parked until September",
+    "url": "https://farmpolicynews.illinois.edu/2026/08/senate-farm-bill-fails-ag-committee-to-vote-again-in-september/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-08-08",
+    "headline": "Screwworm is now a U.S. herd-management problem: 44 confirmed animal cases and counting",
+    "url": "https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/current-status",
+    "topic": "animal-health"
+  },
+  {
+    "date": "2026-08-08",
+    "headline": "Fairlife breaks ground on a $650M expansion that will pull 4 million more pounds of milk a day",
+    "url": "https://fairlife.com/news/fairlife-coopersville-michigan-facility-expansion/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-08",
+    "headline": "Cheese, butter and powder are all trading in the $1.50s — a rare three-way convergence",
+    "url": "https://www.brownfieldagnews.com/market-news/nonfat-dry-milk-surges-while-cheese-butter-hold-steady-at-cme/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-08",
+    "headline": "Year one of NEXT: export assistance on 315 million pounds, 73% more volume at half the cost",
+    "url": "https://www.nmpf.org/the-past-year-has-been-a-great-next-year/",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-08-08",
+    "headline": "FARM Version 2028 is open for comment until Oct. 2 — the audit rules get written now",
+    "url": "https://www.nmpf.org/farm-program-solicits-feedback-for-version-2028/",
+    "topic": "general"
+  },
+  {
+    "date": "2026-08-08",
+    "headline": "Milk is starting to feel tight — even as the heifer pipeline finally grows",
+    "url": "https://dairybusiness.com/milk-is-starting-to-feel-tight/",
+    "topic": "general"
+  },
+  {
+    "date": "2026-08-09",
+    "headline": "Senate Ag deadlocks on the farm bill — dairy’s safety-net updates stall with it",
+    "url": "https://cheesereporter.com/news/policy-legislation/2026/08/07/senate-ag-committee-fails-to-advance-2026-farm-bill/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-08-09",
+    "headline": "June cheese exports set another all-time monthly record",
+    "url": "https://cheesereporter.com/news/global-trade-tariffs/2026/08/05/us-dairy-exports-set-new-monthly-record-in-june-cheese-exports-also-set-new-monthly-record/",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-08-09",
+    "headline": "June production report: cheese growth cools to 1.1% while butter output jumps 8.5%",
+    "url": "https://cheesereporter.com/news/production-supply-chain/2026/08/07/us-cheese-production-rose-1-1-in-june-butter-output-jumped-8-5/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-09",
+    "headline": "June DMC margin climbs to $10.88 — the year’s high, still no payout",
+    "url": "https://www.agproud.com/articles/63910-lower-feed-costs-raise-june-dmc-margin-to-1088-per-cwt",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-09",
+    "headline": "USDA hands growers 60 extra days on crop insurance premiums, revives prevent-plant buy-up",
+    "url": "https://www.usda.gov/about-usda/news/press-releases/2026/08/04/secretary-rollins-announces-new-steps-put-farmers-first-while-minnesota-farmfest",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-09",
+    "headline": "August evaluations bring the first genomic tools for calf health",
+    "url": "https://uscdcb.com/august-2026-evaluation-changes-whats-new/",
+    "topic": "animal-health"
+  },
+  {
+    "date": "2026-08-09",
+    "headline": "Southeast dairy planning and processing-equipment grants open through September 23",
+    "url": "https://sdbii.tennessee.edu/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-30",
+    "headline": "Foremost Farms to shutter its Marshfield cheese plant — 68 jobs gone by mid-December",
+    "url": "https://cheesereporter.com/news/industry-news-developments/2026/08/28/foremost-farms-to-close-cheese-plant-in-marshfield-wi/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-30",
+    "headline": "DMC is now projected to pay every month through December — September lowest at $8.23",
+    "url": "https://www.agproud.com/articles/64041-dairy-risk-management-calendar-september-2026",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-30",
+    "headline": "Powder does the heavy lifting: nonfat closes the week at $1.8650 while cheese slips",
+    "url": "https://www.brownfieldagnews.com/market-news/butter-nonfat-dry-milk-rise-while-cheese-slips-at-cme-friday/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-30",
+    "headline": "Cheese exports run 24% ahead — on pace for a third straight annual record",
+    "url": "https://www.thedairysite.com/news/us-cheese-exports-on-track-for-third-consecutive-record-year",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-08-30",
+    "headline": "H5N1 is stirring again just as fall migration approaches",
+    "url": "https://www.thedairysite.com/news/h5n1-detections-resume-in-us-poultry-and-dairy-cattle",
+    "topic": "animal-health"
+  },
+  {
+    "date": "2026-08-30",
+    "headline": "Cull-cow price insurance now stretches to 52 weeks — while cull checks are at records",
+    "url": "https://www.dairyherd.com/news/cull-cow-and-calf-risk-protection-gets-major-upgrade-under-lrp",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-08-30",
+    "headline": "Butter stocks fall below year-ago — even with spot butter at $1.46",
+    "url": "https://esmis.nal.usda.gov/sites/default/release-files/796029/cost0826.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-31",
+    "headline": "Washington moves ahead on 300,000 MT of duty-free beef — and dairy's cull-cow check is exposed",
+    "url": "https://www.nmpf.org/nmpf-statement-on-plan-to-increase-beef-imports/",
+    "topic": "general"
+  },
+  {
+    "date": "2026-08-31",
+    "headline": "Powder keeps climbing while cheese sags — Friday's spot board split the Class story again",
+    "url": "https://www.brownfieldagnews.com/market-news/butter-nonfat-dry-milk-rise-while-cheese-slips-at-cme-friday/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-08-31",
+    "headline": "Foremost Farms to close its Marshfield cheese plant and exit 40-lb block cheddar",
+    "url": "https://www.dairyherd.com/news/foremost-farms-close-marshfield-plant-eliminating-68-jobs-mid-december",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-31",
+    "headline": "H5N1 detections resume after a quiet month: three dairy herds in Texas and Utah",
+    "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/usda-confirms-new-h5n1-avian-flu-cases-poultry-dairy-cattle",
+    "topic": "animal-health"
+  },
+  {
+    "date": "2026-08-31",
+    "headline": "Diesel closes in on its all-time record right as harvest and silage season start",
+    "url": "https://www.agweb.com/news/diesel-prices-surge-near-record-highs-harvest-season-approaches",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-08-31",
+    "headline": "Synlait warns of a NZ$70–75M annual loss as its turnaround grinds on",
+    "url": "https://www.farmersweekly.co.nz/markets/dairy-markets/synlait-warns-market-of-potential-75m-loss-for-the-year/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-08-31",
+    "headline": "Drought puts 77% of Tirlán's Irish suppliers short on winter fodder — and milk output is already falling",
+    "url": "https://www.agriland.ie/farming-news/77-of-tirlan-suppliers-face-fodder-crisis-amid-drought/",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-09-01",
+    "headline": "Wisconsin's licensed herd count breaks below 5,000 for the first time",
+    "url": "https://en.edairynews.com/wisconsin-licensed-dairy-herds-drop-below-5000-for-first-time-in-modern-history/",
+    "topic": "supply"
+  },
+  {
+    "date": "2026-09-01",
+    "headline": "USDA's \"Ranchers First\" package pays producers to keep heifers home",
+    "url": "https://www.drovers.com/news/ag-policy/ranchers-first-initiative-aimed-herd-rebuilding-processing-and-risk-management",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-09-01",
+    "headline": "EPA waives 1.76 billion RINs — nearly double what its own rule assumed",
+    "url": "https://www.spokesman.com/stories/2026/aug/31/epa-grants-176-billion-biofuel-exemptions-weighs-s/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-09-01",
+    "headline": "Weekly bulk-tank H5N1 testing now covers 100 herds in 18 states",
+    "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/livestock/dairy-herd-status-program",
+    "topic": "animal-health"
+  },
+  {
+    "date": "2026-09-01",
+    "headline": "$13 billion in new processing is quietly redrawing the milk map",
+    "url": "https://www.brownfieldagnews.com/news/13-billion-in-dairy-processing-investment-reshapes-u-s-industry/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-09-01",
+    "headline": "Context: the national herd is the largest in over three decades",
+    "url": "https://www.agproud.com/articles/64010-larger-dairy-herd-boosts-july-milk-production",
+    "topic": "supply"
+  },
+  {
+    "date": "2026-09-01",
+    "headline": "Corn holds at 57% good/excellent into the home stretch; beans slip",
+    "url": "https://www.brownfieldagnews.com/news/57-of-u-s-corn-58-of-soybeans-good-to-excellent/",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-10-29",
+    "headline": "U.S. butterfat is clearing 40% under the world price, and U.S. cheese and powder are now above it",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1604.pdf",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-10-29",
+    "headline": "Danone's North American volumes went backwards last quarter",
+    "url": "https://www.danone.com/content/dam/corp/global/danonecom/investors/en-all-publications/2026/pressreleases/prdanone281026.pdf",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-10-29",
+    "headline": "An Australian state has written cell-cultured food into its dairy statute, with a milk analogue application pending",
+    "url": "https://www.stockandland.com.au/story/9381584/dairy-leaders-sound-alarm-over-approval-of-cell-cultured-food/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-30",
+    "headline": "The state's own table now lists 30 infected dairy herds, 29 of them in one county",
+    "url": "https://agr.wa.gov/departments/animals-livestock-and-pets/avian-health/avian-influenza/hpai-(h5n1)-in-cattle-producer-resources",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-30",
+    "headline": "Carton board, filling lines and refrigeration came off a 50% Canadian duty at 12:01 this morning",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22292.pdf",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-30",
+    "headline": "The survey prices that write your check all turned up at once, and still sit 32 cents under spot cheese",
+    "url": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-10-30",
+    "headline": "A dog across a state line just put part of a Texas county under a livestock movement quarantine",
+    "url": "https://www.tahc.texas.gov/regs/pdf/2026-10-29_NWS_EDO_ElPaso.pdf",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-30",
+    "headline": "The Fed held rates, and both dissenting votes wanted them higher",
+    "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-10-31",
+    "headline": "Cheese blocks break 13.75 cents and leave barrels trading above them",
+    "url": "https://brownfieldagnews.com/news/cheese-blocks-drop-sharply-while-butter-dry-whey-gain-friday-at-cme/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-10-31",
+    "headline": "Washington goes from zero to 27 H5N1 herds in three weeks",
+    "url": "https://www.opb.org/article/2026/10/29/washington-state-dairy-farms-bird-flu-spread/",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-31",
+    "headline": "Screwworm reaches a third state as USDA reopens another cattle port",
+    "url": "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2026/10/30/new-world-screwworm-found-arizona",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-31",
+    "headline": "The September production data shows where the new milk actually is: Kansas, up 14.7%",
+    "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/mkpr1026.pdf",
+    "topic": "supply"
+  },
+  {
+    "date": "2026-10-31",
+    "headline": "November Class I base jumps $1.39 to $20.27, effective tomorrow",
+    "url": "https://www.agproud.com/articles/64305-november-class-i-base-price-up-to-2027-per-cwt",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-10-31",
+    "headline": "The H-2A wage rule dies December 30, and Labor has to rewrite it first",
+    "url": "https://fortune.com/2026/10/28/trump-h2a-farmworker-pay-cut-ruling-back-pay-deadline/",
+    "topic": "labor"
+  },
+  {
+    "date": "2026-11-01",
+    "headline": "Colorado turns up its first H5N1 dairy herd since 2024, found by bulk tank, not by sick cows",
+    "url": "https://kiowacountypress.net/content/bird-flu-confirmed-weld-county-dairy-milk-sample-changing-colorados-status",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-01",
+    "headline": "The processors' trade group tells USTR that 58% of U.S. dairy exports go to just five countries",
+    "url": "https://www.idfa.org/news/idfa-urges-u-s-government-to-address-global-trade-barriers-and-expand-market-opportunities-for-u-s-dairy",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-01",
+    "headline": "Plant approvals, not tariffs, are what moved U.S. dairy into Costa Rica: 43 plants in January, 259 now",
+    "url": "https://ticotimes.net/2026/10/31/us-dairy-imports-costa-rica-2026",
+    "topic": "exports"
+  },
+  {
+    "date": "2026-11-01",
+    "headline": "Ice cream volumes are growing 11.6% in Europe and 1.7% in the Americas",
+    "url": "https://www.dairyreporter.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update/",
+    "topic": "demand"
+  },
+  {
+    "date": "2026-11-02",
+    "headline": "A dairy-linked H5N1 infection has turned fatal, and a third human case came in the same release",
+    "url": "https://www.nbcrightnow.com/tricities/yakima-county-resident-dies-from-avian-influenza-complications/article_c7592c7d-7b25-46c6-8e0e-560428a3866f.html",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-02",
+    "headline": "Commerce's quarterly cheese-subsidy list has exactly one country on it, at 47 cents a pound",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/html/2026-22103.htm",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-02",
+    "headline": "The lowest-cost exporter just raised its farmgate forecast to NZ$9.75 while running record collections",
+    "url": "https://www.nzherald.co.nz/business/companies/agribusiness/fonterra-lifts-202627-farmgate-milk-price-forecast-to-975-per-kgms/KOBYFSOU4FCFJIN2LNNGQYSS3U/",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-02",
+    "headline": "Chapter 12 farm bankruptcy filings are running 19% ahead of last year",
+    "url": "https://www.uaex.uada.edu/media-resources/news/2026/october/10-22-2026-ark-nalc-q3-bankruptcies.aspx",
+    "topic": "finance"
+  },
+  {
+    "date": "2026-11-02",
+    "headline": "Only about a third of cows respond to protein the way the herd-average model says",
+    "url": "https://news.vt.edu/articles/2026/10/cals-mark-hanigan-sldairy.html",
+    "topic": "nutrition"
+  },
+  {
+    "date": "2026-11-03",
+    "headline": "Farm-tank diesel can legally move your milk right now, but only the federal half is automatic",
+    "url": "https://www.irs.gov/newsroom/dyed-diesel-frequently-asked-questions",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-03",
+    "headline": "The corn harvest gap closed to three points nationally, and almost all of what is left is in dairy states",
+    "url": "https://esmis.nal.usda.gov/sites/default/release-files/796135/prog4426.pdf",
+    "topic": "feed"
+  },
+  {
+    "date": "2026-11-03",
+    "headline": "Britain logs its first cases of a milk-dropping cattle virus, and it is not reportable, so the case count will never be the real one",
+    "url": "https://www.gov.uk/government/publications/shamonda-virus-infection-in-animals/shamonda-virus-shav-disease-information-note-shav-in-animals",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-03",
+    "headline": "The checkoff's own accounting: $264.3 million spent in 2025, and 44 cents of every dollar went to reputation",
+    "url": "https://www.dairycheckoff.com/about-us/annual-report",
+    "topic": "farm economy"
+  },
+  {
+    "date": "2026-11-03",
+    "headline": "The last job robots left on a grazing dairy was fetching the cows. A Tasmanian herd has handed that to collars.",
+    "url": "https://www.abc.net.au/news/2026-11-02/cows-moved-and-milked-by-ai-and-robots-in-australian-first/107327042",
+    "topic": "technology"
+  },
+  {
+    "date": "2026-11-04",
+    "headline": "Barrels are trading 14.75 cents over blocks, a rare, costly inversion",
+    "url": "https://brownfieldagnews.com/news/cme-dairy-prices-mixed-as-cheese-blocks-butter-fall/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-04",
+    "headline": "November Class I is $20.27, and Class IV is the mover by $5.65",
+    "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-04",
+    "headline": "The same fat-versus-protein split just showed up at the global auction",
+    "url": "https://www.indexbox.io/blog/global-dairy-trade-prices-mixed-in-early-november-2026-auction/",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-04",
+    "headline": "H5N1 reaches Indiana, and routine milk testing, not pre-movement testing, is what caught it",
+    "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-indiana",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-04",
+    "headline": "A dairy worker has died in the Washington outbreak, now at 40 herds",
+    "url": "https://capitalpress.com/2026/11/02/washington-resident-exposed-to-infected-dairy-cattle-dies-of-bird-flu/",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-04",
+    "headline": "EPA is terminating the 2005 air agreement and walking away from its own emissions data",
+    "url": "https://www.epa.gov/newsreleases/trump-epa-brings-closure-20-year-old-agreement-ending-decades-long-uncertainty",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-04",
+    "headline": "USDA is buying $165.5 million of dairy right as butter hits four-year lows",
+    "url": "https://www.agproud.com/articles/64351-usda-announces-purchase-of-1655m-dairy-products",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-04",
+    "headline": "The 2027 DMC window closes Dec. 18, with Tier 1 now covering 6 million pounds",
+    "url": "https://www.fsa.usda.gov/news-events/news/09-30-2026/usda-announces-2027-dairy-margin-coverage-enrollment",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-04",
+    "headline": "A meta-analysis finds essential-oil additives move neither milk nor methane",
+    "url": "https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2026.1923564/full",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-05",
+    "headline": "Powder is now worth more than butter, and barrels are worth more than blocks",
+    "url": "https://brownfieldagnews.com/news/nonfat-dry-milk-leads-cash-dairy-gains-wednesday-at-cme/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-05",
+    "headline": "Fuel and hauling relief for dairy now has a number attached: 53 cents a hundredweight",
+    "url": "https://wispolitics.com/2026/american-dairy-coalition-sends-sec-rollins-requested-fuel-relief-data",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-05",
+    "headline": "USDA sequencing ties the Washington H5N1 outbreak to cattle moved in from Idaho",
+    "url": "https://www.aphis.usda.gov/news/agency-announcements/update-genetic-sequencing-results-washington-dairy-herd-detection-highly",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-05",
+    "headline": "EPA abandons the livestock air-emissions models farms funded two decades ago",
+    "url": "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2026/11/02/epa-drops-nationwide-livestock-air",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-05",
+    "headline": "September's Dairy Margin Coverage margin lands at $8.35, the fourth payment month of 2026",
+    "url": "https://www.agproud.com/articles/64365-september-prices-trigger-dairy-margin-coverage-payment",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-05",
+    "headline": "Pooled milk jumped 11.7% in September while Class I volume fell, fluid is down to 26% of the pool",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1054.pdf",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-05",
+    "headline": "Cheddar jumps 8.6% at the Nov. 3 Global Dairy Trade auction while butter drops again",
+    "url": "https://ahdb.org.uk/dairy/global-dairy-trade-events",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-05",
+    "headline": "USDA reopens the 150,000-pound exempt plant threshold, comments close Nov. 23",
+    "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21668/exempt-plant-definition-request-for-information",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-06",
+    "headline": "October Class III fell to $15.16 as Class IV hit $20.54, the widest spread since May",
+    "url": "https://www.ams.usda.gov/mnreports/dymclassprices.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-06",
+    "headline": "FDA starts rewriting infant formula nutrient specs, the first tranche of 30",
+    "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22273/infant-formula-nutrient-requirements",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-06",
+    "headline": "Canada is the only country Commerce lists as subsidizing in-quota cheese, and nobody filed comments",
+    "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22103/quarterly-update-to-annual-listing-of-foreign-government-subsidies-on-articles-of-cheese-subject-to",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-06",
+    "headline": "Saputo's quarter shows where processor money is now made: protein, not cheese",
+    "url": "https://www.globenewswire.com/news-release/2026/11/05/3397203/0/en/saputo-reports-financial-results-for-the-second-quarter-of-fiscal-2027-ended-september-30-2026.html",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-07",
+    "headline": "Screwworm cases are accelerating: 61 in 30 days, after three in all of September",
+    "url": "https://hpj.com/2026/11/05/usda-reports-61-new-world-screwworm-cases-in-30-day-period/",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-07",
+    "headline": "Exports grew 10% in September, but the butterfat leg broke",
+    "url": "https://blog.usdec.org/usdairyexporter/u.s.-dairy-exports-strong-in-september",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-07",
+    "headline": "New Zealand just cleared two billion kilograms of milksolids for the first time",
+    "url": "https://www.dairynz.co.nz/news/new-zealand-dairy-production-reaches-record-high/",
+    "topic": "global supply"
+  },
+  {
+    "date": "2026-11-08",
+    "headline": "A major whey buyer just raised prices 26% and lost almost no volume",
+    "url": "https://www.glanbia.com/sites/glanbia-plc/files/glanbia/investors/results-presentations/2026/Glanbia-Q3-IMS-2026.pdf",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-08",
+    "headline": "Europe's farmgate price has climbed 19% since January, and just rose again",
+    "url": "https://www.frieslandcampina.com/owned-by-farmers/guaranteed-milk-price/",
+    "topic": "global supply"
+  },
+  {
+    "date": "2026-11-09",
+    "headline": "A vaccine has protected lactating cows against H5N1, with 1,000-fold less virus in the milk",
+    "url": "https://europepmc.org/article/MED/42951950",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-09",
+    "headline": "Ag lenders have put dairy back on their worry list: 25% now flag it",
+    "url": "https://www.aba.com/-/media/documents/reference-and-guides/2026-ag-lender-survey-report-fin.pdf",
+    "topic": "credit"
+  },
+  {
+    "date": "2026-11-09",
+    "headline": "Herd health is the fastest-growing line in a major supplier's book, and 3% of the growth is price",
+    "url": "https://www.sec.gov/Archives/edgar/data/1739104/000173910426000054/elanco-20260930exhibit991.htm",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-09",
+    "headline": "The 2026 corn crop is carrying more vomitoxin than normal, and milking cows get a fifth of the tolerance dry cows do",
+    "url": "https://fieldcropnews.com/2026/10/2026-ontario-grain-corn-ear-mould-and-deoxynivalenol-don-mycotoxin-survey/",
+    "topic": "feed"
+  },
+  {
+    "date": "2026-11-09",
+    "headline": "Europe's heat bill, priced: 12.2 million tonnes of milk a year by 2050",
+    "url": "https://www.rabobank.com/knowledge/q011557070-europe-s-dairy-comfort-zone-is-moving",
+    "topic": "global supply"
+  },
+  {
+    "date": "2026-11-09",
+    "headline": "Canada has raised its butter support price again, and its storage charge by 23%",
+    "url": "https://cdc-ccl.ca/en/adjustment-support-price-butter-and-carrying-charges-february-1-2027",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-09",
+    "headline": "A new insect-protected corn trait entered the deregulation queue today; comments close Jan. 8",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/html/2026-22810.htm",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-10",
+    "headline": "U.S. butterfat is now the deepest-discounted fat in the developed world",
+    "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-10",
+    "headline": "A fifth of the corn crop is still standing, and the two states furthest behind are dairy states",
+    "url": "https://release.nass.usda.gov/reports/prog4526.pdf",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-10",
+    "headline": "Cottage cheese is taking the protein dollar off cream cheese",
+    "url": "https://www.dairyreporter.com/Article/2026/11/09/cream-cheese-losing-to-cottage-cheese-as-protein-trend-reshapes-us-dairy-market/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-11",
+    "headline": "WASDE lifts 2026 milk prices but cuts the 2027 butter forecast to $1.465",
+    "url": "https://www.usda.gov/oce/commodity/wasde/wasde1126.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-11",
+    "headline": "The cost scissors widened again in September: inputs up 5.2%, milk down 4.4%",
+    "url": "https://release.nass.usda.gov/reports/agpr1026.pdf",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-11",
+    "headline": "H5N1 picks up two new dairy states in eight days, Indiana, then Oregon",
+    "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-dairy-herd-oregon",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-11",
+    "headline": "Objections to the FDA's salt-substitute rewrite of dairy standards close tomorrow",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20848.pdf",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-11",
+    "headline": "Butter output jumped 10.9% in September, and the spot price is under $1.29",
+    "url": "https://release.nass.usda.gov/reports/dary1126.pdf",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-11",
+    "headline": "USDA reopens the 150,000-pound exempt-plant line for the first time since 1999",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21668.pdf",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-12",
+    "headline": "A soybean engineered to grow cow casein just entered USDA's deregulation queue",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-12/pdf/2026-23015.pdf",
+    "topic": "technology"
+  },
+  {
+    "date": "2026-11-12",
+    "headline": "USDA proposes a SNAP change it scores at $44.6 billion less in benefits over five years",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22936.pdf",
+    "topic": "demand"
+  },
+  {
+    "date": "2026-11-12",
+    "headline": "Diesel has come off 22.5 cents in two weeks, and is still $2.29 above last year",
+    "url": "https://www.eia.gov/petroleum/gasdiesel/",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-12",
+    "headline": "Moving fresh cows out at 7 days instead of 21 was worth 9.6% more energy-corrected milk",
+    "url": "https://academic.oup.com/jas/advance-article/doi/10.1093/jas/skag359/9029914",
+    "topic": "herd management"
+  },
+  {
+    "date": "2026-11-12",
+    "headline": "FDA is pulling three solvents off the approved list for making annatto, the colorant in yellow cheddar",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22866.pdf",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-12",
+    "headline": "The federal food-bank shopping list for 2027 is out, and whole milk and high-protein yogurt are on it",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22876.pdf",
+    "topic": "demand"
+  },
+  {
+    "date": "2026-11-12",
+    "headline": "USDA is hiring 228 people to run the sterile-fly plant that is supposed to stop screwworm",
+    "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-begins-hiring-nations-largest-facility-combat-new-world-screwworm",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-13",
+    "headline": "USDA drops the 25% match for dairy processing grants, and moves the deadline to January 4",
+    "url": "https://www.ams.usda.gov/services/grants/dbi",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-13",
+    "headline": "A grazing-rule rewrite for 16 Western states would add a surcharge on leased livestock",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-12/pdf/2026-23033.pdf",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-13",
+    "headline": "Midwest plants are paying over Class for spot milk. In January they were getting it $2.51 under",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1623.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-13",
+    "headline": "A 60-year-old Gulf Coast fluid plant closes January 9, taking about 150 jobs",
+    "url": "https://www.acadiananewsfirst.com/2026/11/10/borden-plant-close-january/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-13",
+    "headline": "A California suit asks whether a calf hutch is an \"adequate exercise area\"",
+    "url": "https://www.yahoo.com/news/us/articles/little-known-law-could-upend-133000029.html",
+    "topic": "animal welfare"
+  },
+  {
+    "date": "2026-11-13",
+    "headline": "GAO says USDA never showed its work on the reorganization that cut its workforce a fifth",
+    "url": "https://www.gao.gov/products/gao-27-108734",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-13",
+    "headline": "The Supreme Court heard argument on whether Labor can fine farm employers in its own forum",
+    "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-966.html",
+    "topic": "labor"
+  },
+  {
+    "date": "2026-11-14",
+    "headline": "Spot milk reached $5.00 over Class this week, the top of the range gained $2.00 in seven days",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1100.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-14",
+    "headline": "A farm-labor union says symptomatic dairy workers are going untested in Washington's H5N1 outbreak",
+    "url": "https://www.yahoo.com/news/us/articles/union-warns-bird-flu-cases-165158113.html",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-14",
+    "headline": "The whey complex has inverted: commodity dry whey is tightening while WPC 80% loads are offered under $7",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1053.pdf",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-14",
+    "headline": "Butter is advertised a dollar below last year while cheese ad prices run 24% higher",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1090.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-14",
+    "headline": "Asia is pulling US cheese hard, and Europe has no spot cheese to answer with",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1085.pdf",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-14",
+    "headline": "Condensed skim loosened in the West and stayed short in the East, USDA says Asian buyers backed off",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1102.pdf",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-14",
+    "headline": "A kefir maker posted record sales and lost 10.7 points of gross margin, to milk and packaging",
+    "url": "https://www.sec.gov/Archives/edgar/data/814586/000168316826008612/lifeway_ex9901.htm",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-14",
+    "headline": "The plant built for a mastitis treatment is being converted to calf-scours production",
+    "url": "https://www.sec.gov/Archives/edgar/data/811641/000143774926036588/iccc20260930_10q.htm",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-14",
+    "headline": "Thawing the straw in the cow matched conception rates in a two-year field trial",
+    "url": "https://academic.oup.com/tas/article/doi/10.1093/tas/txag179/8384061",
+    "topic": "herd management"
+  },
+  {
+    "date": "2026-11-15",
+    "headline": "Powder lost 16.25 cents in a week while whey added 7, the two halves of your check moved opposite ways",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1602.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-15",
+    "headline": "Idaho dairies are buying hay one small load at a time, and USDA says fuel is what keeps the delivered price from falling",
+    "url": "https://www.ams.usda.gov/mnreports/ams_3056.pdf",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-15",
+    "headline": "Columbia Basin hay is sold out, and Chinese buyers have started asking for residue tests before loading",
+    "url": "https://www.ams.usda.gov/mnreports/ams_3058.pdf",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-15",
+    "headline": "USDA issued five drought disaster designations on Friday, and the contiguous-county rule makes the eligible area much larger than the headlines",
+    "url": "https://www.fsa.usda.gov/news-events/news/11-13-2026/usda-designates-scott-county-minnesota-natural-disaster-area-due",
+    "topic": "credit"
+  },
+  {
+    "date": "2026-11-15",
+    "headline": "In 1,779 calves, the lung score predicted whether pneumonia resolved. The serum total protein did not.",
+    "url": "https://bovine-ojs-tamu.tdl.org/bovine/article/view/9522",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-15",
+    "headline": "A yeast postbiotic fed in whole milk moved frame and IgG but not a single kilogram of gain",
+    "url": "https://www.frontiersin.org/articles/10.3389/fvets.2026.2009350/full",
+    "topic": "calf nutrition"
+  },
+  {
+    "date": "2026-11-15",
+    "headline": "At the one US auction dedicated to dairy feeders, steers traded $15 to $31 per hundredweight lower",
+    "url": "https://www.ams.usda.gov/mnreports/AMS_1898.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-16",
+    "headline": "USDA has written the paperwork for vaccinating mammals against H5N1, for zoos and not dairies",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-16/html/2026-23302.htm",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-16",
+    "headline": "Purchased hay cubes recalled over botulism risk after horse deaths in the Southwest",
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/laubs-feeding-cubing-inc-voluntary-recalls-grade-mini-hay-cubes-because-potential-clostridium",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-16",
+    "headline": "Whey's main protein has been filed for approval in Europe as a fermentation product",
+    "url": "https://news.cision.com/21st-bio/r/21st-bio-files-eu-novel-food-application-for-blg-essential--and-calls-for-a-european-home-market-for,c4423272",
+    "topic": "technology"
+  },
+  {
+    "date": "2026-11-16",
+    "headline": "New Zealand adds two weeks to the review of the law that governs its dominant co-op",
+    "url": "https://www.mpi.govt.nz/consultations/issues-paper-for-the-202627-review-of-the-dairy-industry-restructuring-act-2001",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-16",
+    "headline": "Britain's October milk deliveries fell 4.1%, and the milk-year forecast is down 284 million litres",
+    "url": "https://ahdb.org.uk/news/gb-milk-deliveries-milk-deliveries-in-october-drop-4-year-on-year-as-producer-margins-are-eroded",
+    "topic": "global supply"
+  },
+  {
+    "date": "2026-11-16",
+    "headline": "Three post-fresh calcium boluses, three different blood curves, and the same cows a year later",
+    "url": "https://www.frontiersin.org/articles/10.3389/fvets.2026.2024635/full",
+    "topic": "herd management"
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "USDA confirms H5N1 in an Oklahoma dairy herd",
+    "url": "https://www.oklahomafarmreport.com/2026/11/16/usda-confirms-case-of-highly-pathogenic-avian-influenza-in-an-oklahoma-dairy-herd/",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "Blocks dropped 2.75 cents Monday and reopened the barrel premium to 7 cents",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1603.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "September fluid sales: whole milk up 5.4%, skim down 25.5%",
+    "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+    "topic": "demand"
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "In 44,894 dry periods, the yield peak sat at about 55 days and every extra 10 days raised displaced abomasum risk",
+    "url": "https://www.animbiosci.org/journal/view.php?doi=10.5713/ab.260748",
+    "topic": "herd management"
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "A field trial of platelet lysate at dry-off, and the quieter result is that sealant alone held its own",
+    "url": "https://www.frontiersin.org/articles/10.3389/fvets.2026.2007365/full",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "Organic pay prices fell for a third straight month, and the butterfat behind them fell too",
+    "url": "https://www.ams.usda.gov/mnreports/pn_da001.pdf",
+    "topic": "organic"
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "The late corn came off fast: harvest jumped 7 points in a week to 88%",
+    "url": "https://release.nass.usda.gov/reports/prog4626.pdf",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-18",
+    "headline": "Fat fell 6.5% to 8.2% at this week's auction while both powders gained, and the index did not move",
+    "url": "https://farmersweekly.co.nz/markets/dairy-markets/global-dairy-protein-demand-turns-commodity-prices-upside-down",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-18",
+    "headline": "California issued a production permit for mozzarella made from fermented casein, not milk",
+    "url": "https://www.newculture.com/blog/new-culture-secures-approvals-for-cheese-production",
+    "topic": "technology"
+  },
+  {
+    "date": "2026-11-18",
+    "headline": "The largest mozzarella maker is quadrupling a specialty whey line, and says cheese demand is what limits it",
+    "url": "https://www.dairyreporter.com/Article/2026/11/16/leprino-quadruples-microparticulated-whey-protein-capacity/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-18",
+    "headline": "In 283 calf records, the calves on antibiotic waste milk gained faster than the calves on replacer",
+    "url": "https://link.springer.com/article/10.1007/s11250-026-05449-0",
+    "topic": "calf nutrition"
+  },
+  {
+    "date": "2026-11-18",
+    "headline": "A thermal camera model hit 0.96 for subclinical mastitis, then fell to 0.33 sensitivity when it was validated",
+    "url": "https://link.springer.com/article/10.1007/s11250-026-05475-y",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-18",
+    "headline": "Organic fluid sales fell 5.2% in September and organic milk exports are down by half",
+    "url": "https://www.ams.usda.gov/mnreports/dybdairyorganic.pdf",
+    "topic": "demand"
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "GAO says sterile flies may not be enough, and USDA has gone to EPA for an emergency exemption",
+    "url": "https://www.gao.gov/products/gao-27-109347",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "The farm bill has weeks left on the clock, and the fight is over SNAP, not the commodity titles",
+    "url": "https://www.agri-pulse.com/articles/25524-farm-bill-negotiators-try-to-outrun-the-clock-as-hurdles-remain",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "Thanksgiving costs more for the first time since 2022, and the milk line rose while the cream line fell",
+    "url": "https://www.fb.org/intel/markets/thanksgiving-dinner-cost-ticks-upward-in-2026",
+    "topic": "demand"
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "A collar company put an assistant on top of 1.2 trillion rows of cow data",
+    "url": "https://farmersweekly.co.nz/technology/halter-launches-mav-ai-tool-for-farmers",
+    "topic": "technology"
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "A processor funded net zero farm is down 26% on absolute emissions, and its intensity went backwards this year",
+    "url": "https://www.dairyreporter.com/Article/2026/11/18/fonterra-and-nestle-extend-net-zero-dairy-farm-project-as-emissions-fall-26/",
+    "topic": "sustainability"
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "December Class I is $21.11, and powder has now set the mover ten months running",
+    "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "The survey price for cheddar is running about 15 cents above the spot board",
+    "url": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-10-23",
+    "headline": "September uniform prices fell for a third straight month, to an $18.98 average",
+    "url": "https://www.agproud.com/articles/64282-september-uniform-milk-price-stumbles",
+    "topic": "milk check"
+  },
+  {
+    "date": "2026-10-23",
+    "headline": "New Mexico draws a new 12.4-mile screwworm zone around a single cow",
+    "url": "https://nmdeptag.nmsu.edu/new-release/2026/nm-confirms-new-world-screwworm-case-in-otero-county.html",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-23",
+    "headline": "The $8 billion fuel relief program has a formula but no rates, and nothing for dairy yet",
+    "url": "https://www.dtnpf.com/agriculture/web/ag/news/business-inputs/article/2026/10/20/rollins-announces-8-billion-harvest",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-23",
+    "headline": "The co-op federation's board put its weight behind changes to both federal risk-management programs",
+    "url": "https://www.rrfn.com/2026/10/20/nmpf-board-endorses-risk-management-enhancements/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-23",
+    "headline": "The processors' trade association changes leadership for the first time in a decade",
+    "url": "https://perishablenews.com/?p=436929",
+    "topic": "industry"
+  },
+  {
+    "date": "2026-10-24",
+    "headline": "Butter stocks are running 16% above last year",
+    "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/cost1026.pdf",
+    "topic": "inventories"
+  },
+  {
+    "date": "2026-10-24",
+    "headline": "Retail cheddar set a record in the same month wholesale blocks slid",
+    "url": "https://data.bls.gov/timeseries/APU0000710212",
+    "topic": "consumer"
+  },
+  {
+    "date": "2026-10-24",
+    "headline": "H5N1 found in two herds that had kept testing clean",
+    "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-highly-pathogenic-avian-influenza-two-dairy-herds",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-24",
+    "headline": "Four screwworm zone orders in four days across West Texas",
+    "url": "https://www.tahc.texas.gov/emergency/nws.html",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-24",
+    "headline": "Methane-mitigating concentrates held milk yield but moved milk chemistry",
+    "url": "https://bioengineer.org/methane-cutting-cattle-feed-keeps-milk-flowing-but-shifts-milk-chemistry-on-real-farms/",
+    "topic": "research"
+  },
+  {
+    "date": "2026-10-25",
+    "headline": "Dairy cows are now 10.4% of the U.S. cattle kill",
+    "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/lstk1026.pdf",
+    "topic": "supply"
+  },
+  {
+    "date": "2026-10-25",
+    "headline": "September feedlot placements were the lowest in the 30-year series",
+    "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/cofd1026.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-10-25",
+    "headline": "Four screwworm cases in seven days, across three New Mexico counties",
+    "url": "https://screwwormnm.org/",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-26",
+    "headline": "USDA cut its Class III forecast and quietly raised the butter and cheese import outlook",
+    "url": "https://www.ers.usda.gov/media/29753/ldp-m-388.pdf",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-26",
+    "headline": "Screwworm reaches U.S. wildlife days before another cattle port reopens",
+    "url": "https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/stop-screwworm/current-status",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-26",
+    "headline": "The processing build-out tally is now above $15 billion across 23 states",
+    "url": "https://www.idfa.org/news/u-s-dairy-processing-invests-15-billion-in-manufacturing-across-23-states",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-10-26",
+    "headline": "Dairy's largest co-op group backs letting nonfat dry milk be protein-standardized",
+    "url": "https://cowsmo.com/news/nmpf-board-votes-to-support-risk-management-enhancements/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-27",
+    "headline": "Forward-contract authority lapsed October 1, and the exemption went with it",
+    "url": "https://www.fmmatlanta.com/Misc_Docs/Expiration%20of%20Dairy%20Forward%20Pricing%20Program%202026.pdf",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-27",
+    "headline": "Butter stocks are 16% above a year ago heading into the holiday draw",
+    "url": "https://esmis.nal.usda.gov/publication/cold-storage/2026-10-23",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-10-27",
+    "headline": "September milk production up 2.7%, and it is mostly more cows",
+    "url": "https://esmis.nal.usda.gov/publication/milk-production/2026-10-22",
+    "topic": "supply"
+  },
+  {
+    "date": "2026-10-27",
+    "headline": "Dairy culling is climbing at the same time as the herd",
+    "url": "https://esmis.nal.usda.gov/publication/livestock-slaughter/2026-10-22",
+    "topic": "herd"
+  },
+  {
+    "date": "2026-10-27",
+    "headline": "USDA names the cause of its September corn error and keeps October intact",
+    "url": "https://www.nass.usda.gov/Newsroom/Notices/2026/10-24-2026.php",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-10-27",
+    "headline": "The 50% tariff on Canadian cheese is now in front of a trade court",
+    "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-10-28",
+    "headline": "A six-year DMC lock-in still needs a signature and $100 before December 18",
+    "url": "https://www.fsa.usda.gov/resources/programs/dairy-margin-coverage-program-dmc",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-28",
+    "headline": "Bird flu reaches a second Washington county, and this time testing found it first",
+    "url": "https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=47441",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-28",
+    "headline": "Soybeans have passed their average pace; corn is still six points behind it",
+    "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/prog4326.pdf",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-10-28",
+    "headline": "The big exporters' milk growth is forecast to fall from 3.1% to 0.5%",
+    "url": "https://ahdb.org.uk/news/q3-2026-dairy-market-review",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-10-28",
+    "headline": "Eleven fermented milk proteins have now cleared the FDA's safety review",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13564971/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-10-28",
+    "headline": "The cull market cracked at a major auction yesterday",
+    "url": "https://www.ams.usda.gov/mnreports/ams_1823.pdf",
+    "topic": "herd"
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "Oregon's H5N1 herd got the virus without a cow crossing the state line",
+    "url": "https://www.opb.org/article/2026/11/19/avian-flu-oregon-health-dairy-cows-influenza/",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "Powder production fell 13.4% in September while domestic use ran 27.9% ahead",
+    "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "Dry whey exports are up 58% this year while domestic use of it is down 44.7%",
+    "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+    "topic": "exports"
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "Butterfat imports jumped 35.7% in September while skim-solids imports fell",
+    "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "A top-five processor is putting $600 million into cottage cheese, cream cheese and protein drinks",
+    "url": "https://www.foodbev.com/news/saputo-commits-600m-to-expand-capacity-in-high-growth-dairy-categories",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "Exceptional drought just appeared in northeastern Wyoming, upstream of the region's hay",
+    "url": "https://www.ams.usda.gov/mnreports/ams_2905.pdf",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "Britain's farm unions want the milk contract rules enforced, not rewritten",
+    "url": "https://www.dairyreporter.com/Article/2026/11/19/uk-farming-unions-demand-stronger-enforcement-of-milk-contract-rules-as-dairy-price-gap-widens/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-17",
+    "headline": "Record ARC/PLC money lands by month's end, and the 2026 election is a real choice again, due December 11",
+    "url": "https://farmdocdaily.illinois.edu/2026/10/2025-final-arc-plc-payments.html",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-18",
+    "headline": "USDA now forecasts Class IV above Class III by $2.00 in 2027, on a 19-cent powder revision",
+    "url": "https://www.usda.gov/oce/commodity/wasde/wasde1026.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-10-18",
+    "headline": "H5N1 reaches Washington dairy cattle for the first time, 93 U.S. herds now confirmed in 2026",
+    "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/washington-state-confirms-first-h5n1-avian-flu-detection-dairy-cattle",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-18",
+    "headline": "Texas releases a screwworm infested zone, movement rules come off two more counties",
+    "url": "https://www.aphis.usda.gov/news/program-update/texas-releases-new-world-screwworm-infested-zones",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-18",
+    "headline": "Corn harvest is six points behind, and Iowa is twenty points behind",
+    "url": "https://esmis.nal.usda.gov/sites/default/release-files/796104/prog4126.pdf",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-10-18",
+    "headline": "August exports rebounded, but the growth moved out of cheese and powder and into protein",
+    "url": "https://blog.usdec.org/usdairyexporter/u.s.-dairy-exports-rebound-in-august",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-10-18",
+    "headline": "2027 DMC signup is open through December 18, and the program's own forecast has nine months below the trigger",
+    "url": "https://www.agproud.com/articles/64230-enrollment-begins-for-2027-dairy-margin-coverage-program",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-18",
+    "headline": "August's DMC margin came in at $9.34, the third payment of 2026, and it is 16 cents",
+    "url": "https://www.centerfordairyexcellence.org/markets-management/dairy-week-in-review/october-7-2026-dairy-week-in-review/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-19",
+    "headline": "H5N1 reaches Washington dairy cattle for the first time, after 7,000 clean surveillance tests",
+    "url": "https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=47359",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-19",
+    "headline": "Raw cheddar recall corrected to seven states and two non-O157 E. coli serogroups",
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-raw-mild-cheddar-cheese-due-potential-e-coli-o26h11-and",
+    "topic": "food safety"
+  },
+  {
+    "date": "2026-10-19",
+    "headline": "Court keeps USDA's reorganization frozen through at least December 11",
+    "url": "https://farmpolicynews.illinois.edu/2026/10/judge-says-usda-reorg-likely-violates-congressional-directive/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-19",
+    "headline": "A fermentation group with 16 million litres of capacity just bought the lactoferrin startup",
+    "url": "https://cultivated-x.com/investments-finance/mycofeast-buys-daisy-lab-bringing-new-zealand-lactoferrin-developer-fermentation-group/",
+    "topic": "technology"
+  },
+  {
+    "date": "2026-10-20",
+    "headline": "The corn harvest gap widened again, Iowa is now 24 points behind",
+    "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/prog4226.txt",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-10-20",
+    "headline": "CME will list European dairy futures before year-end",
+    "url": "https://prnewswire.com/news-releases/cme-group-expands-dairy-business-with-new-european-futures-and-options-302912019.html",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-10-20",
+    "headline": "A fermentation-made milk protein clears its US safety hurdle for supplements",
+    "url": "https://www.foodnavigator.com/Article/2026/10/20/better-dairy-self-affirms-gras-status-for-lactopontin/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-10-21",
+    "headline": "The world auction just split the same way the U.S. market did: powders up, fat and cheese down",
+    "url": "https://en.edairynews.com/milk-powder-gains-trigger-global-dairy-trade-price-surge/",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-10-21",
+    "headline": "Soybean meal has now broken four sessions running, the other half of the feed relief finally showed up",
+    "url": "https://brownfieldagnews.com/news/closing-grain-and-livestock-futures-october-20-2026/",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-10-21",
+    "headline": "In the Central Valley, adding cows now forfeits the 35-year compliance runway for that share of the herd",
+    "url": "https://www.waterboards.ca.gov/board_decisions/adopted_orders/water_quality/2026/wqo2026-0028.pdf",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-21",
+    "headline": "Dairy dust rules in one Arizona county are about to become federally enforceable",
+    "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21289/air-quality-plan-arizona-agricultural-best-management-practices-rules-for-the-west-pinal-county-pm10",
+    "topic": "compliance"
+  },
+  {
+    "date": "2026-10-21",
+    "headline": "USDA proposes easing an FMD safeguard on the imported lean beef that competes with cull cows",
+    "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21433/minimum-maturation-temperature-for-beef-and-ovine-meat-from-regions-affected-with-foot-and-mouth",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-10-21",
+    "headline": "A processor is putting $30 million into a region that has lost 62% of its milk in five years",
+    "url": "https://www.pressdemocrat.com/2026/10/19/clover-sonoma-petaluma-investment/",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-10-22",
+    "headline": "Screwworm turns up in U.S. wildlife for the first time, four days before another border port reopens",
+    "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-confirms-first-detection-new-world-screwworm-us-wildlife",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-22",
+    "headline": "USDA quietly attached a 25% match to dairy value-added grants, and 16 members of Congress want it gone",
+    "url": "https://pocan.house.gov/media-center/press-releases/pocan-welch-lead-16-members-urging-ag-sec-rollins-reissue-dairy",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-10-22",
+    "headline": "USDA cut its milk forecast for both 2026 and 2027, and cut fat-basis exports at the same time",
+    "url": "https://www.ers.usda.gov/topics/animal-products/dairy/market-outlook",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-10-22",
+    "headline": "The processing build is now $15 billion, and it is tilting to fluid and cream, not cheese",
+    "url": "https://idfa.org/news/u-s-dairy-processing-invests-15-billion-in-manufacturing-across-23-states",
+    "topic": "processing"
+  },
+  {
+    "date": "2026-10-22",
+    "headline": "Washington loses its HPAI-free herd status 18 months after earning it",
+    "url": "https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-10-22",
+    "headline": "A class action now targets the export program that clears your surplus fat and cheese",
+    "url": "https://www.foodbev.com/news/us-consumers-launch-antitrust-lawsuit-against-dairy-cooperatives-over-alleged-milk-price-inflation",
+    "topic": "legal"
+  },
+  {
+    "date": "2026-11-21",
+    "headline": "The herd added 179,000 cows in a year, and October milk rose 2.4%",
+    "url": "https://release.nass.usda.gov/reports/mkpr1126.pdf",
+    "topic": "supply"
+  },
+  {
+    "date": "2026-11-21",
+    "headline": "Washington's cows are not expected back to normal output until spring, and Idaho milk is covering the gap",
+    "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-21",
+    "headline": "Four of the 24 major states made less milk in October, and Arizona is down 12,000 cows",
+    "url": "https://release.nass.usda.gov/reports/mkpr1126.pdf",
+    "topic": "supply"
+  },
+  {
+    "date": "2026-11-21",
+    "headline": "Texas now has 37 counties under screwworm movement restrictions, and two more orders landed Friday",
+    "url": "https://www.tahc.texas.gov/emergency/nws.html",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-21",
+    "headline": "Labor's new employee-or-contractor test is final, effective January 22",
+    "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-21",
+    "headline": "The premium Midwest plants pay for spot milk has narrowed to $3.00 over Class",
+    "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-21",
+    "headline": "October feedlot placements and marketings were both the lowest for the month since 1996",
+    "url": "https://release.nass.usda.gov/reports/cofd1126.pdf",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-21",
+    "headline": "The butter survey that sets your butterfat check covered 2.5 million pounds, down 25.1%",
+    "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+    "topic": "markets"
+  }
 ]
