@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-18",
+  "intro": "The butterfat and cheese complex repriced hard this week: block cheddar added nearly 30 cents in five sessions while wholesale butter sits a third below year-ago and USDA formally moved the forecast money into Class IV protein. Everything else on today's list is the operational side of that same squeeze: a new H5N1 state, Texas starting to release screwworm zones, a corn harvest running twenty points behind in Iowa, and culling four percent ahead of last year.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Block cheddar adds 29.75 cents in five sessions, and November Class III repriced with it",
+      "body": "CME 40-pound blocks opened the week of October 12 at $1.3900 and closed Friday at $1.6825, a weekly change of 29.75 cents; the weekly average landed at $1.5395, up 19.15 cents. Barrels closed at $1.6200 (weekly average $1.5095, up 5.70 cents). Futures followed: the November Class III contract went from $16.10 on October 12 to $17.25 on October 15, while the October contract only managed $15.20.",
+      "why": "Nearly all of that rebound lands in November and December milk checks, not October's, and Central-region spot Class III milk was still trading from flat to $3.00 over Class with ample cheddar inventories, so the cash board is ahead of the milk it is supposed to be bidding for.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Milk price",
+      "headline": "USDA now forecasts Class IV above Class III by $2.00 in 2027, on a 19-cent powder revision",
+      "body": "In WASDE-676 (October 9), USDA raised its 2027 nonfat dry milk price forecast to $1.740 per pound from $1.550 and cut butter to $1.550 from $1.625 and cheese to $1.615 from $1.645. The 2027 Class IV forecast rose to $18.90 from $17.55 while Class III fell to $16.90 from $17.10. For 2026 the spread is wider still: Class IV $18.90 against Class III $15.80. All-milk for 2027 was raised to $20.45.",
+      "why": "A second consecutive year of Class IV paying $2.00 to $3.00 over Class III makes your plant's class utilization, not your components, the biggest line in your milk check, and it puts real depooling pressure on Class I and Class II handlers in every order.",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde1026.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Animal health",
+      "headline": "H5N1 reaches Washington dairy cattle for the first time, 93 U.S. herds now confirmed in 2026",
+      "body": "USDA's National Veterinary Services Laboratory confirmed H5N1 in two Yakima County, Washington, dairy farms, the state's first detection in cattle. That brings 2026 to 93 confirmed U.S. dairy herds, against 917 in 2024 and 171 in 2025, across 19 states since March 2024.",
+      "why": "Three straight years of detections and a new state arriving just as fall migration peaks means your herd's clean history is not a biosecurity plan, it is the thing you are about to test.",
+      "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/washington-state-confirms-first-h5n1-avian-flu-detection-dairy-cattle",
+      "source_name": "CIDRAP"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Texas releases a screwworm infested zone, movement rules come off two more counties",
+      "body": "USDA APHIS and the Texas Animal Health Commission have released Infested Zone 16 outright and modified Infested Zone 17 to take in portions of Zone 6.A, covering Schleicher and Sutton counties. Releasing or modifying a zone removes New World screwworm movement requirements for livestock and pets inside it; interstate and international export requirements still apply, and several zones remain in force.",
+      "why": "This is a worked example of how affected counties get their cattle moving again. If you ship cull cows, bull calves or replacements through Texas, the zone map, not the headline case count, is what governs your load this week.",
+      "url": "https://www.aphis.usda.gov/news/program-update/texas-releases-new-world-screwworm-infested-zones",
+      "source_name": "USDA APHIS"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Corn harvest is six points behind, and Iowa is twenty points behind",
+      "body": "NASS put corn harvest at 33% across the 18 major states as of October 11, against a 39% five-year average. Iowa was at 14% versus a 34% average, Minnesota 25% versus 33%, Wisconsin 16% versus 18%. Corn condition held at 44% good and 12% excellent; soybeans were 46% harvested against a 50% average.",
+      "why": "A late corn harvest in the two biggest Upper Midwest dairy states pushes high-moisture corn and earlage out of their window, delays new-crop basis relief in the ration, and keeps drying and hauling costs in your feed bill into November.",
+      "url": "https://esmis.nal.usda.gov/sites/default/release-files/796104/prog4126.pdf",
+      "source_name": "USDA NASS"
+    },
+    {
+      "section": "Trade",
+      "headline": "August exports rebounded, but the growth moved out of cheese and powder and into protein",
+      "body": "U.S. dairy export volume rose 2% on a milk-solids-equivalent basis in August, ending a combined 4% decline over June and July, with value up 10% to $919 million. Cheese rose 9% (+5,113 MT) but at 59,007 MT was the first month under 60,000 MT since March. Nonfat dry milk and SMP fell 19% (-10,916 MT), with the Philippines down 90%, Vietnam 85% and Malaysia 78%. Milk protein concentrate jumped 36% to 5,225 MT, its biggest month in nearly four years, and low-protein whey rose 25% (+11,487 MT) while WPC80-plus fell 21%. Butterfat slipped 6% overall even as shipments to Mexico rose 1,050% for the month.",
+      "why": "The export pull is shifting toward fractionated protein, which is the same signal behind USDA's powder and whey revisions. It rewards milk going to plants that can split streams and leaves commodity cheese and butter plants competing on a narrowing price advantage.",
+      "url": "https://blog.usdec.org/usdairyexporter/u.s.-dairy-exports-rebound-in-august",
+      "source_name": "the U.S. Dairy Export Council"
+    },
+    {
+      "section": "Milk price",
+      "headline": "Wholesale butter has fallen by a third year over year; the retail shelf has barely moved",
+      "body": "USDA's October 12-16 report carries both index series. The September producer price index for dairy products was 242.6, down 0.3% from a year earlier, with butter's August year-over-year change at -32.5%. The September consumer price index for dairy was 269.6, down 0.7%, with butter's July year-over-year change at -10.3% and fresh whole milk up 2.8%. CME Grade AA butter closed the week at $1.3650, and WASDE cut the 2026 butter forecast to $1.560 and 2027 to $1.550.",
+      "why": "A 32% wholesale decline that reaches the shelf as 10% means the price signal that would move extra cream into consumer demand is being absorbed downstream, so your butterfat pay price keeps taking the correction without getting the volume response that normally ends it.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Policy",
+      "headline": "2027 DMC signup is open through December 18, and the program's own forecast has nine months below the trigger",
+      "body": "Enrollment for 2027 Dairy Margin Coverage opened October 5 and runs through December 18, with coverage levels from $4.00 to $9.50 per cwt and the first 6 million pounds of production at Tier I. A one-time election of level and percentage for 2026 through 2031 cuts premiums 25%, with a $100 administrative fee per program year. As of October 2, projections had January through September 2027 margins below $9.50, the lowest at $8.57 in July, no indemnity expected from October 2027 when the margin reaches $9.73, and a projected 2027 average margin of $9.34.",
+      "why": "A forecast with nine payable months in it is the cheapest information you will get before the December 18 deadline, and the multi-year election is a one-time door: skipping it prices your 2028 to 2031 premiums 25% higher.",
+      "url": "https://www.agproud.com/articles/64230-enrollment-begins-for-2027-dairy-margin-coverage-program",
+      "source_name": "Progressive Dairy"
+    },
+    {
+      "section": "Policy",
+      "headline": "August's DMC margin came in at $9.34, the third payment of 2026, and it is 16 cents",
+      "body": "USDA put the August Dairy Margin Coverage margin at $9.34 per cwt, down 59 cents from July and $2.18 from August 2025. Operations covered at the $9.50 level receive 16 cents per cwt, before a 5.7% sequestration deduction. It is the third month of 2026 to trigger an indemnity.",
+      "why": "Sixteen cents per cwt on Tier I production is a rounding error against the feed-cost move that produced it, which is the practical argument for treating DMC as a floor you buy high rather than a program you expect to earn from.",
+      "url": "https://www.centerfordairyexcellence.org/markets-management/dairy-week-in-review/october-7-2026-dairy-week-in-review/",
+      "source_name": "the Center for Dairy Excellence"
+    },
+    {
+      "section": "Supply",
+      "headline": "Culling is running 4% ahead of last year, about 81,000 more cows gone",
+      "body": "Dairy cow slaughter under federal inspection was 53.6 thousand head in the week ending October 3, against 52.1 thousand a year earlier. Cumulative 2026 slaughter stands at 2,078.4 thousand head versus 1,997.7 thousand over the same period in 2025, a gap of roughly 80,700 cows.",
+      "why": "That is the mechanism behind USDA cutting both cow numbers and output per cow this month, and it means the replacement market you would buy into to hold milk volume is being tightened by the same cull decisions filling the kill floor.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    }
+  ]
+}

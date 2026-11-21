@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-21",
+  "intro": "The skim-over-fat split that has defined the U.S. milk check all year showed up intact at the world auction this week, which makes it a global price structure rather than an American accident. Underneath that, the feed side finally broke on both legs at once while Class III rallied, and three regulatory dockets quietly repriced what it costs to expand, to raise dust, and to sell a cull cow.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "The world auction just split the same way the U.S. market did: powders up, fat and cheese down",
+      "body": "GlobalDairyTrade's Event 414 on October 20 lifted the overall index 2.5% to an average winning price of $4,021 per metric ton, but the gain was entirely in the skim complex. Whole milk powder rose 4.4% to $3,760 a tonne, skim milk powder 3.4% to $3,975 and buttermilk powder 8.4%, while cheddar fell 7.4% to $3,645 and anhydrous milkfat dropped 3.4% to $5,488. GDT's own results panel was still reading \"Information currently unavailable\" hours after the event closed.",
+      "why": "The skim-over-fat inversion that has pushed Class IV above Class III all year is now priced into the world auction too, so it is a global structure rather than a U.S. quirk, and the cheddar break lands in the same week U.S. blocks rallied, widening the gap American cheese has to clear to move offshore.",
+      "url": "https://en.edairynews.com/milk-powder-gains-trigger-global-dairy-trade-price-surge/",
+      "source_name": "eDairyNews"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Soybean meal has now broken four sessions running, the other half of the feed relief finally showed up",
+      "body": "December soybean meal closed at $348.70 on October 20, down $6.10 on the day and down about $11.10 from its October 15 close of $359.80 after four consecutive lower settlements. December corn fell alongside it to $4.62, from $4.78 on October 15. Through the same stretch November Class III milk futures climbed from $17.25 to $18.09.",
+      "why": "Earlier this month corn broke while meal held, which capped the benefit to a ration. Both legs are now falling at once while the milk side rallies, so the margin is widening from both ends, and that is the configuration in which forward feed coverage gets cheap and forward milk gets worth hedging in the same week.",
+      "url": "https://brownfieldagnews.com/news/closing-grain-and-livestock-futures-october-20-2026/",
+      "source_name": "Brownfield Ag News"
+    },
+    {
+      "section": "Policy",
+      "headline": "In the Central Valley, adding cows now forfeits the 35-year compliance runway for that share of the herd",
+      "body": "The State Water Board's 131-page dairy order, WQ 2026-0028, gives existing Central Valley dairies a manure-application compliance schedule running as long as 35 years. But the order states that for any herd expansion after the date of the order, the only way the added cows are treated as \"existing\" is to file a complete report of waste discharge demonstrating immediate compliance with the 1.4 A/R land application requirement for the manure those cows will generate, supply CEQA documentation, and wait for the Regional Board's written notice of coverage before the cows arrive. Every other expansion is treated as a new dairy, which the order says will \"not receive any time schedule for compliance with the final land application rates.\" The order's own example blends an 80% existing herd at 1.4 with a 20% expansion at 1.1 to a 1.34 ratio for the whole operation.",
+      "why": "A single herd can now carry two regulatory vintages at once, and the paperwork has to clear before the cows walk in, so an expansion penciled on today's milk price can permanently tighten the manure allowance on the entire operation if the sequence is done in the wrong order.",
+      "url": "https://www.waterboards.ca.gov/board_decisions/adopted_orders/water_quality/2026/wqo2026-0028.pdf",
+      "source_name": "the California State Water Board"
+    },
+    {
+      "section": "Compliance",
+      "headline": "Dairy dust rules in one Arizona county are about to become federally enforceable",
+      "body": "EPA proposed on October 19 to approve into the federally enforceable Arizona State Implementation Plan a rule, AAC R18-2-611.03, that regulates PM10 from commercial dairy operations, beef cattle feedlots, poultry and swine facilities in the West Pinal County PM10 nonattainment area, an area classified \"Serious.\" The rule is new to the SIP, which EPA calls \"a substantial strengthening,\" and requires operators to implement best management practices chosen from regulatory menus. The companion crop rule was tightened to two BMPs per category and adds a 20% opacity limit for high-traffic unpaved areas. Comments close November 18, 2026.",
+      "why": "Once a state agricultural dust rule is folded into a SIP it stops being a state matter and becomes enforceable under the Clean Air Act, which changes who can bring an action over a dusty corral or feed alley, and the window to say anything about it is four weeks.",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21289/air-quality-plan-arizona-agricultural-best-management-practices-rules-for-the-west-pinal-county-pm10",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Trade",
+      "headline": "USDA proposes easing an FMD safeguard on the imported lean beef that competes with cull cows",
+      "body": "APHIS proposed on October 20 to lower the minimum maturation temperature for fresh boneless beef and ovine meat imported from regions where foot-and-mouth disease is known to exist, from the current 4 to 10 degrees C band down to 2 degrees C, aligning with World Organization for Animal Health standards. All other import mitigations stay in place. APHIS says it expects no significant increase in imports and that there is no evidence the existing temperature acts as a trade barrier, but it also concedes it does \"not currently have all the data necessary\" to analyze the effect on small entities and is inviting comment through December 21.",
+      "why": "The imports this rule touches are mostly lean trimmings, which are the direct substitute for the lean beef a cull dairy cow produces, so the comment docket is the cheapest place for a dairy to be heard on a market that has already given back a chunk of its spring value.",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21433/minimum-maturation-temperature-for-beef-and-ovine-meat-from-regions-affected-with-foot-and-mouth",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Processing",
+      "headline": "A processor is putting $30 million into a region that has lost 62% of its milk in five years",
+      "body": "Clover Sonoma said it will invest $30 million in its Petaluma, California operations over two years, expanding refrigerated warehousing and other facility upgrades, and has already added 21 jobs in plant production and warehouse roles. It is also looking for land for a \"culture and innovation\" facility for new cultured products. The backdrop: milk production in Sonoma and Marin counties fell from 86 million gallons in 2020 to about 32 million in 2025, a 62% decline, and 87% of what is left is organic.",
+      "why": "When processing capital goes into a basin whose milk supply has collapsed by nearly two-thirds, the binding constraint shifts from finding a buyer to finding the milk, which is the condition under which the remaining suppliers in a shrinking region get paid to stay.",
+      "url": "https://www.pressdemocrat.com/2026/10/19/clover-sonoma-petaluma-investment/",
+      "source_name": "The Press Democrat"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-17",
+  "intro": "This week's story is the distance between the exchange and the formulas: cheese added nearly 30 cents and dry whey closed at 89.5 cents, while the survey prices that actually set October's milk check sat in the $1.43s and the 71-cent range. On the forward board the Class IV-over-Class III premium gave back $1.74 of its December value in four sessions, and September's wholesale butter index came in a third below last year without the shelf following it down.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Cheese closed the week 29.75 cents higher, but the survey price that pays you is still in the $1.43s",
+      "body": "CME 40-pound cheddar blocks ran $1.3900, $1.4425, $1.5300, $1.6525 and $1.6825 Monday through Friday, a 29.75-cent weekly gain; barrels sat at $1.4525 for three sessions, then added 11.75 and 5.00 cents to close at $1.6200. The week's average was $1.5395 for blocks, up 19.15 cents, and $1.5095 for barrels, up 5.70 cents. USDA's National Dairy Products Sales Report, meanwhile, put 40-pound blocks at $1.4309 on 10.4 million pounds for the week ending October 10.",
+      "why": "The Class III cheese price is built from the NDPSR survey, not the exchange, and the survey runs a week or more behind, so Friday's $1.6825 is a November milk-check number, and anyone pricing October off the spot board is reading 25 cents of rally that has not reached the formula yet.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Components",
+      "headline": "Spot dry whey closed at 89.5 cents. The survey says 71.98 cents and the futures board says 72.65.",
+      "body": "Extra grade dry whey closed Friday at $0.8950, the fifth straight session at or above $0.8600, for a weekly average of $0.8830, up 3.70 cents. The NDPSR survey for the week ending October 10 came in at $0.7198. October dry whey futures settled at 72.650 cents on October 15, with November at 75.950 and December at 78.250. AMS's own regional cash ranges are $0.65 to $0.81 in the Central region, $0.69 to $0.77 in the East and $0.68 to $0.76 in the West.",
+      "why": "Other solids in the Class III formula comes off the survey price, so the 17.5-cent gap between the exchange close and the survey is the part of this rally your check will not see, and a futures curve pricing October 17 cents under spot says the trade does not expect the gap to close in your favor.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Risk management",
+      "headline": "The forward board spent four sessions dismantling the Class IV-over-Class III trade",
+      "body": "Between the October 9 and October 15 closes, November Class III futures went from $16.10 to $17.25 and December from $16.47 to $17.36, while November Class IV slipped from $20.82 to $20.50 and December from $20.55 to $19.70. December's Class IV premium over Class III has gone from $4.08 to $2.34 in four sessions, and November's from $4.72 to $3.25. The driver sits in the ingredient contracts: December nonfat dry milk futures fell 15.40 cents to 188.250, while December butter added 7.425 cents to 141.425.",
+      "why": "Every fat-light, skim-heavy component strategy and Class IV-weighted hedge put on this autumn was priced off a spread that just gave back $1.74 of its December value in four trading days. If the Q4 plan assumed the inversion holds, this is the week to re-run the numbers.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Calf milk replacer buyers are now bidding against food-grade whey, at roughly double the feed-grade price",
+      "body": "USDA reports that in the Central region \"increased demand from the feed and calf milk replacer groups\" is forcing those buyers \"to pay food grade prices.\" Animal feed whey is still quoted at $0.3500 to $0.3800, but few manufacturers are making it and spot inventories are tight; the Central food-grade mostly range is $0.7000 to $0.7800. On the concentrate side, WPC 34% is quoted at $2.3500 to $3.2000 with a mostly range of $2.5000 to $2.8000, and USDA says any plant still making it \"could command substantial premiums, with values approaching WPC 80% protein price equivalents,\" WPC 80% being mostly in the $9s.",
+      "why": "The whey and WPC 34% in a bag of replacer are the two ingredients repricing hardest right now, and the squeeze lands exactly as fall calvings fill the hutches, so it is worth pricing your winter replacer contract before the next quarter's premiums are written in.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Demand",
+      "headline": "Wholesale butter is down a third from last year. The shelf gave back a tenth.",
+      "body": "September's producer price index for butter came in at 97.5, down 32.5% year over year, after -36.6% in July and -38.7% in August, three months of wholesale butter running a third or more below 2025. The dairy products PPI as a whole was 242.6, down just 0.3%, with cheese at +0.4% and fresh whole milk at +0.6%. At retail, the September CPI for butter was 286.2, down 10.3%, and the average advertised retail price was $3.959 a pound against $4.787 a year earlier.",
+      "why": "The butterfat discount is being absorbed between the churn and the checkout, which is why spot butter in the $1.20s and $1.30s has not bought the demand response that would clear the cream. If the pass-through stays this thin, cheap butter stays cheap longer than a normal cycle would suggest.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    },
+    {
+      "section": "Policy",
+      "headline": "Record ARC/PLC money lands by month's end, and the 2026 election is a real choice again, due December 11",
+      "body": "Final 2025 marketing-year average prices came in at $4.16 for corn, $10.50 for soybeans and $5.06 for wheat, all under their effective reference prices, putting PLC rates at $0.26, $0.21 and $1.29 a bushel. University of Illinois economists estimate average payments of $51 per corn base acre, $29 for soybeans and $47 for wheat, totalling just over $13.2 billion nationally against the $13.8 billion USDA has publicized, with producers paid by the end of October. For 2025 only, growers receive the higher of ARC or PLC regardless of what they elected in March 2025; for 2026 the election reverts to a choice, with a December 11, 2026 deadline.",
+      "why": "For any dairy carrying corn and soybean base, this is a dated, sizable cash-flow event arriving in the same month DMC margins sat under the trigger, and the free pass that paid whichever program was better is gone, so the 2026 sign-up is a decision with a deadline, not a formality.",
+      "url": "https://farmdocdaily.illinois.edu/2026/10/2025-final-arc-plc-payments.html",
+      "source_name": "farmdoc daily"
+    },
+    {
+      "section": "Fluid milk",
+      "headline": "Packaged fluid milk sales have now been flat for eight straight months",
+      "body": "Handlers shipped 3.5 billion pounds of packaged fluid milk products in August, virtually unchanged from a year earlier, conventional down 0.1% and organic up 2.4%. The monthly series in the same report shows August conventional sales of 3,239 million pounds against 3,243 a year ago, and organic at 242 million against 236. Adding up the published months, January through August conventional volume is 25,969 million pounds against 25,934 last year, and organic is 1,982 against 1,986.",
+      "why": "Class I volume is the part of the pool that pays the differentials, and it has stopped eroding. Eight months inside a tenth of a percent either way is a materially different planning assumption from the structural decline the fluid category is usually credited with.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA AMS Dairy Market News"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-21",
+  "intro": "The national herd added 179,000 cows in a year and October milk came in 2.4 percent ahead, but the state table shows where that milk is not: Arizona, Utah, Vermont, and a Washington whose cows are not expected back to normal output until spring. Underneath the volume, the machinery that prices it ran thin this week, with the butter survey covering a quarter less product than usual and Midwest spot milk premiums narrowing even while mozzarella is short.",
+  "items": [
+    {
+      "section": "Supply",
+      "headline": "The herd added 179,000 cows in a year, and October milk rose 2.4%",
+      "body": "USDA's November 20 report puts October milk production in the United States at 19.9 billion pounds, 2.4 percent above October 2025. The national herd stood at 9.75 million head, 179,000 more than a year earlier and 7,000 more than September. Production per cow averaged 2,045 pounds, 10 pounds above last October, so nearly all of the year-over-year gain came from cow numbers rather than from output per cow.",
+      "why": "Supply growth that comes from cows is slower to reverse than growth that comes from feeding or weather, because it takes a culling decision to undo it. With the herd still adding animals in October, the planning assumption for 2027 is one where volume keeps pressing on the manufacturing classes.",
+      "url": "https://release.nass.usda.gov/reports/mkpr1126.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Washington's cows are not expected back to normal output until spring, and Idaho milk is covering the gap",
+      "body": "USDA's Dairy Market News for the week of November 16 to 20 reports that milk production in Washington continues to contract, with contacts indicating cows affected by HPAI are unlikely to return to normal output until spring. Idaho milk volumes are being diverted to Washington processors, which the report says is further tightening milk supplies across the Northwest. There is little slack elsewhere in the West to draw on: Southwest availability is steady to tight, and California supplies are flat week over week.",
+      "why": "A production hole that runs into spring in one state is now pulling milk across a state line, which puts part of the cost of the outbreak on Idaho shippers and on anyone bidding for spot loads in the Northwest. If you ship in that region the balancing math for the winter has changed, and if you buy milk there the premium is unlikely to ease for months.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Supply",
+      "headline": "Four of the 24 major states made less milk in October, and Arizona is down 12,000 cows",
+      "body": "Arizona's October production fell 6.8 percent from a year earlier, Washington's 3.3 percent, Utah's 3.1 percent and Vermont's 0.9 percent, the only declines among the 24 major states. Arizona milked 185,000 cows against 197,000 last October, and Washington's output per cow fell to 1,980 pounds from 2,020. At the other end of the table, Kansas was up 12.3 percent and South Dakota 11.5 percent.",
+      "why": "The national number hides a map being redrawn: milk is leaving the Southwest and the Northwest and showing up on the central plains, where the new plants are going. Hauling rates, spot milk values and the terms a handler will offer follow that redistribution rather than the national average.",
+      "url": "https://release.nass.usda.gov/reports/mkpr1126.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Texas now has 37 counties under screwworm movement restrictions, and two more orders landed Friday",
+      "body": "The Texas Animal Health Commission lists parts of 37 counties inside an established New World screwworm infested zone, and issued two new executive director orders on November 20, covering Brewster and Presidio counties and Duval, Jim Hogg and Webb counties. Eleven orders have been issued or modified since November 13, including new zones in Medina, Uvalde and Goliad counties and in the lower Rio Grande Valley counties of Brooks, Hidalgo, Kenedy and Willacy. Under the orders, no warm-blooded animal may move out of an infested zone without prior authorization from the commission, and animals leaving must be inspected by the commission or a certified inspector, who completes a movement and treatment certificate listing the product used and the animals' official identification.",
+      "why": "This is a paperwork requirement on every load that leaves a listed county, and it covers warm-blooded animals generally, so cull cows, bull calves, replacements and the farm dog all fall under it. The zone has moved east and south in a single week, which is reason enough for a dairy still outside it to know who its nearest certified inspector is before an order names its county.",
+      "url": "https://www.tahc.texas.gov/emergency/nws.html",
+      "source_name": "the Texas Animal Health Commission"
+    },
+    {
+      "section": "Policy",
+      "headline": "Labor's new employee-or-contractor test is final, effective January 22",
+      "body": "A Department of Labor final rule, released for publication on November 23, rescinds the 2024 analysis for deciding whether a worker is an employee or an independent contractor under the Fair Labor Standards Act and replaces it with an approach close to the department's 2021 rule. That test has five factors, two of which, the nature and degree of control over the work and the worker's opportunity for profit or loss, are designated core factors carrying greater weight, with three others, beginning with the amount of skill required, treated as less probative. The rule also amends the Family and Medical Leave Act and Migrant and Seasonal Agricultural Worker Protection Act regulations so that status under those statutes follows the FLSA analysis. It takes effect January 22, 2027, and Labor estimates $495.7 million in first-year familiarization costs against $694.8 million a year in net cost savings.",
+      "why": "Every hoof trimmer, relief milker, custom heifer grower and hauler paid on a 1099 is classified under this test, and the weight has shifted back toward control and the chance of profit or loss. Those arrangements are worth rereading before January 22, because a misclassification finding reaches backward through past pay periods, not forward.",
+      "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Markets",
+      "headline": "The premium Midwest plants pay for spot milk has narrowed to $3.00 over Class",
+      "body": "Class III spot milk in the Central region traded from flat to $3.00 over Class at publication, a range USDA describes as narrowing from the previous week, on moderate trade activity. Milk production in the region is increasing slightly, with stronger components in the Upper Midwest. At the same time, cheese manufacturers report mozzarella demand strong enough that production is insufficient to meet customer needs, and mozzarella inventories are tight.",
+      "why": "Plants are paying less for extra milk even while one cheese variety is short, which says the regional balance is loosening from the supply side rather than from demand. Anyone who has been selling spot loads into that premium is watching the window close while the milk keeps coming.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Markets",
+      "headline": "October feedlot placements and marketings were both the lowest for the month since 1996",
+      "body": "Feedlots with 1,000 head or more of capacity placed 1.89 million cattle in October, 7 percent below last year and the lowest October placements since the series began in 1996. Marketings of fed cattle were 1.62 million head, 5 percent below last year and also the lowest for October in the series. Cattle on feed on November 1 totaled 11.6 million head, 1 percent below a year earlier.",
+      "why": "Feedlots are the buyers for beef-cross bull calves and dairy steers, and they are now both buying and selling fewer cattle than in any October on record. Thin placements keep calf bids supported, but that support comes from a shortage of cattle rather than from feedlot appetite, so it can thin out quickly if the marketing pace stays this slow.",
+      "url": "https://release.nass.usda.gov/reports/cofd1126.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Markets",
+      "headline": "The butter survey that sets your butterfat check covered 2.5 million pounds, down 25.1%",
+      "body": "The National Dairy Products Sales Report butter price came in at $1.3503 a pound, down modestly, on what USDA describes as holiday-week sales of 2,521,361 pounds, down 25.1 percent. CME Grade AA butter closed Friday at $1.2700, with a weekly average of $1.2680, up 1.7 cents, on 68 car lots traded for the week. In the West, cream multiples declined again alongside lower butter prices, though USDA says spot cream values stayed firm.",
+      "why": "The survey price, not the exchange, sets the butterfat value in your check, and this week it was built from a quarter less volume than usual. A thin sample moves further on one large sale in either direction, which is worth knowing before reading a single week's survey print as a trend.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA"
+    }
+  ]
+}
