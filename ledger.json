@@ -1522,5 +1522,59 @@
     "headline": "The butter survey that sets your butterfat check covered 2.5 million pounds, down 25.1%",
     "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
     "topic": "markets"
+  },
+  {
+    "date": "2026-11-22",
+    "headline": "December's butterfat factor is the lowest of 2026, and the year is running 37% under 2025",
+    "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-22",
+    "headline": "The powder price inside the federal order formula has nearly doubled in eleven months",
+    "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-22",
+    "headline": "New Zealand's forecast payout went to $10.55, and the spot value of its milk is above that",
+    "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-22",
+    "headline": "The biggest butter exporter just raised how much butter it plans to offer, into a market down 29%",
+    "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-22",
+    "headline": "Germany's farmgate price is 21.4% under last year, and its output is still falling",
+    "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+    "topic": "global supply"
+  },
+  {
+    "date": "2026-11-22",
+    "headline": "US butter and skim powder shipments to one region fell about two thirds in September",
+    "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-22",
+    "headline": "The extended shelf life adjustment moved $1.04 in a month, off the deepest reading in two years of tables",
+    "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-22",
+    "headline": "The fourth cattle port on the Mexican border reopens November 30",
+    "url": "https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/stop-screwworm/current-status",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-22",
+    "headline": "Dry whey closed at 92 cents, and the high-protein whey market that pulled it there is cooling",
+    "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+    "topic": "inputs"
   }
 ]
