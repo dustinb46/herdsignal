@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-22",
+  "intro": "The December pricing announcement puts the two halves of the milk check at opposite ends of the year: the butterfat factor is at its 2026 low while the powder price in the formula has nearly doubled since January. The international pages say no relief is coming for fat, because the largest exporter just raised the amount of butter it intends to offer into a market already down 29 percent.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "December's butterfat factor is the lowest of 2026, and the year is running 37% under 2025",
+      "body": "USDA's November 18 advanced price announcement sets the advanced butterfat pricing factor for December 2026 at $1.3641 per pound, the lowest of any month this year. November's $1.3730 was the second lowest. The 2026 average of $1.6267 compares with a 2025 average of $2.5706, and the year opened at $1.5921 in January before peaking at $2.0221 in April.",
+      "why": "Butterfat is the largest component line on most milk checks, so a factor sitting at the year's floor sets the ceiling on what a high-fat herd can earn this winter. Breeding and feeding decisions made when fat was clearing two dollars are now being paid out against a number a third lower, which changes whether the component premium still covers the cost of chasing it.",
+      "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The powder price inside the federal order formula has nearly doubled in eleven months",
+      "body": "The same announcement puts the two-week nonfat dry milk average used in the Class I and Class II formulas at $2.0784 per pound for December, against $1.1551 in January. November's figure was $1.9807. Over the same stretch the butter average in those formulas fell from $1.5419 to $1.3536.",
+      "why": "The component that is holding the check together is the one most dairies spent the last two years treating as a byproduct of making butter. A powder price up about 80 percent inside one year, with fat down, argues for looking at where your plant sends the skim stream and whether your contract pays you for solids-not-fat the way the order formula now values them.",
+      "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Trade",
+      "headline": "New Zealand's forecast payout went to $10.55, and the spot value of its milk is above that",
+      "body": "USDA's International Dairy Market News reports that following Global Dairy Trade Event 416, a New Zealand group that forecasts milk prices raised its 2026/2027 season forecast to $10.55 per kilogram of milksolids, with a range of $10.37 to $10.93. The spot value of milk rose to $10.74 per kilogram of milksolids from $10.50, and the September 2027 futures contract last settled at $10.41. The forecast assumes an exchange rate of 0.5791 US cents per New Zealand dollar.",
+      "why": "The lowest-cost exporter in the world is being told its milk is worth more than its own season forecast, which is the signal that pulls more New Zealand milk into next season rather than less. That milk competes for the same Asian cheese and powder business US plants have been winning, so the export pull holding up your powder price has a supply answer forming on the other side of the Pacific.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Trade",
+      "headline": "The biggest butter exporter just raised how much butter it plans to offer, into a market down 29%",
+      "body": "A major New Zealand dairy cooperative increased its forecast total offer quantity for butter over the next twelve months by 5,000 metric tons, to 55,535 metric tons, USDA reports. Oceania butter processor prices fell again this period and remain 29 percent below year-ago levels, and USDA describes ample cream availability as driving milkfat markets lower and contributing to some of the sharpest price declines in recent history. At Global Dairy Trade Event 416 butter prices were lower across the board, with the March contract down 9.3 percent, and no butter was offered for April or May.",
+      "why": "Anyone waiting for global butterfat to find a floor and pull the US butter price off its four-year lows now has to wait through 5,000 more tons of announced supply. For a dairy deciding whether to hedge Class IV or butterfat into spring, the forward supply story has moved against the fat side rather than toward it.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Global supply",
+      "headline": "Germany's farmgate price is 21.4% under last year, and its output is still falling",
+      "body": "Milk pay prices in Germany rose 4.7 percent from August in September, but sat 21.4 percent below September 2025, USDA reports. German milk output continues to decline, with industry sources indicating current-period output is down from previous weeks and below 2025 levels. The organic pay price also rose in September but remained below a year ago, and German organic prices have been under 2025 levels since May, when 2025 had reached record highs.",
+      "why": "Europe's largest milk pool is being paid a fifth less than a year ago and is making less milk anyway, which is the condition under which European processors stop chasing export volume and start defending home contracts. That leaves more room for US cheese and powder abroad, and it is also a reminder that a 19 percent run-up in the EU average since January does not mean every member state's farmers are ahead of where they were.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Trade",
+      "headline": "US butter and skim powder shipments to one region fell about two thirds in September",
+      "body": "USDA reports that September trade data shows weak demand from Australia and Oceania, with US butter exports to that region down 65 percent since September 2025 and US skim milk powder exports down 68 percent. At the same auction where butter fell, skim milk powder prices rose across every offered contract period, reaching the highest rolling twelve-month average and highest platform average price since June 2022, and the skim powder average is 65 percent higher year over year and trading at a premium to whole milk powder.",
+      "why": "Export growth reported as a national total can hide a destination that has stopped buying, and this is one. If your co-op's premium depends on a specific export lane rather than on the global index, the lane matters more than the index, and the lanes paying right now are the powder ones, not the fat ones.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The extended shelf life adjustment moved $1.04 in a month, off the deepest reading in two years of tables",
+      "body": "USDA set the Class I extended shelf life adjustment at negative $0.76 per hundredweight for December 2026, $1.04 above November's negative $1.80. That November figure is the most negative in either the 2026 or the 2025 table USDA publishes with the announcement, where the 2026 average is negative $0.45 and three months of the year carried a positive adjustment. The adjustment comes from the pricing formula changes in the final rule published at 90 FR 6600 in January 2025.",
+      "why": "This line only touches milk going into extended shelf life Class I products, so it is invisible to most of the industry and decisive for the handlers who bottle them. A dollar per hundredweight swing in one month is the kind of move that shows up in what an aseptic or creamer plant will offer for winter volume, and it is worth knowing which side of it your milk is on before you sign.",
+      "url": "https://www.ams.usda.gov/mnreports/dymadvancedprices.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Animal health",
+      "headline": "The fourth cattle port on the Mexican border reopens November 30",
+      "body": "USDA's screwworm status page, last updated November 20, lists Nogales, Arizona as reopening to cattle imports from Mexico on November 30, 2026. It follows Douglas, Arizona on August 24, Santa Teresa, New Mexico on September 24 and Columbus, New Mexico on October 26. USDA says future decisions will depend on animal health risks, operational readiness and the continued effectiveness of mitigation measures.",
+      "why": "Each reopening adds feeder and replacement supply at a time when cull and feeder values have been the second income line holding budgets together, so it works against the calf and cull prices that have been propping up margins. It also lengthens the routes on which screwworm can travel north, which is the reason the ports closed in the first place.",
+      "url": "https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/stop-screwworm/current-status",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Dry whey closed at 92 cents, and the high-protein whey market that pulled it there is cooling",
+      "body": "Extra grade dry whey closed at $0.9200 on the CME on November 20, and the weekly average rose 4.90 cents to $0.9200, USDA reports. Market attention has been heavily focused on whey protein concentrate 80 percent and higher, but USDA says demand for those products has started to ease as availability improves and prices soften, with stakeholders still reporting pricing in the sevens and eights. As of this report those developments have not meaningfully affected dry whey availability.",
+      "why": "Dry whey sets the other solids price in a Class III check, and at 92 cents it is doing more work than usual while cheese sits at $1.5625. The thing to watch is the cause: dry whey has been tight because plants were pulling whey streams into high-protein concentrate, so concentrate demand easing is the first signal that the commodity whey squeeze, and the other solids money that comes with it, has a shelf life.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA"
+    }
+  ]
+}
