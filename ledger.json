@@ -1576,5 +1576,53 @@
     "headline": "Dry whey closed at 92 cents, and the high-protein whey market that pulled it there is cooling",
     "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
     "topic": "inputs"
+  },
+  {
+    "date": "2026-11-23",
+    "headline": "September's margin above feed was $8.35, the lowest since January, and it triggered Tier 1 payments",
+    "url": "https://www.ers.usda.gov/media/30379/ldp-m-389.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-23",
+    "headline": "A self-fed protein block is recalled after 22 cattle deaths from excess urea",
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ridley-block-operations-recalls-batch-crystalyxrhe-20-beef-cattle-and-bison-due-excess-levels-non",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-23",
+    "headline": "Managed money holds 570 long contracts against 10,838 short across the five dairy futures, and zero longs in butter",
+    "url": "https://www.cftc.gov/dea/futures/ag_lf.htm",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-23",
+    "headline": "October dairy cow slaughter fell 3.6% from last year, and the year is still running 3.1% ahead",
+    "url": "https://esmis.nal.usda.gov/sites/default/release-files/796152/lstk1126.pdf",
+    "topic": "supply"
+  },
+  {
+    "date": "2026-11-23",
+    "headline": "A federal model change just repriced dairy manure gas, worth about $15 million a year at one operator",
+    "url": "https://www.sec.gov/Archives/edgar/data/1392380/000162828026074966/gevo_rngxcixscorex2027xout.htm",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-23",
+    "headline": "Eastern churns are paying up to 1.52 times for cream while the West pays 1.20",
+    "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-23",
+    "headline": "Cheese in cold storage rose 4% in two weeks while butter drew down 3%",
+    "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+    "topic": "inventories"
+  },
+  {
+    "date": "2026-11-23",
+    "headline": "Britain imported 30.3% more skim milk powder through September, and 14% less whey",
+    "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+    "topic": "trade"
   }
 ]

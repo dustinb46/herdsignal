@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-23",
+  "intro": "September was the month the margin math turned: USDA's own margin calculation fell below the Tier 1 trigger for a second straight month, and the speculative money has since lined up short in every CME dairy contract. The costs that bite are showing up on the input side instead, from a protein block that killed 22 cattle to cream priced thirty cents apart across regions.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "September's margin above feed was $8.35, the lowest since January, and it triggered Tier 1 payments",
+      "body": "USDA's Economic Research Service reports the Dairy Margin Coverage margin above feed cost for September 2026 at $8.35 per hundredweight, $2.52 below September 2025 and 99 cents below August. That is the lowest margin since January, and the second month running below the $9.50 Tier 1 coverage level, which triggered payments at that level. The all-milk price averaged $19.50, down 90 cents year over year, while DMC feed costs rose $1.62 to $11.15 per hundredweight on higher prices for every feed component in the calculation.",
+      "why": "A margin that triggers is real money, and two consecutive trigger months mean the program is now paying rather than sitting idle, which changes the arithmetic on whether to lock in the six-year DMC election before the December 18 deadline. It also says where the squeeze came from: milk gave up 90 cents while feed took $1.62, so the loss is on the cost side even though the milk price headline is what gets quoted.",
+      "url": "https://www.ers.usda.gov/media/30379/ldp-m-389.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Inputs",
+      "headline": "A self-fed protein block is recalled after 22 cattle deaths from excess urea",
+      "body": "FDA published a recall on November 20 for one lot of Crystalyx HE-20%, a 200 pound low-moisture block for beef cattle and bison, after the manufacturer found levels of non-protein nitrogen from urea high enough to kill cattle. The company reports 22 deaths to date. Only lot RBO00112695, item number 3915, is affected, and it went to distributors in Arkansas, Missouri and Oklahoma. The company says it tested for total crude protein and non-protein nitrogen after the first customer complaint, found elevated non-protein nitrogen, halted distribution, and is still investigating the cause.",
+      "why": "Urea toxicity moves fast: FDA says signs can appear 20 minutes to four hours after exposure and progress to convulsions and death within about two hours. Any self-fed block or tub in a dry lot, a heifer pen or a pasture group is an unsupervised feeding system, so the practical response is to pull lot numbers on blocks already in the yard rather than wait to see whether a distributor calls.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ridley-block-operations-recalls-batch-crystalyxrhe-20-beef-cattle-and-bison-due-excess-levels-non",
+      "source_name": "the FDA"
+    },
+    {
+      "section": "Markets",
+      "headline": "Managed money holds 570 long contracts against 10,838 short across the five dairy futures, and zero longs in butter",
+      "body": "The CFTC's disaggregated commitments of traders report for positions held November 17 shows managed money net short in all five CME dairy contracts. In Class III milk the funds hold 199 long against 6,063 short, 18.2 percent of the 33,312 contract open interest on the short side and 0.6 percent on the long side. In butter they hold no long contracts at all against 793 short, and in dry whey no longs against 98 short. Cheese is 298 long against 3,060 short, and nonfat dry milk, the one market up sharply this year, is 73 long against 824 short. Only 88 traders hold reportable Class III positions.",
+      "why": "The speculative side of the market is positioned almost entirely for lower prices, including in the powder contract that has nearly doubled inside the federal order formula this year. That cuts two ways for anyone hedging: a crowded short is the setup for a sharp short-covering rally that would hurt a producer who sold forward at these levels, and it is also a reminder that the funds, who are not buying milk, are the counterparty quoting your floor.",
+      "url": "https://www.cftc.gov/dea/futures/ag_lf.htm",
+      "source_name": "the CFTC"
+    },
+    {
+      "section": "Supply",
+      "headline": "October dairy cow slaughter fell 3.6% from last year, and the year is still running 3.1% ahead",
+      "body": "USDA's November 19 Livestock Slaughter report puts October dairy cow slaughter under federal inspection at 234.3 thousand head, down from 243.0 thousand in October 2025 and slightly below September's 234.8 thousand. For January through October the total is 2,256.1 thousand head against 2,188.9 thousand a year ago. Dairy cows were 9.6 percent of all cattle slaughtered in October, against 9.4 percent a year earlier, and 9.9 percent year to date against 8.9 percent. Beef cow slaughter went the other way, falling to 188.1 thousand head in October from 215.2 thousand, and is down 13.9 percent year to date.",
+      "why": "Culling slowed in the month the herd was still adding cows, which means the expansion is being fed by retention as much as by heifers, and USDA's own outlook names tight replacement supply, high replacement prices and beef-on-dairy calf returns as the reasons cows are staying. The share figures are the part worth watching: with beef cow slaughter down 14 percent, dairy is supplying a rising share of the cow kill, so the cull and calf checks propping up budgets depend on a packer bid that dairy itself is increasingly setting.",
+      "url": "https://esmis.nal.usda.gov/sites/default/release-files/796152/lstk1126.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Policy",
+      "headline": "A federal model change just repriced dairy manure gas, worth about $15 million a year at one operator",
+      "body": "Gevo told the SEC on November 19 that an independent third party validated an improved carbon intensity score for its renewable natural gas business after the Department of Energy updated the 45ZCF-GREET model in September 2026 to give greater recognition to methane avoidance. The company says the updated score should add about $15 million to annual renewable natural gas economics, against the more than $10 million previously estimated, and it raised its 2026 adjusted EBITDA outlook to more than $95 million and 2027 to more than $75 million. Gevo says the business was built to capture dairy manure biogas and upgrade it to renewable natural gas with a deeply negative carbon intensity score, and that it expects to sell the incremental Section 45Z credits from 2026 production under existing agreements.",
+      "why": "The value of manure under a digester contract is set by a federal model, not by a buyer, and that model moved in September in a direction that pays more for avoided methane. If your manure is under contract to a digester developer, the uplift landed on their side of the ledger first, which is the argument for reading the escalator and credit-sharing language before the next renewal rather than after.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1392380/000162828026074966/gevo_rngxcixscorex2027xout.htm",
+      "source_name": "the SEC"
+    },
+    {
+      "section": "Milk price",
+      "headline": "Eastern churns are paying up to 1.52 times for cream while the West pays 1.20",
+      "body": "USDA's November 16 to 20 Dairy Market News puts the Northeast all-classes cream multiple at 1.3000 to 1.5200, equal to $1.6263 to $1.9015 per pound of butterfat, against a Western range of 1.1600 to 1.2000, or $1.4512 to $1.5012. The Midwest sits between at 1.2500 to 1.4500. USDA reports cream availability tightening nationwide, no spot cream being offered in California, Mountain region cream available but held back by freight costs, and Eastern contacts sourcing cream from outside the region with some gaps at butter churns. Condensed skim remains hard to source in the East, where Class II condensed skim trades 10 to 20 cents over Class II, while Idaho processors report more readily available supply and are offering long-term contracts tied to purchases of other commodities.",
+      "why": "The same pound of butterfat is worth about 30 cents more in the East than in the West this week, and that gap is not a quality difference, it is freight and holiday demand. For a dairy whose components get allocated across a plant's Class II, III and IV streams, where the cream goes determines what the fat earns, and the condensed skim shortage in the East is the same story on the solids-not-fat side.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Inventories",
+      "headline": "Cheese in cold storage rose 4% in two weeks while butter drew down 3%",
+      "body": "The cold storage line in USDA's weekly dairy report shows cheese holdings rising from 79,441 on November 1 to 82,241 on November 16, a gain of 2,800 or 4 percent, while butter fell from 44,777 to 43,270, a drop of 1,507 or 3 percent. Over the same stretch USDA reports ample supplies of 40 pound cheddar blocks with high inventories and readily available spot loads, blocks closing at $1.5625 on November 20, and mozzarella inventories tight with production unable to keep pace with demand.",
+      "why": "Cheese accumulating in warehouses through the first half of November is the wrong direction for the season, and it is happening in blocks specifically while mozzarella runs short, which tells you the surplus is varietal rather than general. Butter drawing down at the same time is the normal holiday pattern, so the divergence is the signal: the Class III side is building inventory it will have to clear in the new year.",
+      "url": "https://www.ams.usda.gov/mnreports/dywweeklyreport.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Trade",
+      "headline": "Britain imported 30.3% more skim milk powder through September, and 14% less whey",
+      "body": "USDA's International Dairy Market News reports that United Kingdom dairy imports rose across most product categories through the first three quarters of 2026, with skim milk powder up 30.3 percent, the largest growth of any category, and cheese imports up 4.3 percent. Whey was the only category to fall, down 14 percent. UK exports also rose over the same period, with cheese up 15.9 percent and whole milk powder up 45.5 percent, while liquid milk, cream and whey product exports declined.",
+      "why": "A net-importing market pulling in a third more skim powder while European milk output keeps falling is new competition for the same powder tonnage that has been holding up the nonfat side of US milk checks. The whey figure points the other way: Britain is buying 14 percent less of it, which matters for the other solids line at a time when the high-protein whey market has started to cool.",
+      "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
+      "source_name": "USDA"
+    }
+  ]
+}
