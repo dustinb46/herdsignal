@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-24",
+  "intro": "Cheese gave ground again while the rest of the day was written by governments: a third Washington county with bird flu, heavier milk trucks in Pennsylvania, a vetoed ingredient law in New York. Underneath it all, USDA now carries 2.3 billion more pounds of milk into 2027 than it did a month ago.",
+  "items": [
+    {
+      "section": "Animal health",
+      "headline": "Washington's H5N1 outbreak reaches a third county and a 44th herd",
+      "body": "The state posted a confirmation dated 11/23/2026 in a Grant County dairy herd, its first there. The 2026 table now lists 44 infected dairy herds in Washington: 41 in Yakima, 2 in Benton and 1 in Grant, with the Yakima cluster built over seven confirmation dates between October 8 and November 7.",
+      "why": "Grant County sits north of the Yakima cluster and is a different milkshed, so this is the first evidence the virus has moved past the original basin. If your milk, cattle, feed trucks or relief crews cross that line, the 30-day isolation and no-shared-equipment advice is now about your route, not someone else's.",
+      "url": "https://agr.wa.gov/departments/animals-livestock-and-pets/avian-health/avian-influenza/hpai-(h5n1)-in-cattle-producer-resources",
+      "source_name": "the Washington State Department of Agriculture"
+    },
+    {
+      "section": "Markets",
+      "headline": "Blocks fell to $1.50 on Monday and barrels stayed 10 cents above them",
+      "body": "Forty-pound cheddar blocks closed down 6.25 cents at $1.50 on a single sale, while barrels closed unchanged at $1.60 with no sales. Butter lost a cent to $1.26, nonfat dry milk added half a cent to $2.07 on five sales, and dry whey held at $0.92.",
+      "why": "The barrel-over-block inversion has now run for weeks, and it is the blocks that set the tone for Class III cheese value. A $1.50 block with powder above $2.00 keeps the Class III and Class IV spread wide, which means your mailbox price depends more on which plant takes your milk than on the market as a whole.",
+      "url": "https://brownfieldagnews.com/news/dairy-prices-mostly-lower-as-cheese-blocks-drop-6-cents-monday/",
+      "source_name": "Brownfield Ag News"
+    },
+    {
+      "section": "Policy",
+      "headline": "Pennsylvania signed heavier milk trucks into law, effective in 60 days",
+      "body": "Act 119 of 2026 was announced on November 23. With a permit, a six-axle milk truck may now gross 107,000 pounds and a seven-axle configuration 117,000 pounds. The existing 95,000-pound five-axle limit stays. The release ties the change to a $1.2 billion yogurt plant investment in the Lehigh Valley and cites an estimate of 20% fewer daily truckloads.",
+      "why": "Hauling is one of the few costs on a milk check that a statute can move. A state that lets a load carry more pounds per trip lowers the per-hundredweight stop charge for every farm on that route, and it widens the gap with neighboring states that have not moved.",
+      "url": "https://www.pasenategop.com/news/new-law-allows-pennsylvania-dairy-farmers-to-transport-more-milk/",
+      "source_name": "the Pennsylvania Senate Republicans"
+    },
+    {
+      "section": "Trade",
+      "headline": "A new report puts the EU dairy imbalance at 55 cents to $1.10 per hundredweight",
+      "body": "A Texas A&M Agricultural and Food Policy Center report dated November 23 estimates the displaced demand in the transatlantic dairy deficit costs U.S. dairy farmers $0.55 to $1.10 per hundredweight, or $1.28 billion to $2.56 billion a year in farm-gate revenue. In 2025 the EU shipped $2.4 billion of dairy to the U.S. and bought $269 million back, and the two new U.S.-specific duty-free quotas opened under the 2025 framework total 20,000 metric tons a year.",
+      "why": "This is the first time the asymmetry has been priced in the unit your check is written in. It also sets the benchmark for what the framework has to deliver to matter: the report's cheese and butter parity scenario is worth $0.20 to $0.81 per hundredweight, not the full dollar.",
+      "url": "https://afpc.tamu.edu/research/publications/736/RR-26-2.pdf",
+      "source_name": "the Texas A&M Agricultural and Food Policy Center"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The largest exporter raised its payout forecast to NZ$10.10 on powder, not fat",
+      "body": "New Zealand's dominant cooperative lifted the midpoint of its 2026/27 forecast farmgate milk price from NZ$9.75 to NZ$10.10 per kilogram of milksolids on November 20, narrowing the range to NZ$9.60 to NZ$10.60. The release credits continued strength in whole and skim milk powder demand, led by China, offset by softening fat prices at recent auctions. The organic forecast was left unchanged.",
+      "why": "The lowest-cost exporter is signaling a strong payout built entirely on the powder side while fat weakens, the same split showing up in your own check. It also means New Zealand farmers have every incentive to keep milking hard through their peak, which is the supply your powder and cheese have to compete with into spring.",
+      "url": "https://www.fonterra.com/nz/en/our-stories/media/fonterra-increases-fy27-forecast-farmgate-milk-price.html",
+      "source_name": "Fonterra"
+    },
+    {
+      "section": "Supply",
+      "headline": "USDA added 2.3 billion pounds to its 2027 milk forecast in one month",
+      "body": "The November outlook forecasts 2027 milk production at 240.7 billion pounds, up 2.3 billion from the October forecast, with the 2027 herd raised 60,000 head to 9.770 million and yield up 90 pounds to 24,640 pounds per cow. The 2027 all-milk price forecast moved only 5 cents, to $20.50. USDA credits beef-on-dairy calf revenue with encouraging cow retention into 2027.",
+      "why": "A second straight year of expansion is now the official baseline, and the price forecast barely moved to absorb it. Anyone budgeting on a 2027 recovery driven by the herd finally shrinking is budgeting against USDA's own numbers.",
+      "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+      "source_name": "USDA Economic Research Service"
+    },
+    {
+      "section": "Policy",
+      "headline": "New York's governor vetoed the state GRAS disclosure and additive bill",
+      "body": "S1239, the food safety and chemical disclosure act, was vetoed on November 20 (veto memo 19). The bill would have banned certain food and color additives, required disclosure of substances treated as generally recognized as safe, and barred companies from citing FDA's safety recognition as a defense. The processors' trade association, which had asked for the veto, welcomed it on November 23 and pointed to FDA's own GRAS rulemaking instead.",
+      "why": "A state-level GRAS regime would have reached the stabilizers, cultures and colorants in cultured dairy and processed cheese, and compliance cost lands on the plant before it lands anywhere else. The sponsor has said she will reintroduce it, so the question is deferred rather than settled.",
+      "url": "https://www.nysenate.gov/legislation/bills/2025/S1239",
+      "source_name": "the New York State Senate"
+    },
+    {
+      "section": "Trade",
+      "headline": "Britain and the EU agreed to drop dairy border checks, from March 2028",
+      "body": "The UK government's summit explainer, updated November 20, sets out a common sanitary and phytosanitary area that applies from March 1, 2028. It removes export health certificates for Great Britain to EU trade, SPS border checks on dairy, fish and meat, and organic certificates of inspection, worth up to GBP 200 per export health certificate. In exchange the UK aligns dynamically with EU food safety and animal health rules.",
+      "why": "Britain is a buyer of U.S. cheese and whey, and from 2028 its cheapest route back to the continent reopens without paperwork. A U.K. importer choosing between an EU load with no certificate and a U.S. load with full documentation is a competitive change you cannot price yet, but can see coming.",
+      "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-explainer-sps-html",
+      "source_name": "GOV.UK"
+    }
+  ]
+}
