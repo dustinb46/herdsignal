@@ -1624,5 +1624,53 @@
     "headline": "Britain imported 30.3% more skim milk powder through September, and 14% less whey",
     "url": "https://www.ams.usda.gov/mnreports/dybdairyinternational.pdf",
     "topic": "trade"
+  },
+  {
+    "date": "2026-11-24",
+    "headline": "Blocks fell to $1.50 on Monday and barrels stayed 10 cents above them",
+    "url": "https://brownfieldagnews.com/news/dairy-prices-mostly-lower-as-cheese-blocks-drop-6-cents-monday/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-24",
+    "headline": "Pennsylvania signed heavier milk trucks into law, effective in 60 days",
+    "url": "https://www.pasenategop.com/news/new-law-allows-pennsylvania-dairy-farmers-to-transport-more-milk/",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-24",
+    "headline": "A new report puts the EU dairy imbalance at 55 cents to $1.10 per hundredweight",
+    "url": "https://afpc.tamu.edu/research/publications/736/RR-26-2.pdf",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-24",
+    "headline": "The largest exporter raised its payout forecast to NZ$10.10 on powder, not fat",
+    "url": "https://www.fonterra.com/nz/en/our-stories/media/fonterra-increases-fy27-forecast-farmgate-milk-price.html",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-24",
+    "headline": "New York's governor vetoed the state GRAS disclosure and additive bill",
+    "url": "https://www.nysenate.gov/legislation/bills/2025/S1239",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-24",
+    "headline": "Britain and the EU agreed to drop dairy border checks, from March 2028",
+    "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-explainer-sps-html",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-24",
+    "headline": "Washington's H5N1 outbreak reaches a third county and a 44th herd",
+    "url": "https://agr.wa.gov/departments/animals-livestock-and-pets/avian-health/avian-influenza/hpai-(h5n1)-in-cattle-producer-resources",
+    "topic": "animal health"
+  },
+  {
+    "date": "2026-11-24",
+    "headline": "USDA added 2.3 billion pounds to its 2027 milk forecast in one month",
+    "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+    "topic": "supply"
   }
 ]
