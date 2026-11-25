@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-25",
+  "intro": "October's farm milk price jumped 10.8 percent in a single month and almost none of it reached the retail case, where USDA still has dairy prices down for the year. The consumption tables released the same week say where the money is actually going: record dairy solids per person, the least dairy fat since 2018, and a powder market that handed back 7 cents on Tuesday.",
+  "items": [
+    {
+      "section": "Milk price",
+      "headline": "Farm milk prices jumped 10.8% in a month, and USDA still has the year down 5.3%",
+      "body": "USDA's Economic Research Service updated its Food Price Outlook on November 24 with October data. Farm-level milk prices rose 10.8 percent from September to October, yet October still came in 0.4 percent below October 2025, and the full-year 2026 forecast is a 5.3 percent decline with a range of -7.4 to -2.7 percent. Retail dairy prices moved 0.6 percent over the same month and are forecast to fall 0.1 percent for the year, while all food rises 2.9 percent.",
+      "why": "A double-digit one-month move at the farm gate is not a trend, and the agency that keeps the series is still booking 2026 as a down year, so budget off the forecast rather than off the October print.",
+      "url": "https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+      "source_name": "USDA's Economic Research Service"
+    },
+    {
+      "section": "Markets",
+      "headline": "Nonfat dry milk lost 7 cents in one session, on thirteen loads",
+      "body": "At Tuesday's CME spot call, nonfat dry milk closed at $2.00 per pound, down 7 cents, with thirteen sales. Butter slipped 1.5 cents to $1.2450, barrels eased half a cent to $1.5950, blocks added a penny to $1.51, and dry whey held at 92 cents with no sales reported.",
+      "why": "Powder has set the Class I mover ten months running and it prices Class IV, so a 7-cent day backed by thirteen trades is the kind of move that carries into the survey price and the milk check.",
+      "url": "https://brownfieldagnews.com/news/nonfat-dry-milk-drops-7-cents-tuesday-at-cme/",
+      "source_name": "Brownfield Ag News"
+    },
+    {
+      "section": "Demand",
+      "headline": "Americans ate record dairy solids in 2025 and the least dairy fat since 2018",
+      "body": "ERS refreshed its per-capita dairy consumption tables on November 19. On a skim-solids basis, per-person use of all dairy products reached 549.2 pounds in 2025, the highest in the fifteen years the series covers and 26.4 pounds above 2023. On a milk-fat basis it fell for a second straight year, to 644.0 pounds, the lowest reading since 2018.",
+      "why": "The two halves of your check are being pulled apart at the plate and not just on the board, and a market that wants solids more than fat keeps protein and other solids firm while butterfat stays cheap.",
+      "url": "https://www.ers.usda.gov/data-products/dairy-data",
+      "source_name": "USDA's Economic Research Service"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Diesel came off another 24 cents, and the gap to last year has closed 43 cents in two weeks",
+      "body": "EIA put the national on-highway diesel average at $5.695 a gallon for November 23, down 24.2 cents in a week and 59.7 cents over three weeks. The Midwest fell 29.6 cents to $5.671 and California fell 29.7 cents to $7.436. The national price now runs $1.864 above a year ago, against $2.29 two weeks ago.",
+      "why": "Hauling, feed delivery and custom work all price off this number, so a 60-cent slide in three weeks is worth reopening freight and custom-work quotes instead of carrying the fall rate into winter.",
+      "url": "https://www.eia.gov/petroleum/gasdiesel/",
+      "source_name": "the Energy Information Administration"
+    },
+    {
+      "section": "Demand",
+      "headline": "Cottage cheese per person is the highest since 2005, and fluid milk set another low",
+      "body": "The same ERS tables put cottage cheese at 2.611 pounds per person in 2025, up 11 percent in a year and the most since 2005. Yogurt other than frozen hit a series record 15.637 pounds, cheese other than American type a record 23.784 pounds, and the cheese category as a whole a record 42.4 pounds. Fluid beverage milk fell again, to 125.3 pounds from 127.0.",
+      "why": "Every pound of that growth is a cultured or cheese plant buying milk instead of a bottler, which is why Class III and Class IV capacity keeps getting built while fluid routes keep shrinking.",
+      "url": "https://www.ers.usda.gov/data-products/dairy-data",
+      "source_name": "USDA's Economic Research Service"
+    },
+    {
+      "section": "Trade",
+      "headline": "British cheese exports rose 16.6% while the country's total dairy exports fell 29.6%",
+      "body": "AHDB's third-quarter trade review, published November 19, put UK dairy exports at 249,300 tonnes, down 29.6 percent year on year, and at £471 million, down 15 percent. Cheese was the exception, with volume up 16.6 percent, or 8,400 tonnes, though cheese export value fell 2.6 percent. Milk and cream shipments dropped 103,400 tonnes, whey fell 30.8 percent, and the EU took 110,000 tonnes less, a 35 percent cut.",
+      "why": "Britain is adding cheese volume while retreating from powders, whey and bulk milk, so US sellers will meet more British cheddar and less British whey in the same export tenders.",
+      "url": "https://ahdb.org.uk/news/q3-2026-dairy-trade-review-cheese-exports-remain-the-jewel-in-the-crown",
+      "source_name": "AHDB"
+    },
+    {
+      "section": "Policy",
+      "headline": "EPA is ending the 2005 air agreement that covered nearly 14,000 livestock farms",
+      "body": "EPA said on October 30 that it will not finalize the emission estimating methodologies built on the National Air Emissions Monitoring Study, and that its enforcement office will work to terminate the 2005 Animal Feeding Operations Consent Agreement and Final Order. About 2,600 operations representing nearly 14,000 farms signed that agreement. The agency said the 2005 to 2007 monitoring data are too old and too limited, and reflect barn designs, herd sizes and manure practices that no longer match how many farms operate.",
+      "why": "The calculators that would have told a dairy whether its ammonia and hydrogen sulfide releases crossed a federal reporting threshold are not coming, and the signatories' obligations under that agreement are being wound up with it.",
+      "url": "https://www.epa.gov/newsreleases/trump-epa-brings-closure-20-year-old-agreement-ending-decades-long-uncertainty",
+      "source_name": "the EPA"
+    },
+    {
+      "section": "Technology",
+      "headline": "A virtual fencing grazing plan matched the conventional one on milk, and only steadied rumen pH",
+      "body": "In a five-week New Zealand trial published November 24, four groups of 62 early-lactation cows on 17 kg of pasture dry matter a day were run either on a virtual-fence regime that front-loaded 65 percent of the daily allocation into the evening, or on a conventional half-after-each-milking split. There was no evidence of a difference in milk yield, milk composition, daily behaviour or pasture eaten. The one significant effect was less cow-to-cow variation in daily mean rumen pH.",
+      "why": "Collar-based fencing can earn its keep on labour and paddock control, but this trial says do not underwrite the purchase with a milk response.",
+      "url": "https://doi.org/10.1080/00480169.2026.2758859",
+      "source_name": "the New Zealand Veterinary Journal"
+    }
+  ]
+}
