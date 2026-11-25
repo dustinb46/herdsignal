@@ -1672,5 +1672,53 @@
     "headline": "USDA added 2.3 billion pounds to its 2027 milk forecast in one month",
     "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
     "topic": "supply"
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "Farm milk prices jumped 10.8% in a month, and USDA still has the year down 5.3%",
+    "url": "https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+    "topic": "milk price"
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "Nonfat dry milk lost 7 cents in one session, on thirteen loads",
+    "url": "https://brownfieldagnews.com/news/nonfat-dry-milk-drops-7-cents-tuesday-at-cme/",
+    "topic": "markets"
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "Americans ate record dairy solids in 2025 and the least dairy fat since 2018",
+    "url": "https://www.ers.usda.gov/data-products/dairy-data",
+    "topic": "demand"
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "Diesel came off another 24 cents, and the gap to last year has closed 43 cents in two weeks",
+    "url": "https://www.eia.gov/petroleum/gasdiesel/",
+    "topic": "inputs"
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "Cottage cheese per person is the highest since 2005, and fluid milk set another low",
+    "url": "https://www.ers.usda.gov/data-products/dairy-data",
+    "topic": "demand"
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "British cheese exports rose 16.6% while the country's total dairy exports fell 29.6%",
+    "url": "https://ahdb.org.uk/news/q3-2026-dairy-trade-review-cheese-exports-remain-the-jewel-in-the-crown",
+    "topic": "trade"
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "EPA is ending the 2005 air agreement that covered nearly 14,000 livestock farms",
+    "url": "https://www.epa.gov/newsreleases/trump-epa-brings-closure-20-year-old-agreement-ending-decades-long-uncertainty",
+    "topic": "policy"
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "A virtual fencing grazing plan matched the conventional one on milk, and only steadied rumen pH",
+    "url": "https://doi.org/10.1080/00480169.2026.2758859",
+    "topic": "technology"
   }
 ]
