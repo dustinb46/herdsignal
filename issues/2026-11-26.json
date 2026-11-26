@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-26",
+  "intro": "The fat side of the milk check is sitting under a pile of inventory: butter in cold storage drew down 7 percent in October and still finished 20 percent above a year ago. The solids side is holding, but the weekly survey that prices cheddar has turned down, and the holiday week came with a stack of federal deadlines rather than a quiet calendar.",
+  "items": [
+    {
+      "section": "Inventories",
+      "headline": "Butter stocks drew down 7% in October and still ended 20% above last year",
+      "body": "USDA put butter in refrigerated warehouses at 275.4 million pounds on October 31, down 7 percent from September but up 20 percent from October 31, 2025. The year-ago gap was 16 percent in the September report, so the holiday draw took product out of store and widened the surplus against last year anyway.",
+      "why": "Butterfat is the half of your check with no scarcity story behind it right now. A fifth more butter in store than last year is what a buyer sees when deciding whether to bid for cream in January, and it is the number that has to come down before the butterfat factor recovers.",
+      "url": "https://esmis.nal.usda.gov/sites/default/release-files/796164/cost1126.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Inventories",
+      "headline": "The cheese pile is not growing, it is changing shape: American down 3%, everything else up 5%",
+      "body": "Total natural cheese stocks were 1.388 billion pounds on October 31, up only slightly from a year ago. Underneath that flat total, American cheese fell to 778.5 million pounds, down 3 percent year over year, while the other category rose 5 percent to 587.6 million pounds, within 3 percent of its all-time record of 603.9 million set in 2023.",
+      "why": "The cheddar and American block inventory that backs Class III is thinning while mozzarella and the rest build toward a record. That split is the mechanism behind a firm cheddar survey price, and it is also the reason a cheese rally built on American stocks can run further than the headline total suggests.",
+      "url": "https://esmis.nal.usda.gov/sites/default/release-files/796164/cost1126.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Milk price",
+      "headline": "The cheddar survey price turned down for the first time in a month, on the thinnest week of volume",
+      "body": "In Wednesday's National Dairy Products Sales Report, the 40-pound block cheddar price for the week ending November 21 fell 1.8 cents to $1.6956 per pound, after four straight weekly gains that carried it from $1.4179 to $1.7137. Volume behind the price was 8.8 million pounds, down 26 percent from the prior week and the lowest of the five weeks shown. Butter averaged $1.3293 (up 0.3 cents), dry whey 75.68 cents (up 0.3 cents), and nonfat dry milk $2.0606 (down 2.4 cents).",
+      "why": "These four weekly surveys, not the spot board, are the numbers that go into the federal order formulas, so November's protein and other solids prices come off exactly this series. The run of increases that lifted your cheese check has stopped, and it stopped on the lightest trading week in more than a month.",
+      "url": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Policy",
+      "headline": "USDA has still not decided whether livestock is in the $8 billion fuel relief program",
+      "body": "USDA Under Secretary Richard Fordyce said the department is still considering livestock for the Harvest Fuel Relief Program and that all of those decisions are not made as to who is in. Title I crops such as corn and soybeans go first, with those payments expected to reach farmers starting in early January. USDA says it may add other sectors if it gets the data and can work out a national payment rate.",
+      "why": "Dairy burns diesel every day of the year, not for six weeks at harvest, and the program as announced pays on crop acres. If your feed ground is enrolled with FSA you will see something through Title I, but a per-hundredweight rate on milk marketed is still only a request, and the window to put fuel-cost data in front of USDA is now.",
+      "url": "https://www.profarmer.com/news/agriculture-news/will-livestock-and-hay-producers-get-usda-fuel-relief-payments-heres-what-usda-says",
+      "source_name": "Pro Farmer"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Screwworm reaches the bottom of the Rio Grande Valley, and the quarantine zone is now four counties",
+      "body": "The Texas Animal Health Commission notified Cameron County on November 24 of its first New World screwworm case, in a bovine, three days after cases were announced in neighboring Hidalgo County. Cameron was placed in Infested Zone 45.A alongside Hidalgo, Kenedy and Willacy counties. Hidalgo County stands at three cases.",
+      "why": "Inside an infested zone no warm-blooded animal leaves without prior authorization from the commission, which means inspection, treatment and a permit or certificate issued by a commission representative before a load moves. For an operation in the zone that is a hold on culls, springers and bull calves, and unauthorized movement carries administrative penalties or prosecution.",
+      "url": "https://www.cameroncountytx.gov/texas-animal-health-commission-detects-first-case-of-new-world-screwworm-in-cameron-county/",
+      "source_name": "Cameron County"
+    },
+    {
+      "section": "Animal health",
+      "headline": "FDA gives the compounded animal drug rewrite another 90 days, to February 25",
+      "body": "FDA extended the comment period on draft guidance #256B to February 25, 2027, after requests for more time. The draft would extend its enforcement discretion policy for compounding animal drugs from bulk substances to outsourcing facilities registered under section 503B and to federally registered drug manufacturers, where the existing final guidance covered only veterinarians and pharmacists in state-licensed pharmacies and federal facilities. The discretion applies only when no other medically appropriate treatment exists, and it does not waive CGMP requirements.",
+      "why": "Compounded products fill the gaps in the dairy pharmacy where no approved label exists, and who is legally allowed to make them at scale decides whether your veterinarian can source a consistent, quality-controlled version or a one-off. The comment window is now open into late February, which is the only point at which bovine practice gets a say.",
+      "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23995/compounding-animal-drugs-from-bulk-drug-substances-compounding-under-cgmp-in-federally-registered",
+      "source_name": "the Federal Register"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Swapping sulfate trace minerals for hydroxychloride bought 1.1 kg of energy-corrected milk a day, and blood work would not show it",
+      "body": "A meta-analysis of 7 randomized experiments, covering 283 cows and 518 experimental units, compared hydroxychloride and sulfate sources of copper, manganese and zinc in lactating cow diets. Energy-corrected milk yield rose 1.1 plus or minus 0.5 kilograms per day on hydroxychloride, and net energy secreted as milk rose 0.76 plus or minus 0.39 megacalories per day. Milk, fat and true protein yields tended to increase. Dry matter intake, feed efficiency, body weight, body condition and energy balance were unchanged, as were serum copper, manganese and zinc.",
+      "why": "This is a line-item substitution in the mineral pack with no intake or body condition cost attached, and the response showed up in energy out rather than in the cow. The serum result is the operational warning: if you switch sources and then check blood minerals to see whether it worked, the test will tell you nothing, and the bulk tank is the only place the effect appears.",
+      "url": "https://doi.org/10.3168/jds.2026-28932",
+      "source_name": "the Journal of Dairy Science"
+    },
+    {
+      "section": "Policy",
+      "headline": "The farmland foreign-ownership rewrite reopens for comment, and the window closes December 11",
+      "body": "USDA reopened the comment period on its proposed overhaul of the Agricultural Foreign Investment Disclosure Act regulations, first published June 25. Comments are now due December 11, 2026. The proposal would move disclosures to electronic submission with an internet database, revise reporting requirements, expand the scope and depth of what must be reported, and strengthen enforcement.",
+      "why": "AFIDA filing is an obligation that attaches to land, not to farming, so it reaches any operation where a foreign person holds an interest in the real estate or where ground is leased to or from one. Expanded scope plus strengthened enforcement means a reporting miss that used to be quiet gets expensive, and this is the last stretch to say so on the record.",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24143/agricultural-foreign-investment-disclosure-act-of-1978",
+      "source_name": "the Federal Register"
+    }
+  ]
+}
