@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-27",
+  "intro": "The paperwork side of the business is the story this week: a cybersecurity incident took USDA's farm loan and conservation payment systems down during sign-up season, and the only screwworm drug cleared for a lactating cow is cleared under an emergency authorization rather than an approval. In the market, the holiday shut down enough plants that Midwest spot milk is being offered under Class again for the first time in months.",
+  "items": [
+    {
+      "section": "Policy",
+      "headline": "A cybersecurity incident took USDA's farm loan and payment systems offline during sign-up season",
+      "body": "USDA's Cybersecurity and Privacy Operations Center found a security incident the week of November 16, and the Information Services Division reset database passwords across all environments, which forced application resets and knocked numerous USDA systems offline for days. Farm Service Agency loan software went down, along with the Natural Resources Conservation Service's ProTracts system, which releases payments, and its Service Desk mapping software. Under Secretary Richard Fordyce said no personally identifiable information was involved and no data was lost, and that USDA will not extend the December 11 ARC and PLC deadline: producers who contact their FSA office and attempt their elections before that date will be covered through a register.",
+      "why": "Every program that pays you runs through those systems, and the December sign-up windows are still open on them. The register that Fordyce described protects you only if you make the contact and have it logged, so the defensive move is to call the county office now, get your attempt documented in writing, and keep your own copy of anything you submit until you see it confirmed.",
+      "url": "https://farmpolicynews.illinois.edu/2026/11/cyberattack-hit-usda-last-week-impacting-payment-systems/",
+      "source_name": "Farm Policy News"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Of the 19 screwworm drug clearances FDA has issued, exactly one covers a lactating cow",
+      "body": "As of November 3, FDA had issued 16 Emergency Use Authorizations and 3 conditional approvals for New World screwworm animal drugs. The only clearance that covers lactating dairy cows is the Dectomax (doramectin) EUA published August 31, which extends to lactating cows, dry cows and replacement heifers 20 months of age and older, excluding calves processed for veal. The conditional approval version, Dectomax-CA1, is not for female dairy cattle 20 months or older except under the terms of that EUA. The other two cattle EUAs, Ivomec and Bimectin, both exclude female dairy cattle producing milk for human consumption.",
+      "why": "The quarantine zones now reach into dairy country in south Texas, so this is the list your veterinarian is working from if a case shows up in your string. Treating a milking cow puts you inside a single emergency authorization rather than a label, which means the withdrawal and milk discard conditions come from the EUA fact sheet and letter of authorization, not the bottle, and FDA puts the duty to know them on the prescribing veterinarian.",
+      "url": "https://www.fda.gov/animal-veterinary/safety-health/new-world-screwworm-information-veterinarians",
+      "source_name": "FDA"
+    },
+    {
+      "section": "Markets",
+      "headline": "Midwest spot milk is being offered at $1.00 under Class again, after weeks of nothing but premiums",
+      "body": "USDA's Central region cheese report for the week of November 23 put Class III spot milk at $1.00-under to $3.00-over Class, with market participants attributing the lower end to the holiday. A week earlier the range ran from flat to $3.00-over, and two weeks before that the top reached $5.00-over. Upper Midwest milk supplies are steady while the southern part of the region stays tight, and the report ties the loosening to holiday plant downtime.",
+      "why": "The bottom of that range is the number that tells you whether a plant has to pay to keep its vats full or can pick and choose. It has not been negative since the fall run-up started, and a discounted load this week is a sign the shutdown, not the supply, created the slack. Watch whether the under-Class offers survive into the first full production week of December, because that is the difference between a holiday artifact and a turn in the basis.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1083.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Inventories",
+      "headline": "Butter in the selected storage centers is down 21% since November 1, and the cheese pile there is up 8%",
+      "body": "USDA's weekly cold storage series put butter at the selected storage centers at 35.435 million pounds on November 23, down from 44.777 million on November 1, a gross draw of 9.342 million pounds or 21 percent. Cheese at the same centers rose from 79.441 million to 85.766 million pounds, up 8 percent. Two weeks earlier the same series showed butter down only 3 percent for the month to date.",
+      "why": "This is the fastest-moving read you get on the fat surplus, and the draw has gone from 3 percent to 21 percent in two weeks while the monthly report still has butter 20 percent above a year ago. Fat has to leave store before the butterfat factor stops dragging on your check, and this is the first series showing it leaving at a real pace. The cheese build on the other side is the reason the Western reports call that market bearish while blocks climb.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1095.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Trade",
+      "headline": "The 14 markets in USTR's new tariff proposals took $2.7 billion of U.S. dairy last year",
+      "body": "On November 25 the Office of the U.S. Trade Representative proposed new tariffs on imports from 14 trading partners, including China, the European Union and Japan, following Section 301 investigations into structural excess manufacturing capacity. The U.S. exported $2.7 billion in dairy products to those same 14 markets in 2025. The International Dairy Foods Association's Becky Rasdall Vargas urged the administration to avoid steps that could raise costs for U.S. dairy manufacturers or expose U.S. dairy exports to retaliation, and cited more than $15 billion in processor investment planned or underway through 2030 across 23 states.",
+      "why": "Nothing has taken effect, and the proposals are out for public comment before any action, which is the window that matters. The exposure for a dairy operation is not the import duty, it is the answer: retaliation lands on exported cheese, powder and whey, and those are the legs that have carried your milk price this year. The processor build-out being cited is also what is bidding for your milk, and it was underwritten on export math.",
+      "url": "https://www.idfa.org/news/idfa-statement-on-ustrs-proposed-section-301-tariffs",
+      "source_name": "IDFA"
+    },
+    {
+      "section": "Demand",
+      "headline": "Cheese plants are running on the whey return, not on cheese demand",
+      "body": "USDA's Western cheese report for the week of November 23 calls the cheese market bearish and says milk is being directed toward Class III manufacturing to keep cheese plants fully supplied because the whey stream provides attractive returns, with inventories continuing to build. In the East, plants have plenty of milk, excess is moving to balancing plants to make powder, contacts report no exports, and sales are behind a year earlier. Elevated freight costs are limiting additional export opportunities even where demand exists.",
+      "why": "If the co-product is what justifies the vat, your Class III check is leaning on other solids rather than on protein, and the bid for your milk is only as durable as the whey complex behind it. Dry whey did not move off 92 cents in any of the three sessions the exchange was open this week. A flat whey market plus cheese sales behind last year is the combination that takes the premium out of spot milk.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1085.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Processing",
+      "headline": "A European whey plant is being rebuilt to take whey out of animal feed and put it in protein drinks",
+      "body": "Arla Foods' board approved a 95 million euro investment at Arla Foods Ingredients' Felinfach site in Wales, announced November 26. The project adds a 5,100 square metre production building plus processing equipment and utilities to expand whey protein isolate output, including the grades used in clear protein drinks, and will convert whey streams currently sold into animal feed into ingredients for human consumption. Completion is set for the third quarter of 2029. Arla picked up the site in 2024 with Volac's Whey Nutrition business.",
+      "why": "Whey protein isolate is the product pulling the whole whey complex, and that is the part of your Class III check that has been doing the work. Another seller at scale in 2029 is a long way off, but the part that is not is the feed-to-food conversion: every tonne of whey permeate and low-grade whey that gets upgraded for human consumption is a tonne that stops competing in the feed market you buy from.",
+      "url": "https://www.foodbev.com/news/arla-foods-ingredients-invests-95m-in-welsh-whey-protein-facility",
+      "source_name": "FoodBev Media"
+    }
+  ]
+}
