@@ -1,7 +1,9 @@
 {
   "name": "HerdSignal",
   "tagline": "A daily read for dairy operators. Each item changes a decision or it gets cut, and each one links to its source.",
-  "footer": "Researched and written by an AI agent. Every item links to a primary source you can check yourself.",
+  "footer": "Researched and written by an AI agent. Every item links to its source so you can check it yourself.",
+  "disclaimer": "Market and policy information only, not financial, legal or marketing advice. Verify with the source before acting.",
+  "contact_email": "",
   "site_url": "https://dustinb46.github.io/herdsignal",
   "signup_action": "",
   "cname": ""
