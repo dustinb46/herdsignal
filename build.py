@@ -5,13 +5,17 @@ Reads config.json and issues/YYYY-MM-DD.json, writes the public site to docs/
 (GitHub Pages: deploy from branch, folder /docs). Standard library only.
 
 Usage: python3 build.py
+       python3 build.py --check-repeats   (report repeat stories across all issues; builds nothing)
 The build refuses to publish operator QA text, redirect-wrapped links,
-tracking-tailed links, or items with missing fields.
+tracking-tailed links, or items with missing fields. It drops items that repeat a story
+from the previous 30 days (see drop_repeats) and stops if that leaves the newest issue empty.
 """
 import datetime as dt
+import difflib
 import html
 import json
 import pathlib
+import re
 import sys
 from email.utils import format_datetime
 
@@ -20,6 +24,17 @@ OUT = ROOT / "docs"
 REQUIRED = ("section", "headline", "body", "why", "url", "source_name")
 BANNED_TEXT = ("OPERATOR QA", "DELETE BEFORE SEND", "{{")
 BANNED_URL = ("google.com/url", "utm_", "source=gmail")
+
+# Repeat-story filter. Issues dated on or after REPEATS_FROM have items that repeat a story
+# from the previous REPEAT_WINDOW_DAYS dropped at build time. The issue files are not
+# changed. Earlier issues render as they were first published.
+REPEATS_FROM = dt.date(2026, 11, 27)
+REPEAT_WINDOW_DAYS = 30
+HEADLINE_SIMILARITY = 0.70   # difflib ratio on normalized headlines
+FIGURE_SHARE = 0.5           # share of the new item's figures already in the earlier item
+TOPIC_OVERLAP = 0.25         # content-word overlap that counts as "same topic"
+BODY_TOPIC_OVERLAP = 0.40    # stricter overlap when only the body figures match
+BODY_FIGURE_SHARE = 0.6      # share of figures repeated when the headline has none
 
 CSS = """
 :root{--bg:#F6F8F9;--ink:#1D2830;--soft:#55646E;--rule:#D3DADF;--tag:#F4C52B;--link:#2A6A3C;
@@ -59,6 +74,7 @@ font:700 .85rem/1.15 var(--display);padding:.5rem .7rem .5rem 1.7rem;border-radi
 .archive li{display:grid;grid-template-columns:9.5rem 1fr;gap:0 1.5rem;padding:.7rem 0;border-bottom:1px solid var(--rule)}
 .archive time{font:600 1rem/1.6 var(--display);color:var(--soft)}
 footer{margin-top:3rem;color:var(--soft);font-size:.95rem;max-width:38rem}
+footer .disclaimer{font-size:.8rem;line-height:1.45;margin-top:1rem}
 @media (max-width:40rem){.item,.archive li{grid-template-columns:1fr}.item .tag{margin-bottom:.8rem}.signup input{min-width:0;flex:1}}
 """
 
@@ -108,6 +124,151 @@ def load_issues():
     return sorted(issues, key=lambda i: i["day"], reverse=True)
 
 
+# ---------------------------------------------------------------- repeat-story filter
+
+STOPWORDS = set("""
+a an the and or but of to in on at for from by with as is are was were be been being it its this that
+these those than then now just still has have had not no up down over under into out off more most less
+only all any each per one two three week weeks year years month months day days new first last same
+while after before about who what which when where why how your you our their they them he she we us
+also can will would may says said get got make made since through again another other some such very
+much many usda dairy milk
+""".split())
+ORDINALS = set("""second third fourth fifth sixth seventh eighth ninth tenth eleventh twelfth
+thirteenth fourteenth fifteenth sixteenth seventeenth eighteenth nineteenth twentieth""".split())
+MONEY_RE = re.compile(r"((?:NZ|A|C|US)?\$)\s?(\d[\d,]*(?:\.\d+)?)\s*(million|billion|trillion)?", re.I)
+CENTS_RE = re.compile(r"(\d+(?:\.\d+)?)[\s-]*cents?\b", re.I)
+PCT_RE = re.compile(r"(\d+(?:\.\d+)?)\s*(?:%|percent\b|per cent\b)", re.I)
+NUMBER_RE = re.compile(r"\d[\d,]*(?:\.\d+)?")
+
+
+def _num(s):
+    return ("%.4f" % float(s.replace(",", ""))).rstrip("0").rstrip(".")
+
+
+def key_figures(text):
+    """Dollar amounts (cents converted to dollars) and percentages, normalized."""
+    out = set()
+    for cur, n, mag in MONEY_RE.findall(text):
+        out.add(cur.upper() + _num(n) + (" " + mag.lower() if mag else ""))
+    for n in CENTS_RE.findall(text):
+        out.add("$" + _num(str(float(n) / 100)))
+    for n in PCT_RE.findall(text):
+        out.add(_num(n) + "%")
+    return out
+
+
+def _stem(w):
+    for suf in ("ings", "ing", "ies", "es", "ed", "s"):
+        if w.endswith(suf) and len(w) - len(suf) >= 4:
+            return w[:-len(suf)] + ("y" if suf == "ies" else "")
+    return w
+
+
+def content_words(text):
+    return {_stem(w) for w in re.findall(r"[a-z][a-z0-9\-]+", text.lower())
+            if w not in STOPWORDS and len(w) > 2}
+
+
+def numbers_in(text):
+    """Every number (years aside) and ordinal word, for the 'headline brings a new number' guard."""
+    found = {_num(n) for n in NUMBER_RE.findall(text) if not re.fullmatch(r"(19|20)\d\d", n)}
+    return found | (set(re.findall(r"[a-z]+", text.lower())) & ORDINALS)
+
+
+def fingerprint(item):
+    head, full = item["headline"], item["headline"] + " " + item["body"]
+    return {
+        "norm": " ".join(re.findall(r"[a-z0-9]+(?:\.[0-9]+)?", head.lower())),
+        "head_figs": key_figures(head),
+        "all_figs": key_figures(full),
+        "head_nums": numbers_in(head),
+        "all_nums": numbers_in(full),
+        "words": content_words(full),
+    }
+
+
+def repeat_reason(new, old):
+    """Why `new` repeats `old`, or None. Both are fingerprints."""
+    # 1. Headline closely matches, and the new headline brings no number the earlier
+    #    item did not already have ("44th herd" vs "40 herds" is new, not a repeat).
+    ratio = difflib.SequenceMatcher(None, new["norm"], old["norm"]).ratio()
+    if ratio >= HEADLINE_SIMILARITY and new["head_nums"] <= old["all_nums"]:
+        return f"headline {ratio:.0%} similar"
+    words = len(new["words"] & old["words"]) / max(1, min(len(new["words"]), len(old["words"])))
+    if words < TOPIC_OVERLAP:
+        return None
+    shared = new["all_figs"] & old["all_figs"]
+    share = len(shared) / max(1, len(new["all_figs"]))
+    # 2. Same lead figures: every dollar/percent figure in the new headline was already reported,
+    #    at least one of them in the earlier headline, and most of the new item's figures too.
+    if (new["head_figs"] and new["head_figs"] <= old["all_figs"] and new["head_figs"] & old["head_figs"]
+            and share >= FIGURE_SHARE):
+        return "same figures " + ", ".join(sorted(new["head_figs"]))
+    # 3. No figure in the headline, but the body repeats the earlier item's numbers on a
+    #    closely matching topic (stricter, so a new angle that recaps old prices survives).
+    if (not new["head_figs"] and len(shared) >= 3 and share >= BODY_FIGURE_SHARE and words >= BODY_TOPIC_OVERLAP
+            and new["head_nums"] <= old["all_nums"]):
+        return "same figures " + ", ".join(sorted(shared)[:4])
+    return None
+
+
+def find_repeats(issue, issues):
+    """Return [(item_index, earlier_issue, earlier_item_index, reason)] for one issue."""
+    start = issue["day"] - dt.timedelta(days=REPEAT_WINDOW_DAYS)
+    earlier = [(i, n, fingerprint(it)) for i in issues if start <= i["day"] < issue["day"]
+               for n, it in enumerate(i["source_items"])]
+    hits = []
+    for n, item in enumerate(issue["source_items"]):
+        fp = fingerprint(item)
+        for old_issue, old_n, old_fp in sorted(earlier, key=lambda x: x[0]["day"], reverse=True):
+            reason = repeat_reason(fp, old_fp)
+            if reason:
+                hits.append((n, old_issue, old_n, reason))
+                break
+    return hits
+
+
+def drop_repeats(issues):
+    """Drop repeat items from issues dated on or after REPEATS_FROM. Issue files are untouched."""
+    for issue in issues:
+        issue["source_items"] = list(issue["items"])
+    newest = issues[0]
+    for issue in issues:
+        if issue["day"] < REPEATS_FROM and issue is not newest:
+            continue
+        hits = find_repeats(issue, issues)
+        if not hits:
+            continue
+        for n, old_issue, old_n, reason in hits:
+            print(f"repeat dropped: {issue['date']} item {n + 1} \"{issue['source_items'][n]['headline']}\" "
+                  f"matches {old_issue['date']} item {old_n + 1} \"{old_issue['source_items'][old_n]['headline']}\" "
+                  f"({reason})")
+        dropped = {n for n, *_ in hits}
+        kept = [it for n, it in enumerate(issue["source_items"]) if n not in dropped]
+        if not kept:
+            if issue is newest:
+                fail(f"every item in {issue['date']} repeats a story from the last {REPEAT_WINDOW_DAYS} days.")
+            print(f"note: every item in {issue['date']} matched an earlier story; keeping it as published")
+            continue
+        issue["items"] = kept
+
+
+def check_repeats():
+    """Report mode: run the repeat check on every issue, as if each were the newest. Builds nothing."""
+    issues = load_issues()
+    for issue in issues:
+        issue["source_items"] = list(issue["items"])
+    total = 0
+    for issue in sorted(issues, key=lambda i: i["day"]):
+        for n, old_issue, old_n, reason in find_repeats(issue, issues):
+            total += 1
+            print(f"{issue['date']} #{n + 1}  {issue['source_items'][n]['headline']}\n"
+                  f"    matches {old_issue['date']} #{old_n + 1}  {old_issue['source_items'][old_n]['headline']}\n"
+                  f"    ({reason})")
+    print(f"{total} item(s) would be dropped as repeats")
+
+
 def long_date(day):
     return f"{day:%A, %B} {day.day}, {day.year}"
 
@@ -147,12 +308,23 @@ def page(cfg, title, desc, body, prefix, path):
             f'<meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}">'
             f'<meta property="og:type" content="article">{og_url}{feed}{FONTS}'
             f'<style>{CSS}</style></head><body><div class="page">{body}'
-            f'<footer><p>{e(cfg["footer"])}</p></footer></div></body></html>')
+            f'{footer(cfg)}</div></body></html>')
+
+
+def footer(cfg):
+    out = f'<footer><p>{e(cfg["footer"])}</p>'
+    email = cfg.get("contact_email", "").strip()
+    if email:
+        out += f'<p>Questions or corrections: <a href="mailto:{e(email)}">{e(email)}</a></p>'
+    if cfg.get("disclaimer", "").strip():
+        out += f'<p class="disclaimer">{e(cfg["disclaimer"].strip())}</p>'
+    return out + '</footer>'
 
 
 def build():
     cfg = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
     issues = load_issues()
+    drop_repeats(issues)
     (OUT / "issues").mkdir(parents=True, exist_ok=True)
     (OUT / ".nojekyll").write_text("")
     if cfg.get("cname"):
@@ -181,6 +353,7 @@ def build():
 
     site = cfg.get("site_url", "").rstrip("/")
     if site:
+        channel_desc = " ".join(s for s in (cfg["tagline"], cfg.get("disclaimer", "").strip()) if s)
         items = "".join(
             f'<item><title>{e(long_date(i["day"]))}: {e(i["items"][0]["headline"])}</title>'
             f'<link>{e(site)}/issues/{i["date"]}.html</link>'
@@ -190,9 +363,12 @@ def build():
         (OUT / "feed.xml").write_text(
             '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel>'
             f'<title>{e(cfg["name"])}</title><link>{e(site)}/</link>'
-            f'<description>{e(cfg["tagline"])}</description>{items}</channel></rss>', encoding="utf-8")
+            f'<description>{e(channel_desc)}</description>{items}</channel></rss>', encoding="utf-8")
     print(f"built {len(issues)} issue(s); latest {latest['date']}")
 
 
 if __name__ == "__main__":
-    build()
+    if "--check-repeats" in sys.argv[1:]:
+        check_repeats()
+    else:
+        build()

@@ -57,6 +57,19 @@ Rules:
 - Capture the **canonical URL only**: https, no tracking parameters, no redirect wrapper.
 - Check each candidate against the exclusion set before keeping it.
 
+**Read the last 30 days of issues before writing.** Open every file in `issues/` dated in
+the 30 days before today and read the headlines and bodies, not just the ledger. Skip any
+story already covered there, even under a different headline, a different section, or a
+different source link. USDA AMS weekly reports reuse the same PDF link every week, so a
+matching link does not make a story old, and a new link does not make it new: judge by
+the event and the numbers. Run a story again only if there is a genuinely new number or
+development (a new weekly price, a revised forecast, a final rule replacing a proposal).
+When you do, the headline must say what changed, for example "Spot milk premium narrows
+to $3.00 over Class, from $5.00", not a restatement of the earlier headline. Restating a
+figure an earlier issue already led with is a repeat. The build drops repeats it detects
+and prints them in the workflow log, and stops if every item in the issue is a repeat, so
+a repeat costs a slot in the brief.
+
 Volume: target 6 to 10 items. Quality gates volume. If a slow day yields four real items,
 produce four. Limit generalized or background items to one per run.
 
@@ -99,7 +112,7 @@ write a second one unless you are correcting it.
    - whether the push succeeded, and the branch name;
    - items considered vs. kept;
    - every item dropped and the one-line reason;
-   - dedup collisions caught;
+   - dedup collisions caught, and any "repeat dropped" lines `build.py` printed;
    - any figure you could confirm only partially, flagged by item;
    - how many past editions were backfilled this run and how many remain.
 
