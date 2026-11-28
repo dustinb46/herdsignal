@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-28",
+  "intro": "A holiday-shortened week left its mark on the physical market: plant downtime freed up cream in the Midwest and pushed multiples to 1.05, while Western processors quietly steered milk toward Class III and kept their cream for themselves. Off the market, the calendar is the bigger story, because the one safety net decision that still needs a signature closes December 18.",
+  "items": [
+    {
+      "section": "Policy",
+      "headline": "A multi-year Dairy Margin Coverage election does not enroll you, and the window closes December 18",
+      "body": "USDA reminded producers on November 25 that the 2027 Dairy Margin Coverage signup, open since October 5, ends December 18, 2026. Coverage levels run from $4.00 to $9.50 per hundredweight, with a catastrophic level carrying no premium and a $100 annual administrative fee. The release spells out a step that is easy to miss: producers who elected the multi-year option for 2026 through 2031 must still certify that they commercially market milk, sign a contract, and pay the $100 fee for each program year to keep the coverage and the 25% premium discount.",
+      "why": "A locked-in multi-year election is not a standing order. Skip the annual signature and the fee and the coverage lapses for the year, in a season when September's margin above feed was already low enough to pay out, and when USDA's own loan and payment systems spent part of November offline.",
+      "url": "https://www.fsa.usda.gov/news-events/news/11-25-2026/usda-reminds-producers-fast-approaching-december-deadlines-enroll-1",
+      "source_name": "USDA's Farm Service Agency"
+    },
+    {
+      "section": "Animal health",
+      "headline": "The botulism hay cube recall has grown to 400 tons, and goats have now been affected",
+      "body": "FDA posted an expanded recall on November 27 covering three products from one Utah cuber, up from the single product recalled on November 10. The additions are 2nd Crop Mini A- Grade Hay Cubes sold November 2 to 17 (up to 16 tons) and 3rd Crop Mini 3-way Mix Hay Cubes sold October 3 to 31 (up to 96 tons), alongside the original 3rd Crop Mini A Grade lot of up to 288 tons. One of the added products was pulled only because it was stored near the recalled lot. State officials have since received reports of illnesses and deaths in horses and goats across southern Utah, Nevada and Arizona, and the cause is still unconfirmed.",
+      "why": "The first recall looked like a horse problem confined to one product. Ruminants are now in the reports, the implicated window runs from early October into mid-November, and the product moved in 1,500 pound totes and in bulk, which is how purchased forage reaches a dry lot or a heifer yard rather than a horse barn.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/laubs-feeding-cubing-inc-expands-recall-grade-mini-hay-cubes-and-mini-3-way-mix-hay-cubes-because",
+      "source_name": "the FDA"
+    },
+    {
+      "section": "Milk price",
+      "headline": "Midwest cream fell to 1.05 times butterfat, and USDA says holiday downtime did it",
+      "body": "Cream in the Midwest traded at multiples of 1.0500 to 1.2500 for all classes in the week ending November 27, worth $1.3314 to $1.5850 per pound of butterfat, with Class II cream at 1.1000 to 1.2500. USDA attributes the move directly to the calendar: reduced production schedules increased cream availability, which pulled multiples down. Butter plants ran through the week anyway.",
+      "why": "A 1.05 multiple means butterfat changed hands at barely more than its class value, so anyone who had cream to move this week took the discount, and a plant that contracted cream forward at a higher multiple is carrying the difference. It also tells you where the butterfat is going, because cheap cream going into churns and not into Class II is how butter inventory rebuilds.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1100.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Processing",
+      "headline": "Western plants are choosing cheese over powder, and keeping their cream off the spot market",
+      "body": "In the week ending November 27, USDA reports that available Western milk is being directed primarily toward Class III manufacturing rather than Class IV, as processors seek higher-value returns. Cream in the West is firmer than contacts expected for the season, at multiples of 1.1500 to 1.2000, and stakeholders say available cream is being retained for internal manufacturing needs rather than offered on the spot market. Condensed skim availability improved, with more loads around, though demand for it stayed strong.",
+      "why": "When Western plants would rather make cheese than powder, the milk that would normally become nonfat dry milk and butter does not show up, which is a supply signal for both. For a producer shipping into a Class IV plant, it is also a reminder that the plant's own class mix, not just your component test, decides what your milk is worth to it this month.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1102.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Soybean meal gained $6.70 on Friday while December Class III added 21 cents",
+      "body": "December soybean meal closed at $366.30 per ton on November 27, up $6.70 for the session, and December corn finished at $4.46 and three quarters, up 7 cents. January soybeans added 22 and a quarter cents to $12.66 and a quarter. December Class III milk closed the same day at $17.33, up 21 cents.",
+      "why": "A $6.70 move in meal is roughly the protein cost of a lactating ration moving against you in one session, and a 21 cent gain in the milk contract does not cover it. If you are buying meal hand to mouth into December, this is the week the market stopped helping, and diesel coming off its highs earlier in the month does not offset a protein bill.",
+      "url": "https://brownfieldagnews.com/news/closing-grain-and-livestock-futures-november-27-2026/",
+      "source_name": "Brownfield Ag News"
+    },
+    {
+      "section": "Markets",
+      "headline": "Whey protein concentrate 34% is sold out through year end at several plants, and buyers are substituting away",
+      "body": "USDA reports WPC 34% at $2.4000 to $3.2000 per pound in the week ending November 27, with the bottom of the mostly series pushing higher to a $2.7500 to $3.0000 range. Spot inventories are tight and several manufacturers are sold out through the end of the year. Some buyers say the price and the scarcity are pushing them toward alternative dry dairy products. Production stays limited because processors keep steering whey streams into higher-protein products, where WPC 80% demand is light, warehouse inventories are growing, and some loads cleared in the high $6s.",
+      "why": "This is the whey complex pulling apart at both ends. The low-protein product your plant can make from an ordinary cheese vat is the one in short supply and carrying the price, while the high-protein product everyone built for is backing up in the warehouse. If your cheese plant's whey return has been holding up the milk check, that return is now coming from 34% and not from the 80% line.",
+      "url": "https://www.ams.usda.gov/mnreports/ams_1053.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Milk check",
+      "headline": "The whey price that pays your other solids has moved 2.4 cents in five weeks",
+      "body": "The National Dairy Products Sales Report put dry whey at 75.68 cents per pound for the week ending November 21, up 0.3 cents, on 7,255,754 pounds. Across the five surveys back to late October the price has run 73.73, 73.25, 73.54, 75.41 and 75.68 cents, a total range of 2.4 cents. USDA's own CME report has spot dry whey closing unchanged at 92 cents on each of the three sessions this week.",
+      "why": "The survey, not the board, is what sets the other solids price in your Class III check. The 16 cent gap between the two is a reminder that a spot whey rally reaches your milk check slowly, partially, and only through contracts that have already been priced, so budgeting next quarter's other solids off the exchange will overstate it.",
+      "url": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf",
+      "source_name": "USDA"
+    },
+    {
+      "section": "Animal health",
+      "headline": "Washington's H5N1 came in on a truck from Idaho, and the state says wild birds are not moving it between herds",
+      "body": "Announcing a confirmed H5N1 detection in a Grant County dairy herd on November 23, Washington's agriculture department said USDA's genetic analysis found the strain is consistent with a virus introduced from Idaho through cattle movement. The department added that the virus has spread cow to cow between herds and that wild birds are not believed to be the source of transmission between Washington dairies.",
+      "why": "That shifts where the risk sits. If the virus is traveling in cattle and then moving herd to herd, the controls that matter are incoming animal testing, quarantine on arrivals, and shared equipment and personnel, not bird netting and pond management. It is also the clearest official statement yet that a clean state can be seeded by a single purchase.",
+      "url": "https://content.govdelivery.com/accounts/WAAGR/bulletins/433ceec",
+      "source_name": "the Washington State Department of Agriculture"
+    },
+    {
+      "section": "Inputs",
+      "headline": "Drought widened across six Midwest dairy states in the map released this week",
+      "body": "The U.S. Drought Monitor map released November 25, valid November 24, shows drought expanding across portions of Wisconsin, Illinois, Michigan, Indiana, Ohio, Kentucky and Missouri. Precipitation over the past 30 to 60 days ran 2 to 8 inches below normal across much of that area, and NASA soil moisture maps from November 23 showed extremely low soil moisture percentiles in parts of southeastern Wisconsin, Missouri, Illinois, Indiana, Michigan, Ohio and Kentucky.",
+      "why": "Alfalfa going dormant into dry subsoil is the setup for winterkill and a short first cutting, and this is happening in the states that grow the Upper Midwest's forage rather than in the drought regions already in the news. If you are buying hay or booking spring seeding, assume next year's local supply is a question rather than an assumption.",
+      "url": "https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?Midwest",
+      "source_name": "the U.S. Drought Monitor"
+    }
+  ]
+}
